@@ -1,0 +1,3 @@
+- `comment_crawler.py`: 대댓글 없이, 그냥 댓글만 가져옴
+- `comment_crawler_youtube_api.py`: 댓글, 대댓글 다 가져옴 (YouTube API 사용)
+    - 이걸 쓰려면 `YOUTUBE_API_KEY` 환경변수 설정 필요 (.env에 있음. gitignore인 상태)
