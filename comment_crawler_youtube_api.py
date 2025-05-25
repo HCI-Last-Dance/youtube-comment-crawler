@@ -102,7 +102,6 @@ def get_replies(parent_comment_id):
     response = requests.get(url, params=params).json()
     for item in response.get("items", []):
         r = item["snippet"]
-        tab, cluster = assign_tab_and_cluster()
         reply = {
             "comment_id": item["id"],
             "author_id": r.get("authorChannelId", {}).get("value", ""),
@@ -113,8 +112,6 @@ def get_replies(parent_comment_id):
             "like_count": r.get("likeCount", 0), # 일단 우리 구현에서는 필요없지만, 혹시나 해서 넣어놓음
             "reactions": generate_random_reactions(),
             "time_taken_to_write": random.randint(1, 1800), # 초 단위 (1초 ~ 30분)
-            "tab": tab,
-            "cluster": cluster,
             "manipulated": is_manipulated()
         }
         replies.append(reply)
