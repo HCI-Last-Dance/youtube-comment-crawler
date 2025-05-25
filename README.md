@@ -4,12 +4,14 @@
 - `comment_crawler.py`: 대댓글 없이, 그냥 댓글만 가져옴
 - `comment_crawler_youtube_api.py`: 댓글, 대댓글 다 가져옴 (YouTube API 사용) <- 이걸 추천!!!
     - 이걸 쓰려면 `YOUTUBE_API_KEY` 환경변수 설정 필요 (.env에 넣기, 발급은 google cloud console에서)
+- `divite_tab.py`: 댓글을 tab별로 나누어 저장 (information.json, opinion.json, question.json)
 
 ## 실행 방법
 1. `requirements.txt`에 있는 패키지 설치
 2. `.env` 파일 생성 후, `YOUTUBE_API_KEY` 환경변수 설정
 3. `comment_crawler_youtube_api.py`에 video URL 확인 (혹은 추가)
 3. `comment_crawler_youtube_api.py` 실행
+4. `divite_tab.py` 실행 (이건 댓글을 tab별로 나누어 저장하는 코드)
 
 ## 코드 조작
 - `comment_crawler_youtube_api.py`의 `__main__` 부분의 `video_urls` 리스트에 영상 URL을 추가해서 사용 가능
@@ -22,3 +24,4 @@
     - `tab`은 information, opinion, question 중 하나를 랜덤으로 선택
     - `cluster`는 tab이 opinion일 때만 support, oppose 중 하나를 랜덤으로 선택
     - `manipulated`는 90%의 확률로 조작X 필드로 추가, 10%의 확률로 조작O 필드로 추가
+- `divite_tab.py`는 `comments_with_replies` 폴더에 있는 댓글 파일들을 tab별로 나누어 저장함
