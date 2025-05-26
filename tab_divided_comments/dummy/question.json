@@ -1,0 +1,570 @@
+[
+    {
+        "comment_id": "question_real_0",
+        "author_id": "question_author_0",
+        "author_name": "@questionUser0",
+        "timestamp": "2025-05-26T17:00:00Z",
+        "content": "자유전공학부는 아무나 들어갈 수 있는 건가요?",
+        "reactions": {
+            "useful": 38,
+            "agree": 30,
+            "curious": 21,
+            "creative": 11,
+            "disagree": 6
+        },
+        "time_taken_to_write": 135,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_0.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_0.reply",
+                "author_id": "answer_author_aed01c95",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:30:00Z",
+                "content": "네, 대부분 학교는 제한 없이 지원 가능해요.",
+                "reactions": {
+                    "useful": 13,
+                    "agree": 19,
+                    "curious": 7,
+                    "creative": 9,
+                    "disagree": 0
+                },
+                "time_taken_to_write": 137,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_1",
+        "author_id": "question_author_1",
+        "author_name": "@questionUser1",
+        "timestamp": "2025-05-26T17:01:00Z",
+        "content": "수능 여러 번 보면 점수는 어떻게 처리하나요?",
+        "reactions": {
+            "useful": 24,
+            "agree": 38,
+            "curious": 51,
+            "creative": 9,
+            "disagree": 4
+        },
+        "time_taken_to_write": 161,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_1.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_1.reply",
+                "author_id": "answer_author_e94187ab",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:31:00Z",
+                "content": "외국 사례 보면 여러 번 중에서 제일 좋은 점수만 반영하는 경우가 많아요.",
+                "reactions": {
+                    "useful": 8,
+                    "agree": 16,
+                    "curious": 10,
+                    "creative": 10,
+                    "disagree": 1
+                },
+                "time_taken_to_write": 86,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_2",
+        "author_id": "question_author_2",
+        "author_name": "@questionUser2",
+        "timestamp": "2025-05-26T17:02:00Z",
+        "content": "전 고등학생인데 고등학교 때 진로 어떻게 정하는 게 좋을까요? 현 제도에서 고등학생이 진로를 탐색하고 결정하는건 너무 어려운 것 같아요 ㅜㅜ",
+        "reactions": {
+            "useful": 13,
+            "agree": 31,
+            "curious": 52,
+            "creative": 15,
+            "disagree": 0
+        },
+        "time_taken_to_write": 40,
+        "tab": [
+            "opinion",
+            "question"
+        ],
+        "cluster": "cluster_D",
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_2.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_2.reply",
+                "author_id": "answer_author_90280fc5",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:32:00Z",
+                "content": "진로 상담 프로그램 등 사실 제도적으로는 준비 잘 되어있습니다. 홍보가 잘 안되어있는게 좀 안타깝죠. 적극적으로 찾아보시면 좋을듯해요",
+                "reactions": {
+                    "useful": 11,
+                    "agree": 14,
+                    "curious": 0,
+                    "creative": 5,
+                    "disagree": 5
+                },
+                "time_taken_to_write": 70,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_3",
+        "author_id": "question_author_3",
+        "author_name": "@questionUser3",
+        "timestamp": "2025-05-26T17:03:00Z",
+        "content": "자유전공으로 의대도 갈 수 있나요?",
+        "reactions": {
+            "useful": 36,
+            "agree": 32,
+            "curious": 74,
+            "creative": 20,
+            "disagree": 6
+        },
+        "time_taken_to_write": 110,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_3.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_3.reply",
+                "author_id": "answer_author_db7f60fb",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:33:00Z",
+                "content": "자유전공은 보통 의대 진학은 막아놓죠. 안막아두면 다 의대 가려고 할텐데.",
+                "reactions": {
+                    "useful": 14,
+                    "agree": 8,
+                    "curious": 7,
+                    "creative": 2,
+                    "disagree": 1
+                },
+                "time_taken_to_write": 57,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_4",
+        "author_id": "question_author_4",
+        "author_name": "@questionUser4",
+        "timestamp": "2025-05-26T17:04:00Z",
+        "content": "자유전공이랑 복수전공이랑 뭐가 다른가요?",
+        "reactions": {
+            "useful": 40,
+            "agree": 38,
+            "curious": 85,
+            "creative": 6,
+            "disagree": 3
+        },
+        "time_taken_to_write": 100,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_4.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_4.reply",
+                "author_id": "answer_author_8db6bdac",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:34:00Z",
+                "content": "복수전공은 이미 전공이 정해진 상태에서 추가하는 거예요.",
+                "reactions": {
+                    "useful": 19,
+                    "agree": 18,
+                    "curious": 2,
+                    "creative": 5,
+                    "disagree": 2
+                },
+                "time_taken_to_write": 124,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_5",
+        "author_id": "question_author_5",
+        "author_name": "@questionUser5",
+        "timestamp": "2025-05-26T17:05:00Z",
+        "content": "수능을 여러 번 보면 응시료는 매번 내야할까요?",
+        "reactions": {
+            "useful": 7,
+            "agree": 3,
+            "curious": 54,
+            "creative": 8,
+            "disagree": 4
+        },
+        "time_taken_to_write": 135,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_5.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_5.reply",
+                "author_id": "answer_author_d5edadad",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:35:00Z",
+                "content": "응시료는 보통 회차마다 따로 내야 하죠. 외국 사례들 봐도.",
+                "reactions": {
+                    "useful": 6,
+                    "agree": 10,
+                    "curious": 6,
+                    "creative": 5,
+                    "disagree": 3
+                },
+                "time_taken_to_write": 95,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_9",
+        "author_id": "question_author_9",
+        "author_name": "@questionUser9",
+        "timestamp": "2025-05-26T17:09:00Z",
+        "content": "학생부 종합전형은 내신보다 뭘 더 보나요? 올해 고등학교 들어가는 아이 엄마인데 뭘 준비해야 할지 모르겠어요.",
+        "reactions": {
+            "useful": 3,
+            "agree": 16,
+            "curious": 46,
+            "creative": 12,
+            "disagree": 8
+        },
+        "time_taken_to_write": 176,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_9.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_9.reply",
+                "author_id": "answer_author_b688d5e4",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:39:00Z",
+                "content": "학생부종합은 내신뿐 아니라 활동, 태도 등도 중요해요. 공부뿐만 아니라 다양한 활동도 함께 준비하는 게 좋을듯요.",
+                "reactions": {
+                    "useful": 27,
+                    "agree": 21,
+                    "curious": 5,
+                    "creative": 7,
+                    "disagree": 2
+                },
+                "time_taken_to_write": 79,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_10",
+        "author_id": "question_author_10",
+        "author_name": "@questionUser10",
+        "timestamp": "2025-05-26T17:10:00Z",
+        "content": "수시랑 정시 병행하는 게 가능한가요? 저 학교다닐때는 수능 하나만 보기도 벅찼는데,,,",
+        "reactions": {
+            "useful": 32,
+            "agree": 21,
+            "curious": 54,
+            "creative": 15,
+            "disagree": 8
+        },
+        "time_taken_to_write": 109,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_10.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_10.reply",
+                "author_id": "answer_author_2871bc3f",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:40:00Z",
+                "content": "가능은 하지만 부담이 큰 것은 사실이져ㅜㅜ",
+                "reactions": {
+                    "useful": 10,
+                    "agree": 19,
+                    "curious": 5,
+                    "creative": 4,
+                    "disagree": 1
+                },
+                "time_taken_to_write": 125,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_11",
+        "author_id": "question_author_11",
+        "author_name": "@questionUser11",
+        "timestamp": "2025-05-26T17:11:00Z",
+        "content": "고등학교에서 자유전공 준비 어떻게 하나요? 수시로 진학하는거면 전공에 따라서 활동을 해야할 것 같은데 자유전공은 전공이 정해지지 않아서 어떤 활동을 해야할지 모르겠어요.",
+        "reactions": {
+            "useful": 12,
+            "agree": 12,
+            "curious": 46,
+            "creative": 13,
+            "disagree": 7
+        },
+        "time_taken_to_write": 107,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_11.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_11.reply",
+                "author_id": "answer_author_38093c95",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:41:00Z",
+                "content": "자유전공은 다양한 분야에 관심을 가지는 게 중요해요. 분야를 가리지 않고 여러 활동을 통해 폭넓은 경험을 쌓는 게 좋습니다.",
+                "reactions": {
+                    "useful": 30,
+                    "agree": 24,
+                    "curious": 6,
+                    "creative": 0,
+                    "disagree": 0
+                },
+                "time_taken_to_write": 143,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_12",
+        "author_id": "question_author_12",
+        "author_name": "@questionUser12",
+        "timestamp": "2025-05-26T17:12:00Z",
+        "content": "수능 성적 발표는 대략 언제쯤인가요?",
+        "reactions": {
+            "useful": 20,
+            "agree": 21,
+            "curious": 30,
+            "creative": 7,
+            "disagree": 5
+        },
+        "time_taken_to_write": 114,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_12.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_12.reply",
+                "author_id": "answer_author_50d74bf5",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:42:00Z",
+                "content": "수능 성적은 보통 12월 중순쯤 발표돼요.",
+                "reactions": {
+                    "useful": 7,
+                    "agree": 26,
+                    "curious": 10,
+                    "creative": 7,
+                    "disagree": 1
+                },
+                "time_taken_to_write": 144,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_13",
+        "author_id": "question_author_13",
+        "author_name": "@questionUser13",
+        "timestamp": "2025-05-26T17:13:00Z",
+        "content": "학종 준비는 1학년 때부터 해야 하나요?",
+        "reactions": {
+            "useful": 9,
+            "agree": 38,
+            "curious": 93,
+            "creative": 9,
+            "disagree": 0
+        },
+        "time_taken_to_write": 67,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_13.reply"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_13.reply",
+                "author_id": "answer_author_5bf67209",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:43:00Z",
+                "content": "일찍 준비할수록 유리하긴 하죠.",
+                "reactions": {
+                    "useful": 20,
+                    "agree": 29,
+                    "curious": 3,
+                    "creative": 6,
+                    "disagree": 2
+                },
+                "time_taken_to_write": 126,
+                "manipulated": false
+            }
+        ]
+    },
+    {
+        "comment_id": "question_real_20",
+        "author_id": "question_author_20",
+        "author_name": "@questionUser20",
+        "timestamp": "2025-05-26T17:20:00Z",
+        "content": "자유전공이면 전공 선택은 언제 확정되나요?",
+        "reactions": {
+            "useful": 31,
+            "agree": 11,
+            "curious": 69,
+            "creative": 20,
+            "disagree": 3
+        },
+        "time_taken_to_write": 93,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [],
+        "replies": []
+    },
+    {
+        "comment_id": "question_real_21",
+        "author_id": "question_author_21",
+        "author_name": "@questionUser21",
+        "timestamp": "2025-05-26T17:21:00Z",
+        "content": "자유전공학부는 어떤 전공들 갈 수 있나요?",
+        "reactions": {
+            "useful": 25,
+            "agree": 15,
+            "curious": 60,
+            "creative": 10,
+            "disagree": 2
+        },
+        "time_taken_to_write": 120,
+        "tab": [
+            "question"
+        ],
+        "cluster": null,
+        "manipulated": false,
+        "reply_ids": [],
+        "replies": []
+    },
+    {
+        "comment_id": "question_real_22",
+        "author_id": "question_author_22",
+        "author_name": "@questionUser22",
+        "timestamp": "2025-05-26T17:22:00Z",
+        "content": "자유전공 해봤자 다들 취업 잘되는 과로만 몰릴 것 같아서 개인적으로 반대긴 한데, 구체적 수치 아시는분?",
+        "reactions": {
+            "useful": 28,
+            "agree": 20,
+            "curious": 55,
+            "creative": 15,
+            "disagree": 4
+        },
+        "time_taken_to_write": 110,
+        "tab": [
+            "opinion",
+            "question"
+        ],
+        "cluster": "cluster_B",
+        "manipulated": false,
+        "reply_ids": [
+            "question_real_22.reply0",
+            "question_real_22.reply1"
+        ],
+        "replies": [
+            {
+                "comment_id": "question_real_22.reply0",
+                "author_id": "answer_author_1a2b3c4d",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:45:00Z",
+                "content": "구체적 수치는 모르는데, 우리 학교 자유전공학부는 죄다 컴퓨터공학 아니면 경제학이긴 함ㅋㅋ",
+                "reactions": {
+                    "useful": 15,
+                    "agree": 10,
+                    "curious": 5,
+                    "creative": 3,
+                    "disagree": 0
+                },
+                "time_taken_to_write": 120,
+                "manipulated": false
+            },
+            {
+                "comment_id": "question_real_22.reply1",
+                "author_id": "answer_author_5e6f7g8h",
+                "author_name": "@answerUser",
+                "author_profile_image": "",
+                "timestamp": "2025-05-26T17:46:00Z",
+                "content": "실제로 인기 있는 과로 몰리는 경향이 있죠.",
+                "reactions": {
+                    "useful": 20,
+                    "agree": 15,
+                    "curious": 10,
+                    "creative": 5,
+                    "disagree": 1
+                },
+                "time_taken_to_write": 130,
+                "manipulated": false
+            }
+        ]
+    }
+]
