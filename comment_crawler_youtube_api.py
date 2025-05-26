@@ -64,7 +64,6 @@ def get_top_level_comments(video_id, max_results=100):
                 "author_profile_image": c.get("authorProfileImageUrl"),
                 "timestamp": c.get("publishedAt"),
                 "content": c.get("textDisplay"),
-                "like_count": c.get("likeCount", 0), # 일단 우리 구현에서는 필요없지만, 혹시나 해서 넣어놓음
                 "reactions": generate_random_reactions(),
                 "time_taken_to_write": random.randint(1, 1800), # 초 단위 (1초 ~ 30분)
                 "tab": tab,
@@ -109,7 +108,6 @@ def get_replies(parent_comment_id):
             "author_profile_image": r.get("authorProfileImageUrl"),
             "timestamp": r.get("publishedAt"),
             "content": r.get("textDisplay"),
-            "like_count": r.get("likeCount", 0), # 일단 우리 구현에서는 필요없지만, 혹시나 해서 넣어놓음
             "reactions": generate_random_reactions(),
             "time_taken_to_write": random.randint(1, 1800), # 초 단위 (1초 ~ 30분)
             "manipulated": is_manipulated()
@@ -140,7 +138,18 @@ def save_to_json(data, filepath):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    video_urls = ["https://www.youtube.com/watch?v=fnCY6ysVkAg"] # 여기에 링크 추가해서 쓰기
+    video_urls = [ # 여기에 링크 추가해서 쓰기
+        "https://www.youtube.com/watch?v=fnCY6ysVkAg", # 수능 2번
+        "https://www.youtube.com/watch?v=vSqoBPWy074", # 댕댕이 식당 동반
+        "https://www.youtube.com/watch?v=FAbMP0m57tM", # 뉴진스
+        "https://www.youtube.com/watch?v=Bd-DEHwbyhI", # 대학 축제 연예인
+        "https://www.youtube.com/watch?v=AeUx8ltLhlI", # 지브리
+        "https://www.youtube.com/watch?v=e2jmfTpjG18", # 프랑스 결선투표제
+        "https://www.youtube.com/watch?v=f1aaiQCTAP8", # 청년 백수
+        "https://www.youtube.com/watch?v=7bdoq_zUvEs", # 칸예
+        "https://www.youtube.com/watch?v=UKI9h5dJ_T4" # 스마트기기
+    ]
+    
     for i, video_url in enumerate(video_urls, start=1):
         print(f"[INFO] Crawling comments for video: ({i}/{len(video_urls)}) {video_url}")
         comments = crawl_comments(video_url, max_top_comments=100)
