@@ -20,13 +20,13 @@ def divide_comments_by_tab(comments, tab):
     """Divide comments into tabs based on the specified tab."""
     divided_comments = []
     for comment in comments:
-        if comment.get('tab') == tab:
+        if tab in comment.get('tab', []):
             divided_comments.append(comment)
     return divided_comments
 
 if __name__ == "__main__":
     # Load comments from a JSON file
-    file_dir = "comments_with_replies"
+    file_dir = "dummy-data"
     files = files_in_directory(file_dir)
     for file in files:
         print(f"Processing file: {file}")
