@@ -98,7 +98,7 @@
                     "creative": 21,
                     "disagree": 99
                 },
-                "time_taken_to_write": 1620,
+                "time_taken_to_write": 843,
                 "manipulated": false
             },
             {
@@ -490,7 +490,7 @@
                     "disagree": 9
                 },
                 "time_taken_to_write": 822,
-                "manipulated": true
+                "manipulated": false
             },
             {
                 "comment_id": "UgxHm8YQNS3N7RWzLmp4AaABAg.AGtSQrC0yNGAGtoXFNScg7",
@@ -523,7 +523,7 @@
                     "creative": 74,
                     "disagree": 94
                 },
-                "time_taken_to_write": 1119,
+                "time_taken_to_write": 612,
                 "manipulated": false
             },
             {
@@ -591,7 +591,7 @@
                     "creative": 49,
                     "disagree": 69
                 },
-                "time_taken_to_write": 1276,
+                "time_taken_to_write": 3,
                 "manipulated": false
             },
             {
@@ -660,7 +660,7 @@
                     "disagree": 3
                 },
                 "time_taken_to_write": 457,
-                "manipulated": true
+                "manipulated": false
             },
             {
                 "comment_id": "UgxHm8YQNS3N7RWzLmp4AaABAg.AGtSQrC0yNGAGveXffkddt",
@@ -1198,7 +1198,7 @@
                     "creative": 66,
                     "disagree": 6
                 },
-                "time_taken_to_write": 1546,
+                "time_taken_to_write": 212,
                 "manipulated": false
             },
             {
@@ -1334,7 +1334,7 @@
                     "creative": 8,
                     "disagree": 18
                 },
-                "time_taken_to_write": 1777,
+                "time_taken_to_write": 184,
                 "manipulated": false
             },
             {
@@ -1369,7 +1369,7 @@
                     "disagree": 31
                 },
                 "time_taken_to_write": 1329,
-                "manipulated": true
+                "manipulated": false
             },
             {
                 "comment_id": "UgzavHjQN5qt-Mu3Ha14AaABAg.AGtQSh-OgvEAGuYGp0embu",
@@ -1385,7 +1385,7 @@
                     "creative": 91,
                     "disagree": 88
                 },
-                "time_taken_to_write": 966,
+                "time_taken_to_write": 221,
                 "manipulated": false
             },
             {
@@ -1453,7 +1453,7 @@
                     "creative": 21,
                     "disagree": 96
                 },
-                "time_taken_to_write": 1405,
+                "time_taken_to_write": 1123,
                 "manipulated": false
             }
         ]
@@ -1472,7 +1472,7 @@
             "creative": 87,
             "disagree": 18
         },
-        "time_taken_to_write": 611,
+        "time_taken_to_write": 3,
         "tab": [
             "information",
             "opinion"
@@ -1518,7 +1518,7 @@
                     "creative": 0,
                     "disagree": 72
                 },
-                "time_taken_to_write": 268,
+                "time_taken_to_write": 23,
                 "manipulated": false
             },
             {
@@ -1536,7 +1536,7 @@
                     "disagree": 5
                 },
                 "time_taken_to_write": 81,
-                "manipulated": true
+                "manipulated": false
             },
             {
                 "comment_id": "UgwYmLon-f0yt_qsgX94AaABAg.AGtVAkxjI9ZAGtgRGKS7ZV",
@@ -1672,7 +1672,7 @@
                     "disagree": 87
                 },
                 "time_taken_to_write": 487,
-                "manipulated": true
+                "manipulated": false
             },
             {
                 "comment_id": "UgwYmLon-f0yt_qsgX94AaABAg.AGtVAkxjI9ZAGtvJpANpAc",
@@ -1722,8 +1722,8 @@
                     "creative": 63,
                     "disagree": 74
                 },
-                "time_taken_to_write": 1195,
-                "manipulated": true
+                "time_taken_to_write": 124,
+                "manipulated": false
             },
             {
                 "comment_id": "UgwYmLon-f0yt_qsgX94AaABAg.AGtVAkxjI9ZAGuFr3WeAbU",
@@ -1790,8 +1790,8 @@
                     "creative": 62,
                     "disagree": 76
                 },
-                "time_taken_to_write": 255,
-                "manipulated": false
+                "time_taken_to_write": 0,
+                "manipulated": true
             },
             {
                 "comment_id": "UgwYmLon-f0yt_qsgX94AaABAg.AGtVAkxjI9ZAGumeDqf5PD",
@@ -1808,7 +1808,7 @@
                     "disagree": 83
                 },
                 "time_taken_to_write": 1132,
-                "manipulated": true
+                "manipulated": false
             },
             {
                 "comment_id": "UgwYmLon-f0yt_qsgX94AaABAg.AGtVAkxjI9ZAGyK6B08jlk",
