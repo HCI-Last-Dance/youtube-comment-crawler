@@ -12658,7 +12658,7 @@
     "comment_id": "dummy_B0",
     "author_id": "dummy_author_B0",
     "author_name": "@user_B0",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:00:00Z",
     "content": "개혁이 아니라 혼란만 가중될 거예요. 현실을 생각하고 말을 해야지",
     "reactions": {
@@ -12681,7 +12681,7 @@
     "comment_id": "dummy_B1",
     "author_id": "dummy_author_B1",
     "author_name": "@user_B1",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:05:00Z",
     "content": "교수 1년에 네번씩 가둬놓고 문제 출제? 니들이 할거 아니면 조용히 하셈.",
     "reactions": {
@@ -12704,7 +12704,7 @@
     "comment_id": "dummy_B2",
     "author_id": "dummy_author_B2",
     "author_name": "@user_B2",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:10:00Z",
     "content": "학습 공백, 교사 업무량 증가도 고려해야죠.",
     "reactions": {
@@ -12727,7 +12727,7 @@
     "comment_id": "dummy_B3",
     "author_id": "dummy_author_B3",
     "author_name": "@user_B3",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:15:00Z",
     "content": "시험 난이도 조절 실패하면 대혼란일 듯.",
     "reactions": {
@@ -12750,7 +12750,7 @@
     "comment_id": "dummy_B4",
     "author_id": "dummy_author_B4",
     "author_name": "@user_B4",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:20:00Z",
     "content": "이런 안은 현실을 모르는 사람들이 만든 듯.",
     "reactions": {
@@ -12773,7 +12773,7 @@
     "comment_id": "dummy_B5",
     "author_id": "dummy_author_B5",
     "author_name": "@user_B5",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:25:00Z",
     "content": "예전에 수능 두 번 했다가 망한 전례가 있어요.",
     "reactions": {
@@ -12796,7 +12796,7 @@
     "comment_id": "dummy_B6",
     "author_id": "dummy_author_B6",
     "author_name": "@user_B6",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:30:00Z",
     "content": "어차피 또 상위권만 유리해지는 구조죠.",
     "reactions": {
@@ -12823,7 +12823,7 @@
         "comment_id": "dummy_reply_B6_0",
         "author_id": "dummy_reply_author_B6_0",
         "author_name": "@reply_user_B6_0",
-        "author_profile_image": "dummy_profile_image_B6_0.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:11:34Z",
         "content": "일단 이사람은 상위권 아닐듯 ㅋㅋ",
         "reactions": {
@@ -12840,7 +12840,7 @@
         "comment_id": "dummy_reply_B6_1",
         "author_id": "dummy_reply_author_B6_1",
         "author_name": "@reply_user_B6_1",
-        "author_profile_image": "dummy_profile_image_B6_1.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:15:00Z",
         "content": "상위권이 유리한 건 맞지만, 이건 좀 다른 문제 아닌가요?",
         "reactions": {
@@ -12857,7 +12857,7 @@
         "comment_id": "dummy_reply_B6_2",
         "author_id": "dummy_reply_author_B6_2",
         "author_name": "@reply_user_B6_2",
-        "author_profile_image": "dummy_profile_image_B6_2.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:20:00Z",
         "content": "수능이 상위권 유리한 건 어쩔 수 없는 현실이죠.",
         "reactions": {
@@ -12874,7 +12874,7 @@
         "comment_id": "dummy_reply_B6_3",
         "author_id": "dummy_reply_author_B6_3",
         "author_name": "@reply_user_B6_3",
-        "author_profile_image": "dummy_profile_image_B6_3.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:25:00Z",
         "content": "그렇다고 해서 이 제도가 나쁜 건 아니지",
         "reactions": {
@@ -12893,7 +12893,7 @@
     "comment_id": "dummy_B7",
     "author_id": "dummy_author_B7",
     "author_name": "@user_B7",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:35:00Z",
     "content": "수능을 여러 번 보면 사교육만 더 심해질 것 같은데.",
     "reactions": {
@@ -12916,7 +12916,7 @@
     "comment_id": "dummy_B8",
     "author_id": "dummy_author_B8",
     "author_name": "@user_B8",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:40:00Z",
     "content": "제도 바꾸기 전에 현장 의견 먼저 듣는 게 맞죠.",
     "reactions": {
@@ -12939,7 +12939,7 @@
     "comment_id": "dummy_B9",
     "author_id": "dummy_author_B9",
     "author_name": "@user_B9",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:45:00Z",
     "content": "항상 이런 개혁안은 학생들 의견 받는 걸 본적이 없음.",
     "reactions": {
@@ -12962,7 +12962,7 @@
     "comment_id": "dummy_C0",
     "author_id": "dummy_author_C0",
     "author_name": "@user_C0",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:00:00Z",
     "content": "찬성하는 이유도 이해는 가는데, 너무 성급한 것 같아요. 제도 바꾸는 건 신중해야죠.",
     "reactions": {
@@ -12985,7 +12985,7 @@
     "comment_id": "dummy_C1",
     "author_id": "dummy_author_C1",
     "author_name": "@user_C1",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:05:00Z",
     "content": "중립적으로 보고 싶네요. 좋아보이긴 하지만 무조건 찬성하는것도 위험한 것 같아요",
     "reactions": {
@@ -13008,7 +13008,7 @@
     "comment_id": "dummy_C2",
     "author_id": "dummy_author_C2",
     "author_name": "@user_C2",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:10:00Z",
     "content": "너무 급진적이라 찬반이 갈리는 것도 무리는 아님.",
     "reactions": {
@@ -13031,7 +13031,7 @@
     "comment_id": "dummy_C3",
     "author_id": "dummy_author_C3",
     "author_name": "@user_C3",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:15:00Z",
     "content": "좋은 개혁일 수도 있지만 학생들 부담이 커질 수도 있을 것 같음",
     "reactions": {
@@ -13054,7 +13054,7 @@
     "comment_id": "dummy_C4",
     "author_id": "dummy_author_C4",
     "author_name": "@user_C4",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:20:00Z",
     "content": "충분한 논의가 선행돼야 한다고 봄",
     "reactions": {
@@ -13077,7 +13077,7 @@
     "comment_id": "dummy_C5",
     "author_id": "dummy_author_C5",
     "author_name": "@user_C5",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:25:00Z",
     "content": "학생 의견도 들어봐야할듯요",
     "reactions": {
@@ -13103,7 +13103,7 @@
         "comment_id": "dummy_reply_C5_0",
         "author_id": "dummy_reply_author_C5_0",
         "author_name": "@reply_user_C5_0",
-        "author_profile_image": "dummy_profile_image_C5_0.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:11:34Z",
         "content": "학생 의견을 뭐 이 나라가 들은 적이 있나요? ㅋㅋ",
         "reactions": {
@@ -13120,7 +13120,7 @@
         "comment_id": "dummy_reply_C5_1",
         "author_id": "dummy_reply_author_C5_1",
         "author_name": "@reply_user_C5_1",
-        "author_profile_image": "dummy_profile_image_C5_1.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:15:00Z",
         "content": "@@reply_user_C5_0 그렇게 너무 부정적으로만 보지 마세요. 목소리를 내다보면 언젠가는 들릴 날이 올 거예요.",
         "reactions": {
@@ -13137,7 +13137,7 @@
         "comment_id": "dummy_reply_C5_2",
         "author_id": "dummy_reply_author_C5_2",
         "author_name": "@reply_user_C5_2",
-        "author_profile_image": "dummy_profile_image_C5_2.png",
+        "author_profile_image": "",
         "timestamp": "2025-04-27T23:20:00Z",
         "content": "저는 학생인데요, 해당 개혁안에 대해 대찬성하는 입장이에요. 나름 학생 의견 잘 파악한듯?",
         "reactions": {
@@ -13156,7 +13156,7 @@
     "comment_id": "dummy_C6",
     "author_id": "dummy_author_C6",
     "author_name": "@user_C6",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:30:00Z",
     "content": "이런 개혁은 학생들 의견을 먼저 들어야 한다고 생각해요.",
     "reactions": {
@@ -13179,7 +13179,7 @@
     "comment_id": "dummy_C7",
     "author_id": "dummy_author_C7",
     "author_name": "@user_C7",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:35:00Z",
     "content": "시범 운영부터 해보는 건 어떨까요?",
     "reactions": {
@@ -13202,7 +13202,7 @@
     "comment_id": "dummy_C8",
     "author_id": "dummy_author_C8",
     "author_name": "@user_C8",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:40:00Z",
     "content": "제아무리 서울대 교수라고 해도 현장 어떻게 돌아가는지 잘 모름. 이런 개혁은 교사들 끼고 하기 전까진 중립적으로 봐야함",
     "reactions": {
@@ -13225,7 +13225,7 @@
     "comment_id": "dummy_C9",
     "author_id": "dummy_author_C9",
     "author_name": "@user_C9",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T09:45:00Z",
     "content": "일단 추진 방향은 흥미롭긴 하네, 어떻게 되든 잘 풀어갔으면",
     "reactions": {
@@ -13248,7 +13248,7 @@
     "comment_id": "dummy_e0",
     "author_id": "dummy_author_e0",
     "author_name": "@critic_e0",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:03:00Z",
     "content": "이게 다 전교조 때문이지 전교조가 나라 교육 말아먹은 거 모르는 사람 있냐?",
     "reactions": {
@@ -13271,7 +13271,7 @@
     "comment_id": "dummy_e1",
     "author_id": "dummy_author_e1",
     "author_name": "@critic_e1",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:07:00Z",
     "content": "전 정권이 교육을 망쳤지, 전교조랑 손잡고 쇼나 하고.",
     "reactions": {
@@ -13314,7 +13314,7 @@
     "comment_id": "dummy_e2",
     "author_id": "dummy_author_e2",
     "author_name": "@critic_e2",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T11:52:00Z",
     "content": "전 정권은 교육이 아니라 세뇌였다, 전교조 덕분에.",
     "reactions": {
@@ -13375,7 +13375,7 @@
     "comment_id": "dummy_e3",
     "author_id": "dummy_author_e3",
     "author_name": "@critic_e3",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:05:00Z",
     "content": "입시를 전교조 입맛대로 바꾸더니 지금 꼴 참 잘 돌아간다.",
     "reactions": {
@@ -13398,7 +13398,7 @@
     "comment_id": "dummy_e4",
     "author_id": "dummy_author_e4",
     "author_name": "@critic_e4",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:06:00Z",
     "content": "정권 잡고 전교조 밀어주더니 학생들은 실험용이냐?",
     "reactions": {
@@ -13421,7 +13421,7 @@
     "comment_id": "dummy_e5",
     "author_id": "dummy_author_e5",
     "author_name": "@critic_e5",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:03:00Z",
     "content": "전교조 말만 듣고 만든 정책이 다 지금 문제 만드는 거야.",
     "reactions": {
@@ -13444,7 +13444,7 @@
     "comment_id": "dummy_e6",
     "author_id": "dummy_author_e6",
     "author_name": "@critic_e6",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:06:00Z",
     "content": "그놈의 전교조, 왜 아직도 안 없애냐?",
     "reactions": {
@@ -13487,7 +13487,7 @@
     "comment_id": "dummy_e7",
     "author_id": "dummy_author_e7",
     "author_name": "@critic_e7",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T13:07:00Z",
     "content": "그때 정부는 학생들 고통은 안중에도 없었어. 지들 자식들 좋은 대학 보내는 것만 관심 있었지",
     "reactions": {
@@ -13548,7 +13548,7 @@
     "comment_id": "dummy_e8",
     "author_id": "dummy_author_e8",
     "author_name": "@critic_e8",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T11:55:00Z",
     "content": "지들 자리 지키려고 엉망으로 만든 정책 아직도 치우질 못했네.",
     "reactions": {
@@ -13609,7 +13609,7 @@
     "comment_id": "dummy_e9",
     "author_id": "dummy_author_e9",
     "author_name": "@critic_e9",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T11:50:00Z",
     "content": "정권이 바뀌어도 썩은 물은 안 바뀌더라.",
     "reactions": {
@@ -13652,7 +13652,7 @@
     "comment_id": "dummy_e10",
     "author_id": "dummy_author_e10",
     "author_name": "@critic_e10",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T11:52:00Z",
     "content": "전 정권은 교육을 정치 도구로 써먹은 거 밖에 없음.",
     "reactions": {
@@ -13675,7 +13675,7 @@
     "comment_id": "dummy_e11",
     "author_id": "dummy_author_e11",
     "author_name": "@critic_e11",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T11:56:00Z",
     "content": "그 시절 교육부는 그냥 청와대 하청업체였지.",
     "reactions": {
@@ -13736,7 +13736,7 @@
     "comment_id": "dummy_e12",
     "author_id": "dummy_author_e12",
     "author_name": "@critic_e12",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:09:00Z",
     "content": "지금 고생하는 학생들 보면 진짜 화남. 누구 탓이겠냐? 다 청와대 그자식 탓이지",
     "reactions": {
@@ -13759,7 +13759,7 @@
     "comment_id": "dummy_e13",
     "author_id": "dummy_author_e13",
     "author_name": "@critic_e13",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:00:00Z",
     "content": "어른들 장난질에 학생들 인생이 왔다 갔다 한 거지. 하여간 그 정권 사람들이란",
     "reactions": {
@@ -13838,7 +13838,7 @@
     "comment_id": "dummy_e14",
     "author_id": "dummy_author_e14",
     "author_name": "@critic_e14",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T11:56:00Z",
     "content": "이 모든 난장판은 지난 정권이 씨 뿌린 거임.",
     "reactions": {
@@ -13861,7 +13861,7 @@
     "comment_id": "dummy_e15",
     "author_id": "dummy_author_e15",
     "author_name": "@critic_e15",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-04-15T12:08:00Z",
     "content": "당시 장관이 누군지만 봐도 답 나오잖아.",
     "reactions": {
@@ -13884,7 +13884,7 @@
     "comment_id": "dummy_e16",
     "author_id": "dummy_author_e16",
     "author_name": "@critic_e16",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T13:16:00Z",
     "content": "학생들 이용해서 지들 정치질만 했던 인간들. 당장 총살시켜도 모자라다!!",
     "reactions": {
@@ -13927,7 +13927,7 @@
     "comment_id": "dummy_e17",
     "author_id": "dummy_author_e17",
     "author_name": "@critic_e17",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T13:17:00Z",
     "content": "정권 바뀌고 나서도 책임진 사람 하나 없더라?",
     "reactions": {
@@ -13950,7 +13950,7 @@
     "comment_id": "dummy_e18",
     "author_id": "dummy_author_e18",
     "author_name": "@critic_e18",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T13:18:00Z",
     "content": "이딴 거 만든 놈들은 다 어디 숨었냐?",
     "reactions": {
@@ -13973,7 +13973,7 @@
     "comment_id": "dummy_e19",
     "author_id": "dummy_author_e19",
     "author_name": "@critic_e19",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T13:19:00Z",
     "content": "그때 XXX 말 안 듣고 반대하던 사람들 다 옳았지, 지금 와서 보니까.",
     "reactions": {
@@ -14035,7 +14035,7 @@
     "comment_id": "question_real_0",
     "author_id": "question_author_0",
     "author_name": "@questionUser0",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:00:00Z",
     "content": "자유전공학부는 아무나 들어갈 수 있는 건가요?",
     "reactions": {
@@ -14078,7 +14078,7 @@
     "comment_id": "question_real_1",
     "author_id": "question_author_1",
     "author_name": "@questionUser1",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:01:00Z",
     "content": "수능 여러 번 보면 점수는 어떻게 처리하나요?",
     "reactions": {
@@ -14121,7 +14121,7 @@
     "comment_id": "question_real_2",
     "author_id": "question_author_2",
     "author_name": "@questionUser2",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:02:00Z",
     "content": "전 고등학생인데 고등학교 때 진로 어떻게 정하는 게 좋을까요? 현 제도에서 고등학생이 진로를 탐색하고 결정하는건 너무 어려운 것 같아요 ㅜㅜ",
     "reactions": {
@@ -14165,7 +14165,7 @@
     "comment_id": "question_real_3",
     "author_id": "question_author_3",
     "author_name": "@questionUser3",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:03:00Z",
     "content": "자유전공으로 의대도 갈 수 있나요?",
     "reactions": {
@@ -14208,7 +14208,7 @@
     "comment_id": "question_real_4",
     "author_id": "question_author_4",
     "author_name": "@questionUser4",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:04:00Z",
     "content": "자유전공이랑 복수전공이랑 뭐가 다른가요?",
     "reactions": {
@@ -14251,7 +14251,7 @@
     "comment_id": "question_real_5",
     "author_id": "question_author_5",
     "author_name": "@questionUser5",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:05:00Z",
     "content": "수능을 여러 번 보면 응시료는 매번 내야할까요?",
     "reactions": {
@@ -14294,7 +14294,7 @@
     "comment_id": "question_real_9",
     "author_id": "question_author_9",
     "author_name": "@questionUser9",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:09:00Z",
     "content": "학생부 종합전형은 내신보다 뭘 더 보나요? 올해 고등학교 들어가는 아이 엄마인데 뭘 준비해야 할지 모르겠어요.",
     "reactions": {
@@ -14337,7 +14337,7 @@
     "comment_id": "question_real_10",
     "author_id": "question_author_10",
     "author_name": "@questionUser10",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:10:00Z",
     "content": "수시랑 정시 병행하는 게 가능한가요? 저 학교다닐때는 수능 하나만 보기도 벅찼는데,,,",
     "reactions": {
@@ -14380,7 +14380,7 @@
     "comment_id": "question_real_11",
     "author_id": "question_author_11",
     "author_name": "@questionUser11",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:11:00Z",
     "content": "고등학교에서 자유전공 준비 어떻게 하나요? 수시로 진학하는거면 전공에 따라서 활동을 해야할 것 같은데 자유전공은 전공이 정해지지 않아서 어떤 활동을 해야할지 모르겠어요.",
     "reactions": {
@@ -14423,7 +14423,7 @@
     "comment_id": "question_real_12",
     "author_id": "question_author_12",
     "author_name": "@questionUser12",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:12:00Z",
     "content": "수능 성적 발표는 대략 언제쯤인가요?",
     "reactions": {
@@ -14466,7 +14466,7 @@
     "comment_id": "question_real_13",
     "author_id": "question_author_13",
     "author_name": "@questionUser13",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:13:00Z",
     "content": "학종 준비는 1학년 때부터 해야 하나요?",
     "reactions": {
@@ -14509,7 +14509,7 @@
     "comment_id": "question_real_20",
     "author_id": "question_author_20",
     "author_name": "@questionUser20",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:20:00Z",
     "content": "자유전공이면 전공 선택은 언제 확정되나요?",
     "reactions": {
@@ -14532,7 +14532,7 @@
     "comment_id": "question_real_21",
     "author_id": "question_author_21",
     "author_name": "@questionUser21",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:21:00Z",
     "content": "자유전공학부는 어떤 전공들 갈 수 있나요?",
     "reactions": {
@@ -14555,7 +14555,7 @@
     "comment_id": "question_real_22",
     "author_id": "question_author_22",
     "author_name": "@questionUser22",
-    "author_profile_image": "https://example.com/default-profile.png",
+    "author_profile_image": "",
     "timestamp": "2025-05-26T17:22:00Z",
     "content": "자유전공 해봤자 다들 취업 잘되는 과로만 몰릴 것 같아서 개인적으로 반대긴 한데, 구체적 수치 아시는분?",
     "reactions": {
@@ -14581,7 +14581,7 @@
         "comment_id": "question_real_22.reply0",
         "author_id": "answer_author_1a2b3c4d",
         "author_name": "@answerUser",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:45:00Z",
         "content": "구체적 수치는 모르는데, 우리 학교 자유전공학부는 죄다 컴퓨터공학 아니면 경제학이긴 함ㅋㅋ",
         "reactions": {
@@ -14598,7 +14598,7 @@
         "comment_id": "question_real_22.reply1",
         "author_id": "answer_author_5e6f7g8h",
         "author_name": "@answerUser",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:46:00Z",
         "content": "실제로 인기 있는 과로 몰리는 경향이 있죠.",
         "reactions": {
