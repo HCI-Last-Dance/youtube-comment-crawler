@@ -3,7 +3,7 @@
         "comment_id": "question_real_0",
         "author_id": "question_author_0",
         "author_name": "@questionUser0",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:00:00Z",
         "content": "자유전공학부는 아무나 들어갈 수 있는 건가요?",
         "reactions": {
@@ -46,7 +46,7 @@
         "comment_id": "question_real_1",
         "author_id": "question_author_1",
         "author_name": "@questionUser1",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:01:00Z",
         "content": "수능 여러 번 보면 점수는 어떻게 처리하나요?",
         "reactions": {
@@ -89,7 +89,7 @@
         "comment_id": "question_real_2",
         "author_id": "question_author_2",
         "author_name": "@questionUser2",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:02:00Z",
         "content": "전 고등학생인데 고등학교 때 진로 어떻게 정하는 게 좋을까요? 현 제도에서 고등학생이 진로를 탐색하고 결정하는건 너무 어려운 것 같아요 ㅜㅜ",
         "reactions": {
@@ -133,7 +133,7 @@
         "comment_id": "question_real_3",
         "author_id": "question_author_3",
         "author_name": "@questionUser3",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:03:00Z",
         "content": "자유전공으로 의대도 갈 수 있나요?",
         "reactions": {
@@ -176,7 +176,7 @@
         "comment_id": "question_real_4",
         "author_id": "question_author_4",
         "author_name": "@questionUser4",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:04:00Z",
         "content": "자유전공이랑 복수전공이랑 뭐가 다른가요?",
         "reactions": {
@@ -219,7 +219,7 @@
         "comment_id": "question_real_5",
         "author_id": "question_author_5",
         "author_name": "@questionUser5",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:05:00Z",
         "content": "수능을 여러 번 보면 응시료는 매번 내야할까요?",
         "reactions": {
@@ -262,7 +262,7 @@
         "comment_id": "question_real_9",
         "author_id": "question_author_9",
         "author_name": "@questionUser9",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:09:00Z",
         "content": "학생부 종합전형은 내신보다 뭘 더 보나요? 올해 고등학교 들어가는 아이 엄마인데 뭘 준비해야 할지 모르겠어요.",
         "reactions": {
@@ -305,7 +305,7 @@
         "comment_id": "question_real_10",
         "author_id": "question_author_10",
         "author_name": "@questionUser10",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:10:00Z",
         "content": "수시랑 정시 병행하는 게 가능한가요? 저 학교다닐때는 수능 하나만 보기도 벅찼는데,,,",
         "reactions": {
@@ -348,7 +348,7 @@
         "comment_id": "question_real_11",
         "author_id": "question_author_11",
         "author_name": "@questionUser11",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:11:00Z",
         "content": "고등학교에서 자유전공 준비 어떻게 하나요? 수시로 진학하는거면 전공에 따라서 활동을 해야할 것 같은데 자유전공은 전공이 정해지지 않아서 어떤 활동을 해야할지 모르겠어요.",
         "reactions": {
@@ -391,7 +391,7 @@
         "comment_id": "question_real_12",
         "author_id": "question_author_12",
         "author_name": "@questionUser12",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:12:00Z",
         "content": "수능 성적 발표는 대략 언제쯤인가요?",
         "reactions": {
@@ -434,7 +434,7 @@
         "comment_id": "question_real_13",
         "author_id": "question_author_13",
         "author_name": "@questionUser13",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:13:00Z",
         "content": "학종 준비는 1학년 때부터 해야 하나요?",
         "reactions": {
@@ -477,7 +477,7 @@
         "comment_id": "question_real_20",
         "author_id": "question_author_20",
         "author_name": "@questionUser20",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:20:00Z",
         "content": "자유전공이면 전공 선택은 언제 확정되나요?",
         "reactions": {
@@ -500,7 +500,7 @@
         "comment_id": "question_real_21",
         "author_id": "question_author_21",
         "author_name": "@questionUser21",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:21:00Z",
         "content": "자유전공학부는 어떤 전공들 갈 수 있나요?",
         "reactions": {
@@ -523,7 +523,7 @@
         "comment_id": "question_real_22",
         "author_id": "question_author_22",
         "author_name": "@questionUser22",
-        "author_profile_image": "https://example.com/default-profile.png",
+        "author_profile_image": "",
         "timestamp": "2025-05-26T17:22:00Z",
         "content": "자유전공 해봤자 다들 취업 잘되는 과로만 몰릴 것 같아서 개인적으로 반대긴 한데, 구체적 수치 아시는분?",
         "reactions": {
@@ -549,7 +549,7 @@
                 "comment_id": "question_real_22.reply0",
                 "author_id": "answer_author_1a2b3c4d",
                 "author_name": "@answerUser",
-                "author_profile_image": "https://example.com/default-profile.png",
+                "author_profile_image": "",
                 "timestamp": "2025-05-26T17:45:00Z",
                 "content": "구체적 수치는 모르는데, 우리 학교 자유전공학부는 죄다 컴퓨터공학 아니면 경제학이긴 함ㅋㅋ",
                 "reactions": {
@@ -566,7 +566,7 @@
                 "comment_id": "question_real_22.reply1",
                 "author_id": "answer_author_5e6f7g8h",
                 "author_name": "@answerUser",
-                "author_profile_image": "https://example.com/default-profile.png",
+                "author_profile_image": "",
                 "timestamp": "2025-05-26T17:46:00Z",
                 "content": "실제로 인기 있는 과로 몰리는 경향이 있죠.",
                 "reactions": {
