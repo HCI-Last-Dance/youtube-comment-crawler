@@ -13672,9 +13672,9 @@ export const COMMENT_DATA_OPINION = [
         replies: [],
     },
     {
-        comment_id: 'opinion_A3',
-        author_id: 'author_A3',
-        author_name: '@author_A3',
+        comment_id: 'opinion_A4',
+        author_id: 'author_A4',
+        author_name: '@author_A4',
         author_profile_image: '',
         timestamp: '2025-05-11T18:20:00Z',
         content: '완전 좋은듯? 내 프로필처럼',
