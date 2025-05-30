@@ -5,7 +5,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@rladPdlf-u6f',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nkvawNs8spFKQcgJJns_f-WasUnAhhSvVKQUHwT0Q2qt6y4otAh0N3IsgUi6MK20GOq6oX=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:42:54Z',
+        timestamp: '2025-04-29T13:42:54Z',
         content:
             '다른건 몰라도 자유전공은 확대하는게 좋을듯 중고등까지 하루종일 공부만했는데 도대체 진로를 정해서 학과를 정해야한다는게 너무 어려움 그러니까 공부 잘하는 애들도 다 의대로 빠지는거임',
         reactions: {
@@ -48,7 +48,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kimdaegeon',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kpQN3nlzISygq_U7EvD4Jtiv9paoWJrCFiTyX8whGTIgY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:08:14Z',
+                timestamp: '2025-04-29T14:08:14Z',
                 content:
                     '근데 대학 자유전공도 좀 계획적으로 되야되는데 국립대들 자유전공애들 보면 일반애들보다 높은 성적으로 들어왔을텐데 제대로된 집(?)이 없으니 이리저리 치이고 \n카이스트 자유전공마냥 시스템이 갖춰진 다음에 하면 모르는데 지금 당장 자유전공은 그냥 낙동강 오리알 신세라 개선이 좀 많이…필요하고.. \n\n당장 자유전공 관심있는 고등학생들은 잘 알아보고 가는게 좋을거 같긴해요 정부에서 학교마다 자유전공 만들어서 해라 라고 하는데 명령만 하지 학교 자율이라 제대로 시스템도 안갖춰졌을 확률이 높아요…',
                 reactions: {
@@ -67,7 +67,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dldmswo-z2r',
                 author_profile_image:
                     'https://yt3.ggpht.com/oqbMNkVqXJwLIUEHv_atXEorGlzl-cj9vN2UZ8l7J5Sx1ZGooPTbJde9WF6Ts93sIjKQX4Fvazo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:08:15Z',
+                timestamp: '2025-04-29T14:08:15Z',
                 content:
                     '오히려 자전 늘어나면 취업 잘되는 학과로만 학생들이 몰려서 나중에 학교입장에선 골치아파짐. 몇백씩 되는 자전애들이 모두 한 학과로 몰릴 것이 현재로도 예상되서 본인이 다니는 학교에서는 학생들이랑 기싸움하는중...',
                 reactions: {
@@ -86,7 +86,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kimdaegeon',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kpQN3nlzISygq_U7EvD4Jtiv9paoWJrCFiTyX8whGTIgY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:27:28Z',
+                timestamp: '2025-04-29T14:27:28Z',
                 content:
                     '@@dldmswo-z2r 맞어요 지금 저희 학교가 한쪽으로 다 몰려가지고 조교들이 아 애들 이거 다 수용못하는데.. 성적순으로 짤라서 떨궈버려야지 이러고 있어요 ㅋㅋ 진짜.. 이거 잘 생각해야하는게 시스템 구축이 제대로 안된 상태면 괜히 더 힘들기만 하고 손해보기 쉬운 구조인듯요,,',
                 reactions: {
@@ -105,9 +105,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박성준-g3i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kf0CJ1uBv2jaDWfcTBwW5gH1ZIqa0vPbWlwhgcK-I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:50:38Z',
+                timestamp: '2025-04-29T14:50:38Z',
                 content:
-                    '언제 졸업하고 언제 취업할래... \n자유전공 교수들이 ㅈ나 싫어하는데 해주겠냐 \n너같으면 내 강의 들으러온 수강생이 툭하면 전공 바꿔서 남들이 간절하게 듣고싶은 자리 차지하다가 버리는데',
+                    '언제 졸업하고 언제 취업할래... \n자유전공 교수들이 싫어하는데 해주겠냐 \n너같으면 내 강의 들으러온 수강생이 툭하면 전공 바꿔서 남들이 간절하게 듣고싶은 자리 차지하다가 버리는데',
                 reactions: {
                     useful: 97,
                     agree: 6,
@@ -124,7 +124,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Mr.PlainAverage',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nO5_AnrR5wC3yikrkeRVMEqqK2JYLnvMQub5cKxd-mCQNDacSpJv5wGRkTMh4pgO6TqQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:13:03Z',
+                timestamp: '2025-04-29T15:13:03Z',
                 content:
                     '진도 빠른사람은, 수능 빨리 볼수 있게 그리고 여러번 볼수있게\r\n입학은 쉽게, 졸업은 어렵게',
                 reactions: {
@@ -143,7 +143,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@아미-d6r',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_msoSz4nTSD35qxPMsoefgpCZhvf7dq4owH2LEhoYRoa2LLzs4GUSoAEwKade2fTCpgiGsKWnWW=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:03:46Z',
+                timestamp: '2025-04-29T16:03:46Z',
                 content: '진로고민을 고등학교때부터 하라는게 요즘 기조임',
                 reactions: {
                     useful: 36,
@@ -161,7 +161,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@khsol1108',
                 author_profile_image:
                     'https://yt3.ggpht.com/RewSw3XiXdg9BWji2_S8W5Ph65dfEQSVd4svSQRYuwojfprEG9pTlRoUbOTEjBgXgSH8wVeaig=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T18:22:20Z',
+                timestamp: '2025-04-29T18:22:20Z',
                 content:
                     '자유전공 성적상관없이 과 선택 가능해서 it 대학으로 300명 내년에 올 예정인데, 이건말이안됨. 성적순으로 자르던가 무슨 기준이 있어야함. 컴공 300명 한꺼번에 오면 감당이 안됨. 너무 심각',
                 reactions: {
@@ -180,7 +180,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@afterdinner332',
                 author_profile_image:
                     'https://yt3.ggpht.com/eV1b_8M4z59-EbS3sD4cNhd1dXXoZLgFv2IKdGM7ZjOxcYslXx2x00u2zIDAOenQEr8_vTG6_A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T18:33:40Z',
+                timestamp: '2025-04-29T18:33:40Z',
                 content:
                     '자전 확대하는건 좋은데 계획을 똑바로해놓고 해야됨 올해가 자전 확대 첫해였는데 지금 자전 꼬라지보면 과방도없고 이끌어주는 선배도 다 처음이라 서로 자전에 누구있는지도 모르고 학교생활 엉망임그냥 소속감도 없고.. 대책이필요함 아예 1학년 전부를 자전으로바꾸던가',
                 reactions: {
@@ -199,7 +199,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@neo-sinla',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lnuHjhqwdaQuZBEfKTXIqEPP-6DC4NZMHy3DK6xm6XlNk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T18:42:31Z',
+                timestamp: '2025-04-29T18:42:31Z',
                 content:
                     '예체능을 없애버려 됨 문과랑 세상에 도움이 되는 건 이과 관련임\n그리고 의대는 이과임 분류 법칙상',
                 reactions: {
@@ -218,7 +218,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@TEODA120',
                 author_profile_image:
                     'https://yt3.ggpht.com/F7HhRKZwxglgUlfRR3C1MYInfP_wODjUfFf7By7Q7NQINYojd3vSGtixii0LIe1X2VrIhDAR=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T00:45:03Z',
+                timestamp: '2025-04-30T00:45:03Z',
                 content: '@@neo-sinla 입법부 사법부 행정부 전부 문과인데요?',
                 reactions: {
                     useful: 85,
@@ -236,7 +236,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@coconut-o9o4t',
                 author_profile_image:
                     'https://yt3.ggpht.com/xx334nINcLr585ve67ONfLS--qUnmL6WSS4JWVErNR1YB2yMbbdZNRSGBTSamVk625n899L2=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T00:51:46Z',
+                timestamp: '2025-04-30T00:51:46Z',
                 content:
                     '현재 자유전공학부 학생입니다. 입학하고 몇개월간 느낀점만 적어보자면, 우선 시스템 관리가 정말 중요합니다. 2학년에 올라가며 전공을 정하다보니 담당 선배들이 없는 경우가 많습니다. 저희 학교의 경우 이 시스템이 제대로 관리되지 않아 mt나 신환회 진행에 어려움을 겪는 모습도 많이 보았습니다. 다음으로 자유전공이 정말 의미가 있는가를 묻게하는 구조를 가지고 있습니다. 2학년때  자신이 희망하는 학과를 가기 위해서는 학과 전공에 맞춰 수업을 들어야 하고, 결국 말만 자유전공이지 제때 해당 학과 전필을 듣지 못하면 졸업만 미뤄지는 사태가 발생하게 됩니다. 결론적으로 따져보면 외관상으로는 자유가 있는 것처럼 보이지만 실제로는 타학과 전공 수업을 제때 이수해야지만 남들과 같은 시기에 졸업이 가능해져 선택의 폭이 넓어지는 것 자체가 무의미하게 다가옵니다. 이러한 점을 대대적으로 다잡고 갈 수 있다면 정말 좋을 듯합니다..',
                 reactions: {
@@ -255,7 +255,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@공포의할로윈',
                 author_profile_image:
                     'https://yt3.ggpht.com/Y4vjmk6bnV573yuIBYo2jY_7UEyiWpml1nnpMRXG8z-nTVqawEmhbCdSfZC7FPn3gBZ_my9SBg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:26:56Z',
+                timestamp: '2025-04-30T01:26:56Z',
                 content:
                     '@@dldmswo-z2r자전 늘리면 전공 전문성이 떨어져요 가령 4년 가르쳐도 부족한 과목이 있는데 자전을 하게 되면 3년만에 전문성을 갖춘 인재로 육성해야하는데 거의 불가능하죠 결국 대한민국 경쟁력을 약화시키는 악수가 될 거라 생각합니다',
                 reactions: {
@@ -274,7 +274,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@lilale-h9j',
                 author_profile_image:
                     'https://yt3.ggpht.com/6C_Bwej9uy4WpSjEzUUPpvcGMV8o8fyDIUBAiSw-ZF9b9UjyaMkrnBeR74YDZRJE_umaCUvzCw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:43:43Z',
+                timestamp: '2025-04-30T02:43:43Z',
                 content: '의대랑 자유전공이랑 뭔상관임 ㅋㅋ',
                 reactions: {
                     useful: 59,
@@ -292,7 +292,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@riyu2004',
                 author_profile_image:
                     'https://yt3.ggpht.com/16F8EnyCmdByfkULDv7ULddaAQFhWvouRf8CPedkoUB2UUDU19ACXfQ0yabwHwX9xefKUywi=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T06:14:27Z',
+                timestamp: '2025-04-30T06:14:27Z',
                 content:
                     '@@rladPdlf-u6f 자유전공이 100명 있으면 90명은 컴공, 경제, 경영으로 가는 게 현실',
                 reactions: {
@@ -311,7 +311,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@망고-g8m1b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m-MlQ5mNATsFznO6Zo84mxe4_WezMuc81S--UREg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T12:56:28Z',
+                timestamp: '2025-04-30T12:56:28Z',
                 content: '자율전공이 의대는 제외임...',
                 reactions: {
                     useful: 97,
@@ -329,7 +329,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@안녕하세요-x7n6k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T14:03:39Z',
+                timestamp: '2025-04-30T14:03:39Z',
                 content: '서울대 교수회 = 적폐 교수회 한국에 이득이아니라 자신들의 이득카르텔임',
                 reactions: {
                     useful: 3,
@@ -347,7 +347,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@gimgankoomg4168',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nQaG1ddIFuZwCo8Dd_jtMp9EzUECPn2st9k6YXW44=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T00:28:53Z',
+                timestamp: '2025-05-01T00:28:53Z',
                 content: '정말 중요한 건 다양한 교양이 뒷받침 되는 융복합 공부가 중요함',
                 reactions: {
                     useful: 5,
@@ -365,7 +365,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dawnstar-m2v',
                 author_profile_image:
                     'https://yt3.ggpht.com/ts5QXjktNm7ebEON-DsU9r3grU1E2RrFMnAHLXqMBXFhl2-JZYRoiysNIJHQKXOgCaQZLnB_=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-23T18:23:07Z',
+                timestamp: '2025-05-08T18:23:07Z',
                 content: '본인 자전출신인데 무조건 높은과 갈려고 들어오는 애들이 90퍼임',
                 reactions: {
                     useful: 93,
@@ -383,7 +383,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@망고-g8m1b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m-MlQ5mNATsFznO6Zo84mxe4_WezMuc81S--UREg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-23T23:41:56Z',
+                timestamp: '2025-05-08T23:41:56Z',
                 content: '@dawnstar-m2v  성적대로 가르잖아?',
                 reactions: {
                     useful: 82,
@@ -401,7 +401,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Soobinee11',
                 author_profile_image:
                     'https://yt3.ggpht.com/M3FTUY-UFDv1wXEOsSFzQiHpanG_Dst8P56R5Ds3YuU-Mi81hws87LSRpcK_hW6bFHkP3gT5Sg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-05-11T02:53:42Z',
+                timestamp: '2025-04-26T02:53:42Z',
                 content:
                     '​@@박성준-g3i자기한테 맞는 전공을 바꾸겠음? 자기한테 안맞는 과 전공해서 꾸역꾸역 힘들게 다닐바에 바꾸는게 100배는 낫지. 그리고 애초에 자유전공도 점수대로 지원해서 가는건데ㅋㅋㅋ 꼬우면 더 시험을 잘 봐서 그 자리 차지하던지. 이건 뭐 의대 간 애들보고 남들이 간절하게 가고싶은 자리 차지한다고 뭐라하는 꼴이네',
                 reactions: {
@@ -422,7 +422,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@hong-123-f3z',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_n17eVS6yOwSEgbNTgXc4n9JeOKRE9MMEESD8Bfcg_tgLUU3ZPzBmNs64A-tbv0zyDUoA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:49:43Z',
+        timestamp: '2025-04-29T08:49:43Z',
         content:
             '수능 여러 번 보는 건 진짜 좋다.. 그 긴장감도 진짜 장난 아닌데, 간혹 난이도 조절 실패한 수능 나오면 진짜 지옥도 펼쳐짐..',
         reactions: {
@@ -533,7 +533,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@쿠쿠-r7k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nSvfYwGpIW580eONdVJPdPfpeKAmfzAFZKk5IShvcKi8V6LVsTFBWNtga6Yxj4vSdX1HTI6zlf=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:47:14Z',
+                timestamp: '2025-04-29T09:47:14Z',
                 content: '누가 좋다는거임 불구경 바라보는 니가?',
                 reactions: {
                     useful: 32,
@@ -551,7 +551,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:00:55Z',
+                timestamp: '2025-04-29T10:00:55Z',
                 content:
                     '딱한번의 시험으로 대학결정나는게 긴장감도 엄청나고 공정성도낮잖아. 여러시험을 거친 내신과 수능중 수능이 압도적으로 긴장감높은데...',
                 reactions: {
@@ -570,7 +570,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@쿠쿠-r7k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nSvfYwGpIW580eONdVJPdPfpeKAmfzAFZKk5IShvcKi8V6LVsTFBWNtga6Yxj4vSdX1HTI6zlf=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:09:48Z',
+                timestamp: '2025-04-29T10:09:48Z',
                 content:
                     '@@wodbstjdbs11  수능 3~4번 치르는게 더 지옥 아니냐?ㅋㅋㅋ 상위권일수록 3~4번 동안 한번이라도 실수하거나 만족 못한 등급이 나오면 2번째 시험에서 재수 결정 해야되냐ㅋㅋ',
                 reactions: {
@@ -589,9 +589,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:15:02Z',
+                timestamp: '2025-04-29T10:15:02Z',
                 content:
-                    '@@쿠쿠-r7k 뭔 경계선스러운 소리임? 한번이라도 실수해서 재수결정해야되는 상황이 오면 당연히 3,4번에 걸쳐서 시험보는 정책이 합리적인거지.\n지금 3,4번추진하는 이유도 그건데? 아직 나이가 어린거임 지능이낮으신거임?',
+                    '@@쿠쿠-r7k 뭔 소리임? 한번이라도 실수해서 재수결정해야되는 상황이 오면 당연히 3,4번에 걸쳐서 시험보는 정책이 합리적인거지.\n지금 3,4번추진하는 이유도 그건데? 아직 나이가 어린거임 지능이낮으신거임?',
                 reactions: {
                     useful: 97,
                     agree: 94,
@@ -608,7 +608,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-rt8tn6ql9m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nGdxHggwLHT6APW4g2tkdzpabWTUROzjQt1gsTwxIEtw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:19:03Z',
+                timestamp: '2025-04-29T10:19:03Z',
                 content:
                     '@@wodbstjdbs11 긴장감 엄청나고 리스크도 크고 심리적 부담감도 그만큼 크겠지만 공정성이 낮다는 건 어떤 맥락에서 나오는거죠?',
                 reactions: {
@@ -627,7 +627,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:25:00Z',
+                timestamp: '2025-04-29T10:25:00Z',
                 content:
                     '@@user-rt8tn6ql9m 시험이란것도 결국 사람이 만드는것이기때문에 많이본부분이 안나올수도, 잠깐본부분이 나올수도있죠. 너무 지엽적인문제는 논란거리가 되기마련입니다. 더군다나 최근에 수능 문제자체가 오류인거 뉴스에서 보신적있으신가요? 외국교수들도 말이안되는 문제라고하는거요. 그런측면에서도 한번의 수능보다는 3,4번걸쳐진 시험이 공정하죠',
                 reactions: {
@@ -646,7 +646,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Nawhis',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mNs59COio4LLE86uSbVk6TWIYKvWUgsPMZauAMHdmmu1T-s16B9O_dSnb2-IXDIvU3l9mFd4A2=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:27:32Z',
+                timestamp: '2025-04-29T10:27:32Z',
                 content:
                     '⁠@@wodbstjdbs11 수능 문제 오류는 그럴 수 있는데 많이 본 부분이 안나오거나 적게 본 부분이 많이 나오는건 공부량의 문제 아닌가요?',
                 reactions: {
@@ -665,7 +665,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:31:24Z',
+                timestamp: '2025-04-29T10:31:24Z',
                 content:
                     '@@Nawhis 뭐 그렇게 생각하실수도있는데 지엽적인문제는 시험의 취지와 다른부분이 있어서 내신과 수능에서 항상 논란이 되는 이유라고 생각합니다.',
                 reactions: {
@@ -684,7 +684,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Wawqexazcfdjendjfjd',
                 author_profile_image:
                     'https://yt3.ggpht.com/n0UwKxKezElpI2j9rey_aSiJ3VyCrrHe44SUCNqyfsoGDxuQVvjVBT7P7Yo6Z_gC2zgmuTvj=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:35:17Z',
+                timestamp: '2025-04-29T10:35:17Z',
                 content:
                     '농담이 아니라 3,4회씩 시험보면 만점자 속출함\n 그럼 서울대 의대 정시 인원보다 만점자가 더 많게 나올껄? 감당 가능할거 같나\n 저거 할꺼였으면 상향평준화 되기전에 했어야함 지금 애들은 공부를 너무 잘함\n 기회 4번씩 줘버리면 만점자 천명 가까이도 가능함',
                 reactions: {
@@ -703,7 +703,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@준선-p1p',
                 author_profile_image:
                     'https://yt3.ggpht.com/Jkoi8UGBzt3kjjIABrG1mmj6xVmhSMlB9yUkFgiQfdFYqvsedNm_B_fLHY8WPFZDI7RK1TFPu8I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:52:12Z',
+                timestamp: '2025-04-29T10:52:12Z',
                 content:
                     '@@Wawqexazcfdjendjfjd수시와 정시 양자택일이 아니라 둘 다 일정비율로 반영하면 됨 3,4번 보게된다면 문제의 질이 낮아질 확률이 높고 수능만으로 판별이 어려워지니 내신과 생기부를 합쳐 하나의  새로운 학종 전형처럼 만들면 됨 그럼 공교육을 포기하고 사교육에만 몰두하는 현상도 일부 방지됨',
                 reactions: {
@@ -722,7 +722,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-rt8tn6ql9m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nGdxHggwLHT6APW4g2tkdzpabWTUROzjQt1gsTwxIEtw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:52:35Z',
+                timestamp: '2025-04-29T10:52:35Z',
                 content:
                     '@ 문제 오류는 없으면 좋겠지만 그냥 모든 시험에서 있을 수 밖에 없는 사고라고 생각해야죠. 어차피 모든 수험생이 본인이 준비할 만큼 준비해서 한날 한시에 시험 보는데 공정함이 떨어질 이유는 뭐죠? 문제 오류가 있다 한들 문제 오류 때문에 해당 문제에 시간을 많이 쓴다든가 하는 그런 문제는 모든 수험생한테 똑같이 적용되는건데 말이죠. 수능 여러번 봐서 부담감 줄여준다? 사람에 따라 받아들이는게 다를 수 있지만 충분히 그럴 수 있다고 생각합니다. 근데 공정성은 전혀 다른 차원의 문제 같습니다.',
                 reactions: {
@@ -741,7 +741,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:05:26Z',
+                timestamp: '2025-04-29T11:05:26Z',
                 content:
                     '@@user-rt8tn6ql9m 수능보다 훨씬 간편한 100m달리기를 전세계사람들이 한날한시에 뛴다고 과연 공정할까요?',
                 reactions: {
@@ -760,8 +760,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dcaazz',
                 author_profile_image:
                     'https://yt3.ggpht.com/8bXRzCsl9e7THMPaNGLqOo11YBdrvK__wf84ivEWCoFSAp0WOFabFyvZEIaqCypvbN5EHEAYhA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:17:55Z',
-                content: '@@wodbstjdbs11ㅈ1ㄹㅋㅋ',
+                timestamp: '2025-04-29T11:17:55Z',
+                content: '@@wodbstjdbs11ㅋㅋ',
                 reactions: {
                     useful: 64,
                     agree: 40,
@@ -778,7 +778,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@get1114',
                 author_profile_image:
                     'https://yt3.ggpht.com/0YFIEIp0WzJSJpJxRFq1i58F6u596DcHVx_afyqPcZOyg6QKtcCed0pnsDfbPQu6hMn4MqGamg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:20:51Z',
+                timestamp: '2025-04-29T11:20:51Z',
                 content: '계속 이럴꺼면 중간고사 기말고사 폐지하고 기말때 로또시험보게하는게 맞지.',
                 reactions: {
                     useful: 42,
@@ -796,7 +796,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-fb4cw2wg8w',
                 author_profile_image:
                     'https://yt3.ggpht.com/Uk4tvtFK_ZWyb3p19amWWUsGJcebpYaDaX17IkKcSR0E4Nm1vPjDoppS4OUosXi_ejY0C5pobw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:21:04Z',
+                timestamp: '2025-04-29T11:21:04Z',
                 content: '@@wodbstjdbs11공정함ㅇㅇ',
                 reactions: {
                     useful: 40,
@@ -814,7 +814,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@채널설정-y9u',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:43:34Z',
+                timestamp: '2025-04-29T11:43:34Z',
                 content:
                     '​@@wodbstjdbs11수능이 뭔 내신인줄 아시나.. 수능은 논리적 사고력을 측정하는 문제라 지엽적인게 상관없습니다;; 단순 암기로 푸는 문제가 없다고요',
                 reactions: {
@@ -833,7 +833,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@illijllillj4477',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lYS9FTmHsVo31oZAfGChbHz0IW5mlYEvPUOQ-xM2Y=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:52:32Z',
+                timestamp: '2025-04-29T11:52:32Z',
                 content: '수능 9월, 10월, 11월 이렇게 3번 쳐서 최고 점수로 대학 가는 게 맞다.',
                 reactions: {
                     useful: 71,
@@ -851,7 +851,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@doongbeen',
                 author_profile_image:
                     'https://yt3.ggpht.com/hZqA20d1jS1qv9P1IijIMcqPzIGfw8h01ICYUb2JzIY9CspZ9gKVSfljdo__n9a-aCHn8ukp=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:56:42Z',
+                timestamp: '2025-04-29T11:56:42Z',
                 content: '94년 수능 2번 봤지만 소용없었는데.',
                 reactions: {
                     useful: 93,
@@ -869,7 +869,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@왈츠-o6b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kR2VGII8Sx5y0wI51-DcdATcHOyeU1T7Jj0sQQUd7tLpl3d2L-lZZu3BIzrHlNoo2hd_jqGCpA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:03:17Z',
+                timestamp: '2025-04-29T12:03:17Z',
                 content:
                     '​@@쿠쿠-r7k그러한 단점보다 시험범위내의 나오지않는 내용이 없도록 복수시험 치르는게 더 공정한건 맞음.',
                 reactions: {
@@ -888,7 +888,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@David딜레마',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nnjb_jRyqfah4u63Kda_5kg-JKYIB3yu8_VABjXCtlmHo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:10:22Z',
+                timestamp: '2025-04-29T12:10:22Z',
                 content: '글쎄다. 그럼 거기에따른 단점도 많을텐데',
                 reactions: {
                     useful: 82,
@@ -906,7 +906,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@bobong_0902',
                 author_profile_image:
                     'https://yt3.ggpht.com/tYZNE9Yy7WL0qH-Vjyawrqwa5iMMCjOKPzH9H53aJDt4yx8zjvkv765KliiKvX_fRxNcx9vH0cY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:12:42Z',
+                timestamp: '2025-04-29T12:12:42Z',
                 content: '그게 모의고사로 보는거아님?\n난 그렇게생각했는데\n수능연습겸',
                 reactions: {
                     useful: 77,
@@ -924,7 +924,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@bobong_0902',
                 author_profile_image:
                     'https://yt3.ggpht.com/tYZNE9Yy7WL0qH-Vjyawrqwa5iMMCjOKPzH9H53aJDt4yx8zjvkv765KliiKvX_fRxNcx9vH0cY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:14:37Z',
+                timestamp: '2025-04-29T12:14:37Z',
                 content:
                     '​@@wodbstjdbs11 경쟁사회에 공정이 어딨음ㅋㅋ\n이미 사교육비.그날컨디션관리. 부모님이 시간여유되서 데려다주는집 .등등 공정하지않을사안을 차고도 넘침ㅋㅋㅋ',
                 reactions: {
@@ -943,7 +943,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:18:07Z',
+                timestamp: '2025-04-29T12:18:07Z',
                 content:
                     '@@bobong_0902 아니 그게 공정해야한다는게 아니잖아; 적어도 수능은 공정해야지',
                 reactions: {
@@ -962,7 +962,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-fb4cw2wg8w',
                 author_profile_image:
                     'https://yt3.ggpht.com/Uk4tvtFK_ZWyb3p19amWWUsGJcebpYaDaX17IkKcSR0E4Nm1vPjDoppS4OUosXi_ejY0C5pobw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:23:05Z',
+                timestamp: '2025-04-29T12:23:05Z',
                 content: '@@wodbstjdbs11 수능보다 공정한 시험이 이 세상에 어딧노',
                 reactions: {
                     useful: 15,
@@ -980,7 +980,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjunpark7484',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kr4R1kimoPNsDuXrs4Uetqym8b68HaYwlWtdlQVz4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:24:47Z',
+                timestamp: '2025-04-29T12:24:47Z',
                 content:
                     '1번보면 긴장되니 수능 3,4번으로 늘리자?? ㄹㅇ 코흘리개 급식애들이나 할 만한 유치찬란한 생각임 ㅋㅋㅋㅋ 모든 사람들의 통장에 0하나 더 붙여주면 모든 국민이 10배 부자 될거라는 멍청한 생각과 구조가 똑같음. 사회 나가보면 운전면허나 컴활 같은 시험들은 매주, 아니 매일 있지만 행정고시, 전문직시험, 국가고시 같은 인생과 직업을 정하는 중요한 시험은 1년에 한번만 치는 이유가 있음. 생각이란걸 좀 해 봐 아가들아',
                 reactions: {
@@ -999,7 +999,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@나은성-c8u',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mKrtobdYiufD7Tt90bOwwxPZDKXoZ76peTNSc8q7o=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:29:41Z',
+                timestamp: '2025-04-29T12:29:41Z',
                 content: '오히려 그 긴장감이 34번인건데....',
                 reactions: {
                     useful: 79,
@@ -1017,7 +1017,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김치찌개-i2k',
                 author_profile_image:
                     'https://yt3.ggpht.com/FqjesLm6TI1I9dndD_MyZSERRnQQE-JdUhQqp4RokGqixkJIb_nFLxsg3X63cKLdNuU8X2yHdoU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:34:50Z',
+                timestamp: '2025-04-29T12:34:50Z',
                 content:
                     '​@@wodbstjdbs11 그럼 내신은 공정하고 취직시험은 공정하고 토익은 공정하고 면접은 공정하고 다 공정해야하냐?',
                 reactions: {
@@ -1036,9 +1036,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-kdh049',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:38:16Z',
+                timestamp: '2025-04-29T12:38:16Z',
                 content:
-                    '학생아닌사람특: 지들이 ㅈㄴ 좋다고함 ㅋㅋㅋㅋㅋ \n너도 다시 재수해서 대학 좋은데 가지그래',
+                    '학생아닌사람특: 지들이 좋다고함 ㅋㅋㅋㅋㅋ \n너도 다시 재수해서 대학 좋은데 가지그래',
                 reactions: {
                     useful: 45,
                     agree: 70,
@@ -1055,7 +1055,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@lycos2002',
                 author_profile_image:
                     'https://yt3.ggpht.com/776K64QFr9KNwBsmwoi5QpVQDzWX5NyJpMtwN-shLIbcRbLTIWxRiLzdUQ099re_Cs9eZOoK3A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:55:03Z',
+                timestamp: '2025-04-29T12:55:03Z',
                 content:
                     '수능 1세대 입니다. 2번 쳤어요.. 쳐보면 압니다. 의미 없다는 것을 학생들 스트레스만 올라가고.. 왜냐? 두번째 수능이 아주 어려워서 모두 망했습니다. 치고 나서 그때야 모두 느꼈죠...이건 기회가 아니라 두번 죽이는 거구나..',
                 reactions: {
@@ -1074,7 +1074,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@どまんなか-y3h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:56:35Z',
+                timestamp: '2025-04-29T12:56:35Z',
                 content:
                     '원래 수능 일년에 두번봤었음\n근데 부작용이 너무 심한게 점수인플레, 오히려 더 심해진 사교육 압박때문에 사라진걸로 알고있음',
                 reactions: {
@@ -1093,7 +1093,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@이잽-i2r',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kjBNPyIhpMoSb5hIKIju8CUd_oykyr4GO7USOa4gVXKzI-RlyThDtf5Kq4e7xDgh2DBGKe67YB=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:57:45Z',
+                timestamp: '2025-04-29T12:57:45Z',
                 content: '수능치는게 젤 공정한거아님?',
                 reactions: {
                     useful: 14,
@@ -1111,7 +1111,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@lys8520',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mJipDHOQugHX1zGCGgUW-LyP41hs6oVBh1B-nIsAc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:02:34Z',
+                timestamp: '2025-04-29T13:02:34Z',
                 content: '진짜 지일 아니라고 막말하네 ㅋㅋ',
                 reactions: {
                     useful: 97,
@@ -1129,7 +1129,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@그래서_나는',
                 author_profile_image:
                     'https://yt3.ggpht.com/ALhoFjI3myJJoubldYHaRLbQYUBr8woCoreX1z8Hi6mohRllFbG-7gZxbCYxywVedgmFvqay=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:42:23Z',
+                timestamp: '2025-04-29T13:42:23Z',
                 content: '이미 한번 했었는데 결과가 처참했는지 한번에 철회됨',
                 reactions: {
                     useful: 24,
@@ -1147,7 +1147,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@312-e7x',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n7WzTVRNVhxwcyWlhWQloN8fynoabrt7d3kVW4C7M=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:56:45Z',
+                timestamp: '2025-04-29T13:56:45Z',
                 content: '대학교때 한학기에 6번 시험을 본 경험으로 봤을때 절대 좋은 정책아님.',
                 reactions: {
                     useful: 94,
@@ -1165,7 +1165,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김형원-z2b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nuWA0P_2tAMfEt3vmYjsgOkx0zvGEhlMYVsWd03DY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:04:35Z',
+                timestamp: '2025-04-29T14:04:35Z',
                 content:
                     '​@@wodbstjdbs11같은 출발선에서 동시에 출발하는거보다 공정하게 만들 방안이 있나요? 입시제도에서 수능보다 공정한 제도는 없는거 같은데',
                 reactions: {
@@ -1184,7 +1184,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:07:53Z',
+                timestamp: '2025-04-29T14:07:53Z',
                 content: '@@김형원-z2b 당연히 수능이 제일 공정하죠 제가 언제 안공정하대요',
                 reactions: {
                     useful: 66,
@@ -1202,7 +1202,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sj9029',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nWnOqbWsWkx3ZLxJXD7LnPfQTOjtg5RTqMDncK3VQSTps=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:08:26Z',
+                timestamp: '2025-04-29T14:08:26Z',
                 content:
                     '교육이 뭔지 알아나 보고 얘길 해봤으면 ㅡㅡ. 왜 수능은 꼭 1번만 봐야하나요? 1번의 시험을 보는데는 외적요인(환경, 운, 컨디션 등의 학습자가 통제 불가능한 귀인들)이 크게 체감되겠죠. 그리고 1년의 준비기간=결국 사회진출에 1년이 늦춰짐=사회적 비용의 상승입니다.',
                 reactions: {
@@ -1221,7 +1221,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jakisarang6275',
                 author_profile_image:
                     'https://yt3.ggpht.com/G2cdu849oELoQLv4sb0qDqLSbMoJbdmCSy4ywqYeVdNZFLWtPDACMlgRyofOJh5eNlPDHXic=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:08:32Z',
+                timestamp: '2025-04-29T14:08:32Z',
                 content: '미국도 여러번 볼 수 있잖아요~ 그 중에 골라서 제출하도록',
                 reactions: {
                     useful: 35,
@@ -1239,7 +1239,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:11:32Z',
+                timestamp: '2025-04-29T14:11:32Z',
                 content: '@@312-e7x 그건 너무 과했고ㅋㅋ 무슨 1년12번보는거랑 3,4번보는거랑 비교해',
                 reactions: {
                     useful: 1,
@@ -1257,7 +1257,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sj9029',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nWnOqbWsWkx3ZLxJXD7LnPfQTOjtg5RTqMDncK3VQSTps=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:11:42Z',
+                timestamp: '2025-04-29T14:11:42Z',
                 content:
                     '그리고 요즘 수능은 노인네들 당신들이 치던 학력평가나 수능따위가 아닙니다.\n"교과서로만 공부했어요~" 요즘 대부분 학생들이 이렇게 공부하면 평균 4등급 나오기도 힘들 겁니다. 문항 자체 수준이 상향되었고 출제 년도가 쌓일수록 지엽적인 부분을 출제하게 되고 기존의 정형화된 문항별 유형에서 조금만 벗어나면 오답률이 크게 오릅니다.',
                 reactions: {
@@ -1276,7 +1276,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:15:07Z',
+                timestamp: '2025-04-29T14:15:07Z',
                 content: '@@sj9029 여기 노인이 있나..?ㅋㅋ',
                 reactions: {
                     useful: 14,
@@ -1294,7 +1294,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@정시연대',
                 author_profile_image:
                     'https://yt3.ggpht.com/jY8SJS5njVJQmxSYZAeipklUXSv5aDRm5WJsU6FJxt6GPvqpgQOZzZxpi-K4tvHqo87GYkAq=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:22:52Z',
+                timestamp: '2025-04-29T14:22:52Z',
                 content: '1년에 한번보는 그날의 도파민이 난 좋다',
                 reactions: {
                     useful: 5,
@@ -1312,7 +1312,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@이태규-m5z',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n-pXIeSmbEtkpEHRs17ucqGD5G4wmfnprj5A8p4mXuUPw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:24:28Z',
+                timestamp: '2025-04-29T14:24:28Z',
                 content: '다같이 시험을 잘보게되면 그만큼 문제가 어려워져야한다는걸 왜 모르는걸까',
                 reactions: {
                     useful: 17,
@@ -1330,7 +1330,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@どまんなか-y3h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:28:36Z',
+                timestamp: '2025-04-29T14:28:36Z',
                 content:
                     '@ 대입에 1년이 걸리는건 수능을 여러번 보나 한번보나 대학 입학이 1년에 한번이라 그런겁니다 수능을 여러번본다고 1년간의 대입 횟수가 늘어나지는 않아요ㅋㅋ',
                 reactions: {
@@ -1349,7 +1349,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@으음-w1f',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l2yPuiPIQnVb5fQuT3GP-HANrolqixmOSIntnZ2GQjAw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:39:03Z',
+                timestamp: '2025-04-29T14:39:03Z',
                 content:
                     '근데 4번은 진짜 지옥 아님? 한 번에 결정나는 게 부담스럽다고? 그럼 4번 다 안 미끄러지고 다 잘봐야 되는 상위권은 안부담스럽냐?',
                 reactions: {
@@ -1368,7 +1368,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@どまんなか-y3h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:56:42Z',
+                timestamp: '2025-04-29T14:56:42Z',
                 content:
                     '중간고사 하루 늘어나는것도 발악하면서 싫어하는데 수능 늘어나면 잘도 좋아하것다야...',
                 reactions: {
@@ -1387,7 +1387,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@책읽는딸기우유',
                 author_profile_image:
                     'https://yt3.ggpht.com/J6cGdv6TcAzOYJiQal30Uxk1zSOySBPo8H6y5iHDER0Be07gKJfDD7068sL_sut1tVeYP-vx=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:05:25Z',
+                timestamp: '2025-04-29T15:05:25Z',
                 content:
                     '제가 학생이면 수능 여러번은  더 부담될것 같아요 ㅜㅜ 차라리 수행을 줄여주세요',
                 reactions: {
@@ -1406,7 +1406,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sky_8099',
                 author_profile_image:
                     'https://yt3.ggpht.com/Ws4DMke8vmHZRJYYx05bcjg24H209PUAKQHHdBBr43_ehvWTDJlM3OyopzPQiLHx__EoCMC8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:48:14Z',
+                timestamp: '2025-04-29T15:48:14Z',
                 content:
                     '제가 지금 고3인데 수능 3~4번 생각만 해도 숨 막혀요.. 일년에 수능 3~4번이면 하반기에만 치는 게 아니라 상반기에도 칠텐데 그러면 현역보다 n수생이 너무 유리해서 현역은 그냥 예습을 미리 해오던 똑똑한 애들 아니면 대학 못 갈거고, 그렇다고 하반기에 다 몰아서 치는 것도 별 의미가 없고 그냥 수능 한 번 칠 때 긴장감만 3~4번씩 느끼는 것 같은데요? 차라리 한 번 치고 치우는 게 낫지.. 이걸 여러 번 하라 그러면... 내신에서도 시험 한 번만 삐끗하면 상위권 애들은 다 정시파이터로 돌리거나 자퇴하는데, 이러면 N수생 더 늘어날수도 있어요',
                 reactions: {
@@ -1425,7 +1425,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@태평성대한국',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k0hRxDL0G2qBK70QoD0nyNgeOe-Tcs0jnykEOxGSNoug4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:05:09Z',
+                timestamp: '2025-04-29T16:05:09Z',
                 content: '투자의원칙도 분산투자. 통계학적, 큰수의법칙등등 횟수를 높이는것이 좋음',
                 reactions: {
                     useful: 47,
@@ -1443,7 +1443,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-fb4cw2wg8w',
                 author_profile_image:
                     'https://yt3.ggpht.com/Uk4tvtFK_ZWyb3p19amWWUsGJcebpYaDaX17IkKcSR0E4Nm1vPjDoppS4OUosXi_ejY0C5pobw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:48:26Z',
+                timestamp: '2025-04-29T16:48:26Z',
                 content: '@태평성대한국 시험은 주식이 아닌데',
                 reactions: {
                     useful: 44,
@@ -1461,7 +1461,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@gnothiseauton3075',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nTkxYEqWS8FfhteCkkiqMRmFNCtYWUfSoHO7tg-20=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:26:40Z',
+                timestamp: '2025-04-29T17:26:40Z',
                 content: '@@쿠쿠-r7k 이런 애들이 국평오라 이해를 못하는거구나...',
                 reactions: {
                     useful: 30,
@@ -1479,7 +1479,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-dx8vz7mo8g',
                 author_profile_image:
                     'https://yt3.ggpht.com/OgAzTvfjPvIf0cOUA7T9dXbWO67jHPo5dSSV35k6ARUt8-7fvM4OAoI4A06p-HMmuvms_-Xy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T19:07:09Z',
+                timestamp: '2025-04-29T19:07:09Z',
                 content:
                     '현 수험생 입장에서 이런 놈들 진짜 개짜증남.. 안그래도 고교학점제 때문에 ㅈ같은데 그만 좀 쳐 바꿔 수능 여러번 보고 싶으면 걍 재수해',
                 reactions: {
@@ -1498,7 +1498,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@헤헤헤헤-j9c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mo7mWwMjX7LHrO4LB3JZLcJZ3dL-n_Vb8UjkRRAD4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T19:11:20Z',
+                timestamp: '2025-04-29T19:11:20Z',
                 content:
                     '​​@@sky_8099\n미국은 가장 잘 나온 점수로 응시한다고 합니다\n3-4번 평균점수가 아니라요\n3-4번의 기회를 주는거죠',
                 reactions: {
@@ -1517,7 +1517,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@기시다바리굥',
                 author_profile_image:
                     'https://yt3.ggpht.com/ThBxIfYyJn3N_NDQCaV80FU2L7IjJGCRWVutK9Yv-SmdYiJimPo_e05OGCytu8v8N2gtyVCGig=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T21:15:35Z',
+                timestamp: '2025-04-29T21:15:35Z',
                 content:
                     '스스로 그런걸 제어하는것도 능력중 하나임 시험 한번이나 3-4번이나 긴장할 애들은 짜피 글러먹음',
                 reactions: {
@@ -1536,7 +1536,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-284d_2',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_loFWowXAhF8eIbUD8Z_qr6yg3hdesfm_i4C-EP6NzkbSM=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T21:46:58Z',
+                timestamp: '2025-04-29T21:46:58Z',
                 content: '그렇게 생각하는건 니가 하위권인생이라그럼​@@쿠쿠-r7k',
                 reactions: {
                     useful: 10,
@@ -1554,7 +1554,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-y6e',
                 author_profile_image:
                     'https://yt3.ggpht.com/mkmnP3ENqX3ARGlzbUMit2djv4gVFuAPDQ2eeHzGb0H-NEBbhmLkPlaKfm-qVdpJ8ktdAmKQgg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T22:00:22Z',
+                timestamp: '2025-04-29T22:00:22Z',
                 content:
                     '​@@Wawqexazcfdjendjfjd 물수능이라고 평가받는 이번 수능도 만점자가 11명인데 어케 만점자가 몇천명이 속출해요ㅋㅋㅋㅋ 다 25수준으로 나온다고 하고 각각 시험에서 다 다른 사람들이 만점받는다고 해도 44명인데',
                 reactions: {
@@ -1573,7 +1573,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T22:15:57Z',
+                timestamp: '2025-04-29T22:15:57Z',
                 content:
                     '​@@wodbstjdbs11수능은 무조건 전범위에서 다 나오고, 지엽적인 부분에선 내지 않습니다',
                 reactions: {
@@ -1592,7 +1592,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:55:14Z',
+                timestamp: '2025-04-29T23:55:14Z',
                 content:
                     '반대로 실수를 커버할 수 있는 기회가 제공되는 건데 학생들은 더 좋지 않나\n6,9평 잘보고 수능 조지는 현역들 생각보다 많음',
                 reactions: {
@@ -1611,7 +1611,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@SeoulH_KIM',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxRydpw8rghpq1_B-I1W8kyzxbr7HHjatyUf0ePS0oD9s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:10:41Z',
+                timestamp: '2025-04-30T01:10:41Z',
                 content:
                     '이야... 이런 댓글들이 모여서 학생들을 더 입시지옥으로 보내는구나. 정시는 한번으로 고정하고, 더 다양한 방법으로 자주 뽑아야지. 정시 여러번은 그냥 사교육 배만 채우겠다는 심보에 교수들이 올라탄 꼴에 지나지 않다.',
                 reactions: {
@@ -1630,7 +1630,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:53:19Z',
+                timestamp: '2025-04-30T01:53:19Z',
                 content:
                     '@@pizzalover870 그건 실수를 커버하는 그런 게 아니라, 본래 실력 찾아가는 겁니다\n\n6평 때에 비해서 당연히 못 치죠 8, 9등급 학생들 수능 아예 안 쳐버리거든요 허수가 사라지니 성적은 떨어지고, 그걸 컨디션 관리라고 애먼 데에서 이유 찾는 겁니다',
                 reactions: {
@@ -1649,7 +1649,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:57:26Z',
+                timestamp: '2025-04-30T01:57:26Z',
                 content:
                     '@@SeoulH_KIM 수시 확대하면서 애들 수준 떨어졌디는 대학교수들 평이 많습니다.\n그리고 사교육과 교육격차를 해소하겠다고 시행한 정책이지만 오히려 입시 빈부격차가 더 벌어지게 된 정책이기도 하구요.',
                 reactions: {
@@ -1668,7 +1668,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:58:55Z',
+                timestamp: '2025-04-30T01:58:55Z',
                 content:
                     '@@박경덕-l2m 6-9평 상위권자들은 지나고 수능까지 공부 안할까요...?\n2-3등급 학생들은 몰라도 1등급 최상위권들은 결국 실력은 대동소이하고 실수 없으면 그대로 성적 나오더군요',
                 reactions: {
@@ -1687,7 +1687,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:31:19Z',
+                timestamp: '2025-04-30T02:31:19Z',
                 content:
                     '@@pizzalover870 결국 비율 차이인 거죠 최하위권이 사라진 상태에서 파이를 나눠먹어야 한다면, 변동이 크게 발생하는 건 등급 커트라인에 걸쳐져 있는 학생들과 비율이 많지도 적지도 않은 2, 3등급 라인이 됩니다\n\n공부를 안 했다는 것은 아닙니다 단지 상대평가이기 때문에 공부를 남들보다 더 많이 해야 한다는 전제가 붙는 거죠 거기다 100일 남으면... 현역들은 평균적으로 집중력이 떨어집니다 대학교 생활하는 상상을 많이 하더라구요',
                 reactions: {
@@ -1706,7 +1706,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:33:40Z',
+                timestamp: '2025-04-30T02:33:40Z',
                 content:
                     '@@pizzalover870 수능은 타임어택의 성향이 있기 때문에 매일마다 꾸준히 해서 습관을 들여놓지 않으면 더 긴장하게 되는 수능에서는 미끄러질 수밖에 없어요\n\n이러한 여러 이유들이 복합적으로 일어나니 현역들이 힘들어하는 겁니다 반대로 진지하게 준비하는 n수생들은 그걸 겪어봐서 알기 때문에 상대적으로 유리한 고지에서 시작할 수밖에 없는 거구요',
                 reactions: {
@@ -1725,7 +1725,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sj9029',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nWnOqbWsWkx3ZLxJXD7LnPfQTOjtg5RTqMDncK3VQSTps=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:58:34Z',
+                timestamp: '2025-04-30T02:58:34Z',
                 content:
                     '3~4번 응시 성적의 평균이아니라 가장 좋은 성적을 골라가는 제도인데 4번이 부담스럽다 ㅇㅈㄹ하는 인간들은 초등교육과정을 수료하긴 한건가 싶네. 늙은이들이 빨리 죽어야 젊은이들이 숨통이 트인다 ㅅㅂ',
                 reactions: {
@@ -1744,7 +1744,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-rt8tn6ql9m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nGdxHggwLHT6APW4g2tkdzpabWTUROzjQt1gsTwxIEtw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T05:51:39Z',
+                timestamp: '2025-04-30T05:51:39Z',
                 content:
                     "@@wodbstjdbs11 달리기도 수능처럼 정규교육과정에 맞춰서 초등 6년, 중등 3년, 고등 3년 교육시키고 나서 100미터 달리기 시킨다고 칩시다. 그 과정에서 열심히 한 사람, 논 사람, 적당히 한 사람, 태생적으로 운동신경이 좋은 사람, 그렇지 못한 사람, 운이 그날따라 좋았던 사람, 안좋았던 사람 다 나올 수 있겠죠. 근데 그렇다고 해서 그 방식이 '공정'하지 못한건가요? 어떤 상황이든 모두에게 똑같이 적용되는건데 공정하지요 당연히. 그리고 무슨 10여년 넘는 세월동안 쌓아온 걸 바탕으로 보는 시험을 갖다가 달리기에 비교하십니까 ㅋㅋㅋ",
                 reactions: {
@@ -1763,7 +1763,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T05:57:05Z',
+                timestamp: '2025-04-30T05:57:05Z',
                 content:
                     '@@user-rt8tn6ql9m 핀트를 잘못잡으셨네요ㅋㅋ 수능보다 간결한 달리기조차도 바람같은 환경에 따라 많이 좌지우지되는데 수능은 더심하다는 말입니다',
                 reactions: {
@@ -1782,7 +1782,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wodbstjdbs11',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mGHFKWHQWYcls6WLIOK0ElAR0pCzpzB3x87f0pXOI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T05:59:35Z',
+                timestamp: '2025-04-30T05:59:35Z',
                 content:
                     '@@user-rt8tn6ql9m 세상엔 완벽한 공정이란 없습니다. 1개를 3,4개로 늘리면 공정의 오차를 줄일수있다는 주장이 잘못된 의견인가요?',
                 reactions: {
@@ -1801,7 +1801,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-rt8tn6ql9m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nGdxHggwLHT6APW4g2tkdzpabWTUROzjQt1gsTwxIEtw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T06:12:42Z',
+                timestamp: '2025-04-30T06:12:42Z',
                 content:
                     '@@wodbstjdbs11 세상에 완벽한 공정이라는건 없다는 의견에는 동의합니다. 근데 한정된 자원으로 사람을 평가하는 도구로서 시험을 이용하는 상황에서 시험을 한번 보든 두번 보든 세번 보든 네번 보든 일어날 수 있는 상황을 가지고 공정을 논하는게 이상하다는 말이죠. 부담감의 측면에서 보면 어떤 사람은 10여년 동안 노력한 결과물을 한번의 시험으로 끝내는것이 부담감이 크다고 느낄 수도 있고, 어떤 사람은 시험 3~4번을 다 잘 쳐야만 할 것 같다고 생각하여 그 방식이 오히려 부담된다고 느낄수도 있죠. 그런데 시험을 한번 보는 상황에서 있었던 재능의 차이, 학업을 뒷받침해줄 부모의 경제력 차이, 노력의 차이, 운의 차이 등이 시험을 3~4번 본다고 달라집니까? 그냥 시험의 특성 상 (시험을 한번 보든 여러번 보든)발생할 수 밖에 없는 문제를 갖다가 왜 횟수의 차이가 공정한 정도의 차이를 만든다고 생각하시는건지...',
                 reactions: {
@@ -1820,7 +1820,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@준법-u7c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kuNMnERz6jqlDtz5523hViLiCRaI2xiVpPrOP_ky_-Kg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T06:51:29Z',
+                timestamp: '2025-04-30T06:51:29Z',
                 content: '진짜 숨쉴틈도 없겠다',
                 reactions: {
                     useful: 0,
@@ -1838,7 +1838,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Lee-iu6gj',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nX4HfiXY6W7mAzsZPP4xrRi4LVwy3DxJ8n5bP9lQBRqqbrj1s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T07:48:35Z',
+                timestamp: '2025-04-30T07:48:35Z',
                 content:
                     'ㅎㅎㅎ 여러번 보면 선행 사교육 더욱더 많아지고 애들은 더 이른 나이부터 학원 보내질텐데',
                 reactions: {
@@ -1857,7 +1857,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:26:48Z',
+                timestamp: '2025-04-30T10:26:48Z',
                 content:
                     '@@박경덕-l2m 2024년 6평 응시자 37만명, 수능 응시자 44만명인데요...?\n파이는 오히려 늘어납니다...',
                 reactions: {
@@ -1876,7 +1876,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:28:47Z',
+                timestamp: '2025-04-30T10:28:47Z',
                 content:
                     '@@박경덕-l2m 그렇게 실수하는 것을 어느정도 보정해주자는 취지에서 수능 횟수를 늘리자는 겁니다.\n적어도 평소에 열심히 했고 잘 해왔는데 수능 당일에 긴장해서 망친 수험생보다 평소에 그 실력이 아니었는데 찍신으로 등급이 더 높게 나오는 사람 비율이 적어져야 교육과 선발이라는 측면에서 의미가 생긴다고 생각합니다',
                 reactions: {
@@ -1895,7 +1895,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:29:43Z',
+                timestamp: '2025-04-30T10:29:43Z',
                 content: '@@Lee-iu6gj 어떤 근거에서 그렇게 생각하시는지 궁금합니다!!',
                 reactions: {
                     useful: 44,
@@ -1913,7 +1913,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:30:17Z',
+                timestamp: '2025-04-30T10:30:17Z',
                 content:
                     '@pizzalover870  당연하죠... n수생들 9평에 안 들어오는 경우 많아요 혼자서 하거나 반수하거나 해서요',
                 reactions: {
@@ -1932,7 +1932,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:33:47Z',
+                timestamp: '2025-04-30T10:33:47Z',
                 content:
                     '@@pizzalover870 그 생각이 이미 이전에 시행됐었고, 그게 순식간에 없어졌었습니다\n\n학생들이 시험을 망치는 이유에 긴장이 포함되긴 하죠 저도 긴장 엄청 했었거든요 근데  그런 이유라거나, 찍어서 운 좋게 더 맞는 걸로는 그렇게 유의미한 결론을 도출할 수 없어요\n\n휴대폰 배터리 분리형에서 일체형으로 바뀌었다가 다시 분리형 방식 어떠냐고 이야기 나오는 거랑 별 반 차이 없어보이네요 저는',
                 reactions: {
@@ -1951,7 +1951,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:35:21Z',
+                timestamp: '2025-04-30T10:35:21Z',
                 content:
                     '@@pizzalover870 3 6 9평을 수능처럼 하자는 건데, 그렇게 되면 결국 학생들만 힘들어질 뿐이라 생각해요\n\n3월달에 준비 안 된 애들... 생각보다 엄청 많답니다 더 불평등한 기회가 될 수도 있어요 1등급 애들은 3월달에도 1등급이지만... 다른 애들은 안 그럴 거거든요 표준점수 장난 아니게 튈 겁니다',
                 reactions: {
@@ -1970,7 +1970,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pizzalover870',
                 author_profile_image:
                     'https://yt3.ggpht.com/ahyz1jRCAqv0zzQCs1lilrWZMH3Po5T2JiGk2AKBJtdwfv-D-OWgjmDsK_HRFFOvyALrF7fy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:42:54Z',
+                timestamp: '2025-04-30T10:42:54Z',
                 content:
                     '@ 그런 부분에 있어서는 조정이 필요하다는 거에 동의합니다.\n현 입시 제도에 개편이 시급하다는 공감대도 형성되는 만큼 수시-정시 제도를 참고하여 수능성적을 척도로 삼는 완전 정시와 함께 수시-정시 혼합 제도를 개설하여 신 다회차의 수능에서의 성적 향상 곡선을 보는 전형 또한 신설하고 현 제도에서 진행 중인 수시는 폐지, 입학사정관제도로 대체하는 방안이 좋다고 생각하는데 혹시 이에 대해서는 어떻게 생각하시는지 고견을 여쭙고싶습니다!!',
                 reactions: {
@@ -1989,7 +1989,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박경덕-l2m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lA5ZTtrQnCtGUyrA4yiQuDE7uGGNx9DQXsPH9uCuG3Ng=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T12:54:31Z',
+                timestamp: '2025-04-30T12:54:31Z',
                 content:
                     '@@pizzalover870 고견이라 할 게 있을까요 사실 저도 개편에 대해서는 찬성하는 편입니다만, 경쟁구도인 만큼 모두가 만족할 수 있는 방법은 없다고 생각해요 단지 학생들이 덜 힘들었으면 하는 바람이죠\n\n그래서 더 좋은 방안이 연구된다면 정말 좋겠다고 생각하지만서도, 수능 4번 치자는 말은 너무 책임 없는 말이라고 개인적으로 생각합니다',
                 reactions: {
@@ -2008,7 +2008,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jaekyulee3757',
                 author_profile_image:
                     'https://yt3.ggpht.com/1lgdPpUJ0o2wBWrwTYucuVbCwaq1eSvOPwxiyi9onMgtobhQs6FA7--YgejQo71SoFQYALub=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T15:50:08Z',
+                timestamp: '2025-04-30T15:50:08Z',
                 content:
                     '수능 여러번 볼 수록 잘사는집 애들이 더 잘보고 돼있음. 그냥 딱 한번봐도 됨. 망하는건 지팔자임.',
                 reactions: {
@@ -2027,7 +2027,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@go4kchipro144',
                 author_profile_image:
                     'https://yt3.ggpht.com/1_8oq-IaNpbuvIF9iKDlOEP7HTvy2w5du1zonZQLqn8ZyGpS9G_CeP-QQ8vBoweCWAq2XSwD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T18:55:35Z',
+                timestamp: '2025-04-30T18:55:35Z',
                 content:
                     '@@jakisarang6275 문제는 학교마다 다름. 낮은 시험점수도 공개할 수 밖에 없는 곳도 있고 하나만 보는 곳도 있음. 참고로 미국 의대나 치대는 모든 점수가 공개됨. 여러번 봤을 때 성적이 하향곡선을 그리거나 아주 나쁜 점수가 있다면 위기가 올 수도 있음. 참고로 학부같은 경우 예일대는 모든 SAT점수가 공개된다고 함. 한국과 다르게 워낙 광범위하게 지원하고 변수가 크기 때문에 사실 내가 원하는 학교나 나에게 적합한 학교가 그 정책이 다를 수가 있음.',
                 reactions: {
@@ -2046,7 +2046,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-yesimhentai',
                 author_profile_image:
                     'https://yt3.ggpht.com/u3_diIZ_SvmDHDA36S_MXJ90jKPuEWiv4QKvo1Gsoo9Dj38kXQsJRzOHwt4S6VYLfwi6aiBZIg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T01:52:32Z',
+                timestamp: '2025-05-01T01:52:32Z',
                 content: '​@@쿠쿠-r7k 대부분의 해외는 여러번 시행합니다.',
                 reactions: {
                     useful: 40,
@@ -2064,7 +2064,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@라데나-g9w',
                 author_profile_image:
                     'https://yt3.ggpht.com/h1IFg-Sh1BlNhpJ-GgbhGHHGGVK58qWKO5mEveFAdzSmMVze6gPtQMD48iDDnsXApcdKbl80cQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T05:05:42Z',
+                timestamp: '2025-05-01T05:05:42Z',
                 content:
                     '@@쿠쿠-r7k 지옥인건 맞지.... 근데 말이야 이게 공정하다는 걸 위대하신 서울대 교수님들께서 제시하셨는데 당연히 받아들여야겠지?',
                 reactions: {
@@ -2083,8 +2083,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@쿠쿠-r7k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nSvfYwGpIW580eONdVJPdPfpeKAmfzAFZKk5IShvcKi8V6LVsTFBWNtga6Yxj4vSdX1HTI6zlf=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T05:35:49Z',
-                content: '@라데나-g9w  그렇게 따지면 알빠노 이미 ㅈ같은 21입시체제 경험자인데',
+                timestamp: '2025-05-01T05:35:49Z',
+                content: '@라데나-g9w  그렇게 따지면 알빠노 이미 뭐같은 21입시체제 경험자인데',
                 reactions: {
                     useful: 49,
                     agree: 24,
@@ -2101,7 +2101,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@mork777',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l4WnkGkx7g5EKl8pLa6s1ih0oOx8wl5yjbbuguN2QSXfI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T11:56:32Z',
+                timestamp: '2025-05-01T11:56:32Z',
                 content:
                     '​@@Wawqexazcfdjendjfjd 어차피 저출산이라 만점자 나와도 상관없다 당장 지금 초등학생 한 반에 10명도 안되는데',
                 reactions: {
@@ -2120,7 +2120,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jeff0101-u5k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m0TETFurn5xO3vTNZo_KyG8zEccNhCAm15C5V6i6WtE28swaootnwreDnoMX_rgJhYkA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T03:41:30Z',
+                timestamp: '2025-05-02T03:41:30Z',
                 content: '@@헤헤헤헤-j9c미국은 점수로 대학가는게 아닌데',
                 reactions: {
                     useful: 36,
@@ -2138,7 +2138,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@정민준-r2f',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lVaFIThRP-w81zUTaUhiz75dLHPwqb9NlSg_glpUs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T12:32:36Z',
+                timestamp: '2025-05-02T12:32:36Z',
                 content: '여러번 보는게 나음',
                 reactions: {
                     useful: 99,
@@ -2156,7 +2156,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@rhizome14285',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lmS7RbY1j-vXKiscL3tWyoNCiKHXRU6mhTe_2fHRQD8RqnMcZ_oSm_NOXOBGoZOnyyZHMm5ybJ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-18T18:14:01Z',
+                timestamp: '2025-05-03T18:14:01Z',
                 content:
                     '@wodbstjdbs11 수능은 지엽적인 개념이 대한민국에서 보는 시험중에 제일 적은 시험에 속하는데 하나도 모르면서 씨부리는 지능이 레전드네 ㅋㅋ',
                 reactions: {
@@ -2177,7 +2177,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@sammykwon9588',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kWdNWJuxD4Qgl6g-VMbjQUCr_BLXmzawH5jxQQiDI=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:47:03Z',
+        timestamp: '2025-04-29T08:47:03Z',
         content: '이 당연한게 왜 이제야 논의가되는지ㅠ',
         reactions: {
             useful: 42,
@@ -2220,7 +2220,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@blakisu4119',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nYQvAmUyrYtkF2soc7ppz6IxaER9_xGSrVZLHiG4eUGMeY1Tl-U5nqn34h_UtOew4GdA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:22:21Z',
+                timestamp: '2025-04-29T09:22:21Z',
                 content:
                     '고스톱도 아니고 뭔 시험3번 치고 중간점수 반영이여? 한번 보고 대박나면 스톱이냐? 그냥 교육 자체가 없어도 되는 제도다',
                 reactions: {
@@ -2239,7 +2239,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@유창민-p8p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mHABxys7o5BOumMvW-CcSaJcTwNat-vFvWX1bRKzwOsvGYa84=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:26:11Z',
+                timestamp: '2025-04-29T09:26:11Z',
                 content: '​@@blakisu4119교육 안 받으신거 같긴해요',
                 reactions: {
                     useful: 7,
@@ -2257,7 +2257,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-bk1kf2eb8o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k73Q9NpTh6CTytl6DOTQI84fAN9pFL8C5gLjnbSdo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:27:04Z',
+                timestamp: '2025-04-29T09:27:04Z',
                 content:
                     '닌 혹시 한국어 이해를 못하니??\n지 혼자 이상하게 이해해버리네;😢​@@blakisu4119',
                 reactions: {
@@ -2276,7 +2276,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yama-e7h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZpRq5a9FUV_dPk9dicYgLbB-5p5rjhEIP0-NNG4-5ATCZeYs-NlFDLRJ2U7Jo4gzKyM9xA7B4A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:27:18Z',
+                timestamp: '2025-04-29T09:27:18Z',
                 content:
                     '@@sammykwon9588 기득권카르텔! 마치 가격이 비싸면 한국인들 더 달라붙어 사는것 같은?',
                 reactions: {
@@ -2295,7 +2295,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@이승윤-b4i',
                 author_profile_image:
                     'https://yt3.ggpht.com/FYQdpH3Yp5NuQUzNdc00Hx89cGbZaySJ49CCHJ9tAIBooWTNh_EsbYaJGkaw_fI3cQb7qw79L4g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:30:38Z',
+                timestamp: '2025-04-29T09:30:38Z',
                 content: '수능 한번 치를려면 돈이 많이 들어감',
                 reactions: {
                     useful: 10,
@@ -2313,7 +2313,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jaehyeon-1',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lbggbpE_z0Od3uqcAKRqUyiGi6gzd8cOL1RSyY38U=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:30:56Z',
+                timestamp: '2025-04-29T09:30:56Z',
                 content: '@@blakisu4119가정교육을 얼마나 못받았으면.. 저런',
                 reactions: {
                     useful: 49,
@@ -2331,7 +2331,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@부자를몰아내자',
                 author_profile_image:
                     'https://yt3.ggpht.com/DZCtXIi5OjrLecsCUoOHfLlAU8CzR-UG8YZAntC7csFgMRrSdrn1SGxbVYY8RH4xfsDPx8jmvQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:31:01Z',
+                timestamp: '2025-04-29T09:31:01Z',
                 content:
                     '​@@blakisu4119 애들 어떻게든 좋은 대학 갈수있게 도와주지는 못할망정 ㅋㅋㅋㅋ 연금받으면 조용히 살아라',
                 reactions: {
@@ -2350,7 +2350,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@딸기린',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lFbyfKmnEnub93baWq8QIWM_G8pDyXa8w8voLWzWVyfA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:33:00Z',
+                timestamp: '2025-04-29T09:33:00Z',
                 content: '​@@blakisu4119\n시험 3번 보고 그 점수들의 평균으로 대학 간다는 거 아님?',
                 reactions: {
                     useful: 28,
@@ -2368,8 +2368,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Hiirooshii',
                 author_profile_image:
                     'https://yt3.ggpht.com/0NbmANxknAIMKh9rD1lehnEOX2cY-Mi_-6JoH9JhG3Vg9OMtecICXP0tPOKUcTNudf5lNfe1Bg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:38:19Z',
-                content: '@@blakisu4119 교육 안받은 대갈텅텅들이 이런말을 잘함. 너처럼',
+                timestamp: '2025-04-29T09:38:19Z',
+                content: '@@blakisu4119 교육 안받은 사람들이 이런말을 잘함. 너처럼',
                 reactions: {
                     useful: 17,
                     agree: 20,
@@ -2386,7 +2386,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성훈김-m9u',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kbJU-LOWdPWfh4ae6vt3cMzKqVU8-i_x2ImN9kKQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:17:16Z',
+                timestamp: '2025-04-29T10:17:16Z',
                 content: '​@@blakisu4119 너같은 년들이 안아키같은데에 들어가는거지',
                 reactions: {
                     useful: 2,
@@ -2404,7 +2404,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dded-n1d',
                 author_profile_image:
                     'https://yt3.ggpht.com/aqaHj8IKIyDSvWuVdrUwW0FF98BDe4HQkPwqQZFhktQ4e6q26D6-F7iUHepkAcz9zzGgAzeIag=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:54:09Z',
+                timestamp: '2025-04-29T10:54:09Z',
                 content:
                     '@@blakisu4119 언제부터 대한민국에 교육이 불법이었냐....넌 한번 치나 300번 치나 점수 비슷비슷하겠다.',
                 reactions: {
@@ -2423,7 +2423,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@올라오는새',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:32:15Z',
+                timestamp: '2025-04-29T12:32:15Z',
                 content:
                     '그럼 애초에 수능 한 번 준비하는데 그 노력은 당연하지 않다는 건가? 애초에 수능 여러 번 보면 더 안 좋음. 그걸 못하면 인생 자체를 힘들게 살아갈 가능성이 높아지는 거고 ㅋㅋ 수능은 인생에서 "기회는 올 때 잡아야 한다."를 일깨워 줌',
                 reactions: {
@@ -2442,7 +2442,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Nu666-p9r',
                 author_profile_image:
                     'https://yt3.ggpht.com/a8sfhKhlpjNH0WTZZ3x2Anvav80QpC860sVu0M8uazd6Tgk83DEsYfDHr8WXc-VjNvwxWo3S=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:33:56Z',
+                timestamp: '2025-04-29T12:33:56Z',
                 content: '​@@blakisu4119 넌 나가라 그냥',
                 reactions: {
                     useful: 69,
@@ -2460,7 +2460,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@레몬케이',
                 author_profile_image:
                     'https://yt3.ggpht.com/56p3UZll2trfqbaTx13iMFwhvCPavRd10Ue2XK03OmjqepsxmwX2TZDX2RaV9k8UkkrTwfVQLQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:52:08Z',
+                timestamp: '2025-04-29T12:52:08Z',
                 content: '@@딸기린 상위권 점수나 평균이라고요 영상을 안보나?',
                 reactions: {
                     useful: 92,
@@ -2478,7 +2478,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Elekkekrkde',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kJUedU2WqwDpcrsmQAb-qEVpLxsjEuxfEMLyaoJb0l-nhb-fCqU55-F6mWWnxz_ZaYDQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:50:29Z',
+                timestamp: '2025-04-29T13:50:29Z',
                 content:
                     '진지하게 기존 1회가 낫다고 보고, 최대한 양보해도 극초창기 수능처럼 6개월마다 1회씩 해서 2번 보는게 한계라고 봄',
                 reactions: {
@@ -2497,8 +2497,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Zxzxzx-hb3oi',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lgmAPWcGqMX75v4_Yyv6POL8JYqDCj55Ko2mPhNMLnHr7dsrbumy3i7WGR6ppHgma7-g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:02:26Z',
-                content: '옛날에 그랬다가 ㅈㄴ 쳐망한적 있어서 안했던거 아님?',
+                timestamp: '2025-04-29T15:02:26Z',
+                content: '옛날에 그랬다가 망한적 있어서 안했던거 아님?',
                 reactions: {
                     useful: 93,
                     agree: 88,
@@ -2515,7 +2515,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@시청계정-kr',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mN__N_2uFbZrlLqg7AsKwxtiHGXpNz3SKALxg8-9CilkPEabyyEDNp6kOsYvddOsZvEy6GUGTW=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:55:18Z',
+                timestamp: '2025-04-29T16:55:18Z',
                 content: '초창기 수능은 2번봤었음',
                 reactions: {
                     useful: 5,
@@ -2533,7 +2533,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@surplusking2425',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lJgCpfgAEWtmcn6d6q1BioBYxo4lFwQhFfd84UTyFx=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:39:14Z',
+                timestamp: '2025-04-29T17:39:14Z',
                 content: '당연하다니 무슨 소리 당연한 논의는 대학평준화지.',
                 reactions: {
                     useful: 88,
@@ -2551,7 +2551,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-y6e',
                 author_profile_image:
                     'https://yt3.ggpht.com/mkmnP3ENqX3ARGlzbUMit2djv4gVFuAPDQ2eeHzGb0H-NEBbhmLkPlaKfm-qVdpJ8ktdAmKQgg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T22:02:49Z',
+                timestamp: '2025-04-29T22:02:49Z',
                 content:
                     '그냥 내신이니 생기부니 다 갖다버리고\n고1 3모 6모 9모 11모\n고2 3모 6모 9모 11모\n고3 3모 6모 9모 11모\n이거 다 합쳐서 대학가게 하면 안됨?',
                 reactions: {
@@ -2570,7 +2570,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@winterfaillng',
                 author_profile_image:
                     'https://yt3.ggpht.com/ihocOxgne_P1lZ2e6yU0D-O7lKeLeOvEn2LtzqrOa9aBJCUFYVr4fqd2qzG-M_T0n3EvyVIWow=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:03:27Z',
+                timestamp: '2025-04-30T02:03:27Z',
                 content:
                     '​@@blakisu4119뭔 비유를 고스톱에다가 함? ㅋㅋㅋㅋ 전혀 안맞는데 현재 재수생들이 많아지고 있는시점에서 보면 한번에 수능은 많이 불리하기때문에 이방법도 나쁘지 않을것같은데 ;; 애초에 제대로 생각도 안해보고 무작정 비난하는 너보다는 서울대교수들의 말이 더 일리있진 않을까?😅',
                 reactions: {
@@ -2589,7 +2589,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@준법-u7c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kuNMnERz6jqlDtz5523hViLiCRaI2xiVpPrOP_ky_-Kg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T07:54:15Z',
+                timestamp: '2025-04-30T07:54:15Z',
                 content: '@ 애들은 쉴 틈이 없겠네 정신병걸릴듯',
                 reactions: {
                     useful: 20,
@@ -2609,7 +2609,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@_diank1279',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kprwotmcaFMzV-zQ7WKsA7G8kpee3BgpLL0TgHR7U=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:11:09Z',
+        timestamp: '2025-04-29T08:11:09Z',
         content: '수능 한방에 인생 결정되는 것도 좀 그래 2~3번정도 나쁘지 않아',
         reactions: {
             useful: 75,
@@ -2650,7 +2650,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Nc-bv8rb',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mLKPfQfsYtfUyqqe6FpMayQRafZoRgOUnqIFjEi-enSreCJmiWcdakwZy3g21qd24UHw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:42:33Z',
+                timestamp: '2025-04-29T08:42:33Z',
                 content: '그게홍준표정책.',
                 reactions: {
                     useful: 10,
@@ -2668,7 +2668,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@스나이퍼-x3p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mAZ7fd2iyxLKcG_PJ1Qogj46WiZnY8gFCcwhE6tc_3=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:50:07Z',
+                timestamp: '2025-04-29T08:50:07Z',
                 content: '나 반수 조진건 진짜 치가 떨린다',
                 reactions: {
                     useful: 30,
@@ -2686,7 +2686,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@CrispyChicken-ut7qr',
                 author_profile_image:
                     'https://yt3.ggpht.com/BLWFKGgXFCmyZR1_sCpSRJDcn5SCon_K06H-s9EzTUtbVr4NBIDiMy_8qBGA9aRqzy5DnhqAuw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:52:35Z',
+                timestamp: '2025-04-29T08:52:35Z',
                 content: '@@스나이퍼-x3p반수 해놓고선?',
                 reactions: {
                     useful: 92,
@@ -2704,7 +2704,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@동동-z5c',
                 author_profile_image:
                     'https://yt3.ggpht.com/OQ0El89tZiCX3-qvXoe7jSpc9mX9WjK7SN7fwe9dStq90-GbZufV0Bwq9NShXKE7pIplRcN2YQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:11:28Z',
+                timestamp: '2025-04-29T09:11:28Z',
                 content: '2번이 딱 적당한듯',
                 reactions: {
                     useful: 56,
@@ -2722,7 +2722,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김민재-r7y',
                 author_profile_image:
                     'https://yt3.ggpht.com/6U0xIQBvuqQqgnel7EFpawFUU7V_O4pFWu0QnQmUB5NeWJZFz8axk3oLSCH_rO5hSOBO32V0Og=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:37:02Z',
+                timestamp: '2025-04-29T09:37:02Z',
                 content: '@@스나이퍼-x3p그건 님이 ㅋㅋ',
                 reactions: {
                     useful: 79,
@@ -2740,7 +2740,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@CloudSnackFun',
                 author_profile_image:
                     'https://yt3.ggpht.com/VxzDVqCk79RsGMuUxqtDSN0_MJreEh6TKMvfclXaoR5KvwsXnJTwA_R3vT-bEdQt2VyGa5bzXEo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:01:49Z',
+                timestamp: '2025-04-29T10:01:49Z',
                 content:
                     '근데 나는 이미 삼수했는데 진작에 그렇게 하던가\n그냥 이대로 가는게 형평성에 맞을듯요',
                 reactions: {
@@ -2759,7 +2759,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@fac-fd4rz',
                 author_profile_image:
                     'https://yt3.ggpht.com/Mbhowq8iW01YB2vwTfRCy-mQmqNtdImF4EHQLYJqoYPOjOHmEbfW6gKiS3UEgY_tniXoaig3bgI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:03:25Z',
+                timestamp: '2025-04-29T10:03:25Z',
                 content: '@@CloudSnackFun 그렇게 이기적으로 살지마라',
                 reactions: {
                     useful: 25,
@@ -2777,7 +2777,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Handlelingin',
                 author_profile_image:
                     'https://yt3.ggpht.com/s3kggEPJO_hAsUFTx2VqiRmDlSaLPxhw4cF5dVswZwMmLRqRUx2J_QtGosO7Tp2rD1YUvKs2xQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:29:39Z',
+                timestamp: '2025-04-29T10:29:39Z',
                 content: '재수생인데 시험 3번이나 보면 너무 힘들거같다',
                 reactions: {
                     useful: 83,
@@ -2795,7 +2795,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jamjamury_1342',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nNi1XpenU1Cj0EIuTueMjnsmuU1YM28lUOnY6NXtrSfD6HLM9oLGSPFemShoTD-qYMca_RguBZ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:53:00Z',
+                timestamp: '2025-04-29T10:53:00Z',
                 content: '???????? 님 학생 아니죠???',
                 reactions: {
                     useful: 35,
@@ -2813,7 +2813,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@왜불러why',
                 author_profile_image:
                     'https://yt3.ggpht.com/BIpVp_QLZE7KGFgflRLkllG-AUssEFBdS2lJPNAWEykRQY63AeIKFcCN67F6ZEeGATkI1tvBxw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:25:51Z',
+                timestamp: '2025-04-29T11:25:51Z',
                 content: '​@@스나이퍼-x3p난 반수해서 한양대 갔는데',
                 reactions: {
                     useful: 30,
@@ -2831,7 +2831,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@스나이퍼-x3p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mAZ7fd2iyxLKcG_PJ1Qogj46WiZnY8gFCcwhE6tc_3=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:27:09Z',
+                timestamp: '2025-04-29T12:27:09Z',
                 content: '@ 수고했어',
                 reactions: {
                     useful: 7,
@@ -2849,7 +2849,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@케세라세라-v6q',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:34:16Z',
+                timestamp: '2025-04-29T12:34:16Z',
                 content: '3번중에 잘나온 점수로 대학 입학이 가능하다면 좋을것 같긴합니다',
                 reactions: {
                     useful: 74,
@@ -2867,7 +2867,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Sun-n5y7n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nlBilyjMA1U52oKK26XZ_UcnniCFBmVBEaZcWRZocnDN18ZKMnESUSGCHsm8S0Thv9RQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:02:09Z',
+                timestamp: '2025-04-29T13:02:09Z',
                 content:
                     '근데 지금같은 긴장감이 유지되는 채로 2번 보면 죽어나가는 거고. 여러번 할라면 그만큼 하나 하나의 부담감도 좀 희석되야함.',
                 reactions: {
@@ -2886,8 +2886,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@반가워1',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kSgzsn-PaGdvyWXb6AMhFa1gscZpG84RXiatevNLqmSu1hqWQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:36Z',
-                content: '닥쳐 그것도실력이야 인생은언제나 한번임 면접도 그렇고',
+                timestamp: '2025-04-29T14:46:36Z',
+                content: '그것도실력이야 인생은언제나 한번임 면접도 그렇고',
                 reactions: {
                     useful: 61,
                     agree: 76,
@@ -2904,7 +2904,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@개같은강아지',
                 author_profile_image:
                     'https://yt3.ggpht.com/mF_KzJoGTrpVtssnnVaBLAxRlbx1AgoxZkejGc1y3KkMEWKYalVMib5OItqAhunRScEXmxxaGg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:57:31Z',
+                timestamp: '2025-04-29T14:57:31Z',
                 content:
                     '​@남곤-e5p그럼 수시랑 다를게 없잖음  수시가 고등학교에서 중간기말수행치고 등급 산출한 결과를 가지고 대학가는 방법인데',
                 reactions: {
@@ -2923,7 +2923,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-j3b8t',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:50:41Z',
+                timestamp: '2025-04-29T15:50:41Z',
                 content:
                     '@개같은강아지 솔직히 요즘 세상에 수시는 점차 없어지는 게 맞음.. 국가단위로 시험잘봐서 대학들어가 국가인재수준이 안떨어지는거지..\n물론 농어촌같은 것도 점차 사라져야함',
                 reactions: {
@@ -2942,7 +2942,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-uo9ih5ss6i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T02:08:43Z',
+                timestamp: '2025-05-01T02:08:43Z',
                 content: '뭔 수능따리에 인생이 결정 되냐? ㅋㅋ 공부에 뜻이라도 있다면 모를까',
                 reactions: {
                     useful: 44,
@@ -2960,7 +2960,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Jh1120hr',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mVOWxNd1u_odSRs8rU6DocWHfb-lBVIS54HTA_GnO4MgKjrfNkDeJ470Xb4l-7569Afqs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T18:10:50Z',
+                timestamp: '2025-05-01T18:10:50Z',
                 content:
                     '​@@케세라세라-v6q 안됨 앞에서 잘본놈이 뒤에서 대충보는데 그럼 뒷놈이 유리함. 불공정함. 여러번볼거면 모두 반영해야함',
                 reactions: {
@@ -2979,7 +2979,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dawnstar-m2v',
                 author_profile_image:
                     'https://yt3.ggpht.com/ts5QXjktNm7ebEON-DsU9r3grU1E2RrFMnAHLXqMBXFhl2-JZYRoiysNIJHQKXOgCaQZLnB_=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-23T18:24:01Z',
+                timestamp: '2025-05-08T18:24:01Z',
                 content: '본인 4수생인데 이거 좋아보이긴함. 나처럼 장수하지 않았으면 좋겠음',
                 reactions: {
                     useful: 50,
@@ -2999,7 +2999,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@unconscious-w1e',
         author_profile_image:
             'https://yt3.ggpht.com/ipVmUCDbLIjAmEVF6eoi93_MN9ODRudTm-jNcuENAn8sjQStsCPwmQHcylRzT9Ni_8JIMp4QiA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T06:34:26Z',
+        timestamp: '2025-04-29T06:34:26Z',
         content: '지금 교육과정보단 훨 나은거 같은데 댓글 왜이럼',
         reactions: {
             useful: 34,
@@ -3064,7 +3064,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@규민-m3j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lUTzBxcjkou8-cjyxiV-_7BrDm3T8D0qC0HCcKCAaY6OTUr-UqwRGKeCtGVjmoq-OErTsKL9Bt=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:12:09Z',
+                timestamp: '2025-04-29T08:12:09Z',
                 content: '단판승부해야지',
                 reactions: {
                     useful: 22,
@@ -3082,7 +3082,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yama-e7h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZpRq5a9FUV_dPk9dicYgLbB-5p5rjhEIP0-NNG4-5ATCZeYs-NlFDLRJ2U7Jo4gzKyM9xA7B4A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:13:42Z',
+                timestamp: '2025-04-29T08:13:42Z',
                 content:
                     '국민수준이 낮음 고교학점제도 원래 교육부에서 절대평가할려고 했는데 반대한게 학부모들임! 어후 자기애들을 지옥속에 몰아넣음',
                 reactions: {
@@ -3101,7 +3101,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@뀨-h9e',
                 author_profile_image:
                     'https://yt3.ggpht.com/UyI5oy7ErMIfnEacrRJf6TVFB9LO1VqceZ99O1XI1r0uN578d_4yFL2GqOKi-SzpWZC1rmQU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:29:05Z',
+                timestamp: '2025-04-29T08:29:05Z',
                 content: '@@규민-m3j 타종 오류랑 빌런때문에 망하는 애들 생각하면 단판은 뱔로임',
                 reactions: {
                     useful: 13,
@@ -3119,7 +3119,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@리겔星',
                 author_profile_image:
                     'https://yt3.ggpht.com/7JPuhTyI78_djoWBN78wEZtNgqfZDZIzZ-r6NfwbvcqoBNFnOB5XZxz2eoApfgk8j_yC8Ts4Og=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:37:23Z',
+                timestamp: '2025-04-29T08:37:23Z',
                 content: '수능 한 3번정도 본 다음에 평균내서 가는 것도 나쁘진 않은 듯해요',
                 reactions: {
                     useful: 72,
@@ -3137,7 +3137,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@사강user-ey5gx4jg8x',
                 author_profile_image:
                     'https://yt3.ggpht.com/IfLEMAEz9jUL0jqgy1FSUBn74zPBltKweFW_zVYXmCXxqz0M-FMkkpnHu3lBaZj5lyQ3Ahvyzg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:38:35Z',
+                timestamp: '2025-04-29T08:38:35Z',
                 content: '​@@규민-m3j 일기토냐',
                 reactions: {
                     useful: 53,
@@ -3155,7 +3155,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@prin-ci-pled',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:40:14Z',
+                timestamp: '2025-04-29T08:40:14Z',
                 content: '와 애들 스트레스 미쳐돌아가겠다',
                 reactions: {
                     useful: 12,
@@ -3173,7 +3173,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-qt7ts6gg8f',
                 author_profile_image:
                     'https://yt3.ggpht.com/7ayVxLNlNYrYRm49Ipd1iXg3ieNm9UYw4tYgZvFKgaHfYyFOX1YkrHMrVwaGDFwF0FbL8triCw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:45:13Z',
+                timestamp: '2025-04-29T08:45:13Z',
                 content:
                     '수능3번은 모르겠고 중고등 합쳐서 진로 찾는 새로운 방향은 맞는거 같은데 아예 완전히 개편하자는 뉴스임',
                 reactions: {
@@ -3192,7 +3192,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@백운철-p8o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mb9sQndCUXAbeFSvmaxFyCQgpwn5z0jBFfcMcOs6ea0A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:47:20Z',
+                timestamp: '2025-04-29T08:47:20Z',
                 content:
                     '저거문제가 교수들 매달마다 갈아넣어야하는데\n세금은 세금대로낭비고\n교육과정은 ㅈㄴ좁고 그래서\n차라리 2번이나음...',
                 reactions: {
@@ -3211,7 +3211,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@백운철-p8o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mb9sQndCUXAbeFSvmaxFyCQgpwn5z0jBFfcMcOs6ea0A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:48:11Z',
+                timestamp: '2025-04-29T08:48:11Z',
                 content:
                     '​@@user-qt7ts6gg8f 아 근데 이건 불가능할거라고보는게, 결국엔 대학에들어가거나 인생경험을 하기전까지는 자기의적성을 알수가없다고 생각함....',
                 reactions: {
@@ -3230,7 +3230,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@백운철-p8o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mb9sQndCUXAbeFSvmaxFyCQgpwn5z0jBFfcMcOs6ea0A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:50:08Z',
+                timestamp: '2025-04-29T08:50:08Z',
                 content:
                     '​​@@user-qt7ts6gg8f오히려 저렇게 적성기준으로가면 학종위주로뽑을거같은데\n일반고는 학종을 자사고"급"으로 잘써주는것도아니고 교과위주이기도하고,\n저런거 컨설팅한번에 100~200은 한번에깨져서 문제점이있긴한...\n\n그리고 제일문제점은 내신5등급제라\n1.00이 넘쳐날건데 그러면 결국엔 정성평가로 갈수밖에없어서 ...',
                 reactions: {
@@ -3249,7 +3249,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@mmnn3603',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kWe5cya-J2sj7NFmIs-fsmFpSVw_HYw9bIqwffNqc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:51:51Z',
+                timestamp: '2025-04-29T08:51:51Z',
                 content: '3~4번은 애들 겁나 스트레스 받을듯..2번정도가 적당하지않나 싶다',
                 reactions: {
                     useful: 85,
@@ -3267,7 +3267,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@slsosqeueie',
                 author_profile_image:
                     'https://yt3.ggpht.com/m_n2wqxK-GXuparCNQjhwc8CM-bvgF_KbIvYlWAHBCHrNbEtv-hpMHkOsW9qJT05liqSDj6AGw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:04:20Z',
+                timestamp: '2025-04-29T09:04:20Z',
                 content: '​@@규민-m3j 변수가 ㅈㄴ 많은데 되겠냐 찍기빌런도 있는데',
                 reactions: {
                     useful: 35,
@@ -3285,7 +3285,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@유태서-r6y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZuX9J7tx5ML7eRtvWJemEndXIwu3cQVWgBEENcQn2n_u8DNxurTdDIOpyA4YnLqDtgB8L_-k=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:05:02Z',
+                timestamp: '2025-04-29T09:05:02Z',
                 content:
                     '@@mmnn3603 공감합니다. 아무리 기회라 해도 3~4번은 좀 부담스러울 수 있을 것 같네요. 잘봐야 하는건 매한가지니 2번정도가 가장 좋은 것 같습니다.',
                 reactions: {
@@ -3304,7 +3304,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjh-r3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mzouqIYI8LHFoQLHKnsuXADdufNNOzBiDX0Pe6Bdj2Mvq8Hcp6Gg-TXS8tLFa3rqDxaA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:10:33Z',
+                timestamp: '2025-04-29T09:10:33Z',
                 content: '지금보다 뭐가 낫냐? 너 모의고사 5-6등급이지?',
                 reactions: {
                     useful: 18,
@@ -3322,8 +3322,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjh-r3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mzouqIYI8LHFoQLHKnsuXADdufNNOzBiDX0Pe6Bdj2Mvq8Hcp6Gg-TXS8tLFa3rqDxaA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:10:56Z',
-                content: 'ㅋㅋ 3-4번보자는애들 특 공부는 ㅈㄴ안해서 기회ㅈㄴ달라함ㅋ',
+                timestamp: '2025-04-29T09:10:56Z',
+                content: 'ㅋㅋ 3-4번보자는애들 특 공부는 안해서 기회만 달라함ㅋ',
                 reactions: {
                     useful: 52,
                     agree: 84,
@@ -3340,9 +3340,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@aa-sn8zz',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lSynSsnbxa6K3xHEBF5o2o3yD0Jbr7VqCdi7YrgkHmrEGbU6D7kr6OYjlEo8YUuArqmEw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:12:27Z',
+                timestamp: '2025-04-29T09:12:27Z',
                 content:
-                    '​@@kjh-r3y실수 한 번 하면 1년이 날아가는 것보단 뭐든 낫지... ㅋㅋ 아재 틀니 압수',
+                    '​@@kjh-r3y실수 한 번 하면 1년이 날아가는 것보단 뭐든 낫지... ㅋㅋ 아재',
                 reactions: {
                     useful: 68,
                     agree: 6,
@@ -3359,7 +3359,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@aa-sn8zz',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lSynSsnbxa6K3xHEBF5o2o3yD0Jbr7VqCdi7YrgkHmrEGbU6D7kr6OYjlEo8YUuArqmEw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:13:08Z',
+                timestamp: '2025-04-29T09:13:08Z',
                 content: '​@@kjh-r3y그리고 니가 서울대 교수보다 공부 잘함? ㅋㅋㅋㅋ',
                 reactions: {
                     useful: 42,
@@ -3377,8 +3377,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjh-r3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mzouqIYI8LHFoQLHKnsuXADdufNNOzBiDX0Pe6Bdj2Mvq8Hcp6Gg-TXS8tLFa3rqDxaA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:15:12Z',
-                content: '@@aa-sn8zz 이런애들 특 국어 8등급 문해력 ㅈㄴ떨어지노',
+                timestamp: '2025-04-29T09:15:12Z',
+                content: '@@aa-sn8zz 이런애들 특 국어 8등급 문해력 떨어지네',
                 reactions: {
                     useful: 28,
                     agree: 7,
@@ -3395,7 +3395,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@gay08122',
                 author_profile_image:
                     'https://yt3.ggpht.com/HKrfHfB4emaE-5Xi6Ah3hMSqaZOJ-It_0uNVNt8nCZGEu2IDnQQnGsaHZYsOeeDK4l2WxFtLseM=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:15:35Z',
+                timestamp: '2025-04-29T09:15:35Z',
                 content:
                     '그냥 모의고사를 본수능으로 바꾼다 생각하면 딱히 엄청난건 아닌듯\n그리고 가장 잘 본 것으로 가게 해주는거지',
                 reactions: {
@@ -3414,7 +3414,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjh-r3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mzouqIYI8LHFoQLHKnsuXADdufNNOzBiDX0Pe6Bdj2Mvq8Hcp6Gg-TXS8tLFa3rqDxaA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:15:36Z',
+                timestamp: '2025-04-29T09:15:36Z',
                 content: '@@aa-sn8zz 전문대는 갈려나ㅋ응원해주마ㅋ',
                 reactions: {
                     useful: 82,
@@ -3432,7 +3432,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@진-c3p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l7f0An5jERHX_LPlRdje_yC8rLaUBx7yH8ml_VNWf3dQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:16:08Z',
+                timestamp: '2025-04-29T09:16:08Z',
                 content:
                     '2번이 좋은듯 대학교에서도 중간, 기말 나눠서 평가하잖냐 중등학교부터 이 체제에 익숙해지는것도 괜찮겠네 \n중간 살짝 미끄러져도 기말로 기사회생 가능한 부분이 수능에도 적용되는건 좋을듯',
                 reactions: {
@@ -3451,7 +3451,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@2D3D-m4k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:30:47Z',
+                timestamp: '2025-04-29T09:30:47Z',
                 content: '어짜피 이제도 해도 못갈사람은 못가고 잘갈사람은 잘감 똑같음ㅇㅇ',
                 reactions: {
                     useful: 55,
@@ -3469,7 +3469,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@팔라딘-f6w',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nrSI134sjeDhhDMV_5j6QoF5rHcXNoZuKKumQQ_8Durdk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:39:44Z',
+                timestamp: '2025-04-29T09:39:44Z',
                 content: '수능만 얘기하는게 아니라\n아예 전체적으로 개편한다는거 같은데',
                 reactions: {
                     useful: 67,
@@ -3487,9 +3487,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@fndemtkf',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m18_OrhRNm8w21sEEKKOvr4xmFA7TIAVd6kNb9M2LtnXT-FQc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:29:33Z',
+                timestamp: '2025-04-29T10:29:33Z',
                 content:
-                    '초딩때부터 사교육 지리게 할거면 초딩때부터  방정식이고 독서고 영어고 사회고 그냥 다 가르치면 되지 않을까요? 소양 교육? 그딴거 안했잖아요 초딩때는 학교란 친구들이랑 노는곳 그 이상이하도 아니었어요. 초딩때부터 공교육 수준을 높여서, 어려운 고등과정을 어렵지 않고 친숙하게 대할 수 있게 커리큘럼을 짭시다. 단 수업이 재밌고, 애들 정서와 기분에 맞춰줘야겠죠?',
+                    '초딩때부터 사교육 할거면 초딩때부터  방정식이고 독서고 영어고 사회고 그냥 다 가르치면 되지 않을까요? 소양 교육? 그딴거 안했잖아요 초딩때는 학교란 친구들이랑 노는곳 그 이상이하도 아니었어요. 초딩때부터 공교육 수준을 높여서, 어려운 고등과정을 어렵지 않고 친숙하게 대할 수 있게 커리큘럼을 짭시다. 단 수업이 재밌고, 애들 정서와 기분에 맞춰줘야겠죠?',
                 reactions: {
                     useful: 16,
                     agree: 59,
@@ -3506,7 +3506,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@킬리킴',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_myYoUe4liA8HOFgUH9xuhGq7bqUpir2sFm7CSFZ3Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:40:08Z',
+                timestamp: '2025-04-29T10:40:08Z',
                 content: '​@@규민-m3j 단판 별로임',
                 reactions: {
                     useful: 40,
@@ -3524,7 +3524,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@svp-pj1fj',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nps7NVr1paZp3Il5fVuW87-7rOJmeEeIHFXj0xkRB2JUbX_K0n0E99bctSuvsdJ9yLOw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:29:24Z',
+                timestamp: '2025-04-29T11:29:24Z',
                 content:
                     '기회가 많아지면 자연스레 긴장감도 반비례하겠죠. 지금 자기가 느꼈던 긴장감을 3번 4번 시험 보는데 대입하는 것이 이치에 맞지 않는 이유가, 그 긴장감이 만들어진 가장 큰 원인이 시험이 단판이기 떄문임. 내신으로 자기 대입 결정되는 수시러들이 10번의 시험을 모두 수능 수준의 긴장감을 가지고 시험치진 않거든.',
                 reactions: {
@@ -3543,7 +3543,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Kiwi_5566',
                 author_profile_image:
                     'https://yt3.ggpht.com/iadqz4fypGmdAIrlrRwTUBnx-PjecMfnhpfxNSzEE3phS8iA1jDkbTv-rX-u0CVebgT8lNh92f0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:53:13Z',
+                timestamp: '2025-04-29T11:53:13Z',
                 content:
                     '결론은 공부 더많이시킨다는 소리다이가 \n수능 1년에 3번치면 내신도 8번 1년에치는데 그거준비하면 6년동안 14살 한창 놀아야하는 시기와 성장기라서 스트레스받지 않아야할시기에 전세계적으로 유일하게 수능공부해서 잠 1초도 못자게 만드는건데 이게 젛냐??',
                 reactions: {
@@ -3562,7 +3562,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-kdh049',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:38:41Z',
+                timestamp: '2025-04-29T12:38:41Z',
                 content: '​@@리겔星님도 수능 다시 3번 보고 대학가야지 그러면 ㅇㅇ',
                 reactions: {
                     useful: 19,
@@ -3575,49 +3575,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGttl_VgwF-',
-                author_id: 'UCId9dbZ3JJRUCbaLvTaTy2Q',
-                author_name: '@Kiwi_5566',
-                author_profile_image:
-                    'https://yt3.ggpht.com/iadqz4fypGmdAIrlrRwTUBnx-PjecMfnhpfxNSzEE3phS8iA1jDkbTv-rX-u0CVebgT8lNh92f0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:02:55Z',
-                content: '@@live-able 중국인 발닦고 빌빌대면서 살고싶노??',
-                reactions: {
-                    useful: 8,
-                    agree: 11,
-                    curious: 43,
-                    creative: 51,
-                    disagree: 74,
-                },
-                time_taken_to_write: 1382,
-                manipulated: false,
-            },
-            {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGtupHirIeY',
-                author_id: 'UCyIwZK0s8O_VFEzYqWHrIVw',
-                author_name: '@정찬호-j5w',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_ng3vdmQ70ckkEDn8ODXy01T1k4iclHBSOBC5Qal-YxKcB6AAI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:12:10Z',
-                content:
-                    '진짜 띨빵하네ㅋㅋ 그걸 효력이 있다고 치면 이미 입시제도에는 수시,정시라는 여러번의 기회가 있음.\n그리고 수~많은 수행평가와 내신평가는 시험이나 대학을 위한 준비가 아닌 건가? 수준이 이러니 맨날 국회의원들한테 닭 쫓던 개마냥 당하고 사는 거지ㅋㅋㅋ',
-                reactions: {
-                    useful: 20,
-                    agree: 7,
-                    curious: 63,
-                    creative: 67,
-                    disagree: 11,
-                },
-                time_taken_to_write: 779,
-                manipulated: false,
-            },
-            {
                 comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGtxsod5CrQ',
                 author_id: 'UCisKTh--_HXTphRheVVefZA',
                 author_name: '@Dkdjsnskl7',
                 author_profile_image:
                     'https://yt3.ggpht.com/wuOXVCn-MxIK5TdIY0_DPL4AKqw5la9Qj8vkhMOibwSeIbg8UGJc05WXWGpe-12bNKQrzRDWs_M=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:38:52Z',
+                timestamp: '2025-04-29T13:38:52Z',
                 content: '그냥 대학 평준화시켜야 함',
                 reactions: {
                     useful: 45,
@@ -3635,7 +3598,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@unconscious-w1e',
                 author_profile_image:
                     'https://yt3.ggpht.com/ipVmUCDbLIjAmEVF6eoi93_MN9ODRudTm-jNcuENAn8sjQStsCPwmQHcylRzT9Ni_8JIMp4QiA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:07:26Z',
+                timestamp: '2025-04-29T14:07:26Z',
                 content:
                     '@@kjh-r3y 왜 이렇게 남을 까내리려고 하시는지... 3번 4번 보는것이 1년에 한번 보는 것보다 심리적으로라도 더 낫지 않을까요..? 응원합니다',
                 reactions: {
@@ -3654,7 +3617,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@どまんなか-y3h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:35:57Z',
+                timestamp: '2025-04-29T14:35:57Z',
                 content:
                     '근본적 문제는 한국의 대학서열 학벌만능주의에서 시작되는건데 교육제도의 개편으로는 학벌주의 타파 실현이 안됨\n결국 시험 횟수가 늘어나는건 서열 높은 대학을 들어가려는 욕망이 사라지지 않는한 학생들에게는 더 많은 부담이 될 수 밖에 없고, 수능 초기에 그 한계가 드러나 1회시험으로 바뀐것임\n좋은 대학에 들어가는게 목표인 이상 교육제도의 개편은 학생들에게 혼란만 일으키는것 \n이른바 선진국들이 입시 방법을 쉽게 바꾸지 않는것은 다 이유가 있음',
                 reactions: {
@@ -3673,7 +3636,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@뱁새-w5d',
                 author_profile_image:
                     'https://yt3.ggpht.com/G_0BgtPcSsqmaaL0hdawevOgof7VIND30nRjARx7Vd4WCkUxgsidBJrQn5qILpA40O4iU68s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:05:23Z',
+                timestamp: '2025-04-29T15:05:23Z',
                 content:
                     '⁠@@どまんなか-y3h그래서 자율전공 확대하자는거잖아ㅋㅋ\n그리거 학벌주의는 시대가 거듭하면서 점점 줄어들고 있다\n40대부터 학벌주의가 극심한데 30대부턴 조금씩 완화되고 있다',
                 reactions: {
@@ -3692,7 +3655,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@asdasddcax',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kv5begwn_MNBAu3IA7dSnbiMgoGIAx1Nge2JCQYJsiuzdYEGT0WGfzy80LaboMK3fBRQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:03:14Z',
+                timestamp: '2025-04-29T16:03:14Z',
                 content:
                     '중등학교 6년제 찬성\n수능 3~4번은 애들이나 선생이나 교수나 다 피곤하니 2번정도만 하고\n자율전공 무조건 확대해야된다. + 신입생때는 외부활동으로도 학점 딸수있게 개편해야된다.\n대학교는 괜찮게 갔는데 전공 잘못골라서 몇년버린애들 너무 많이봤다.\n아니.. 애들 똑똑하게 키워놓으면 뭐하냐고, 대학교가면 그 중 반이 갈피 못잡아서 몇년은 바보로 살더라니까..',
                 reactions: {
@@ -3711,9 +3674,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@どまんなか-y3h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:21:01Z',
+                timestamp: '2025-04-29T16:21:01Z',
                 content:
-                    '@@뱁새-w5d 뭔소리임 그건 너가 나이가 들어가서 체감하지 못하는거고 지금은 오히려 메디컬쪽 수능으로 들어갈수있게되서 이과 상위권은 학벌경쟁 더 치열해짐\n남 의견에 반박할때는 니 느낌이라는 ㅈ도안되는 뇌피셜을 지껄이는것보다 한번 뭐라도 찾아보는 노력이라도 해봐라',
+                    '@@뱁새-w5d 뭔소리임 그건 너가 나이가 들어가서 체감하지 못하는거고 지금은 오히려 메디컬쪽 수능으로 들어갈수있게되서 이과 상위권은 학벌경쟁 더 치열해짐\n남 의견에 반박할때는 뇌피셜을 말하는 것보다 한번 뭐라도 찾아보는 노력이라도 해봐요',
                 reactions: {
                     useful: 82,
                     agree: 3,
@@ -3725,31 +3688,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGuF_Kn1KO5',
-                author_id: 'UCaCP7hwCTqbkJWk6PPN4rzw',
-                author_name: '@どまんなか-y3h',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:22:14Z',
-                content:
-                    '@@뱁새-w5d 댓글목록보니까 뭐 별 깜냥도 안되면서 반박글만 남기고 다니네 근데 하나같이 나사빠진 닷글밖에 없어서 안쓰럽누',
-                reactions: {
-                    useful: 80,
-                    agree: 94,
-                    curious: 78,
-                    creative: 54,
-                    disagree: 36,
-                },
-                time_taken_to_write: 1025,
-                manipulated: false,
-            },
-            {
                 comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGuLP2-RQU0',
                 author_id: 'UCNvn8Z06L1n9iUq9I56ifxQ',
                 author_name: '@시청계정-kr',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mN__N_2uFbZrlLqg7AsKwxtiHGXpNz3SKALxg8-9CilkPEabyyEDNp6kOsYvddOsZvEy6GUGTW=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:13:07Z',
+                timestamp: '2025-04-29T17:13:07Z',
                 content: '평가원 난이도 절대로 못맞출듯\n1번이 깔끔하긴함',
                 reactions: {
                     useful: 30,
@@ -3762,87 +3706,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGupICNnjpT',
-                author_id: 'UCWc5rU8L8zVpNg6OZxn5Uhg',
-                author_name: '@뱁새-w5d',
-                author_profile_image:
-                    'https://yt3.ggpht.com/G_0BgtPcSsqmaaL0hdawevOgof7VIND30nRjARx7Vd4WCkUxgsidBJrQn5qILpA40O4iU68s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T21:43:04Z',
-                content:
-                    '@@どまんなか-y3h 학벌주의 말하\n는데 무슨 경쟁 거리고 있냐 빡대갈아ㅋㅋㅋㅋㅋ\n고딩한테 나이ㅇㅈㄹ 하고 있네 저능아가ㅋㅋㅋㅋㅋ',
-                reactions: {
-                    useful: 97,
-                    agree: 31,
-                    curious: 20,
-                    creative: 48,
-                    disagree: 83,
-                },
-                time_taken_to_write: 1743,
-                manipulated: false,
-            },
-            {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGupeOLK0ST',
-                author_id: 'UCWc5rU8L8zVpNg6OZxn5Uhg',
-                author_name: '@뱁새-w5d',
-                author_profile_image:
-                    'https://yt3.ggpht.com/G_0BgtPcSsqmaaL0hdawevOgof7VIND30nRjARx7Vd4WCkUxgsidBJrQn5qILpA40O4iU68s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T21:46:14Z',
-                content:
-                    '@@どまんなか-y3h 지는 오피셜 남은 뇌피셜ㅋㅋ\n뇌피셜 싸지르고 남한테 뇌피셜 거리는게 ㅈㄴ 코미디네ㅋㅋㅋㅋㅋ',
-                reactions: {
-                    useful: 56,
-                    agree: 58,
-                    curious: 18,
-                    creative: 96,
-                    disagree: 72,
-                },
-                time_taken_to_write: 1211,
-                manipulated: false,
-            },
-            {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGvOSDyt6-f',
-                author_id: 'UCaCP7hwCTqbkJWk6PPN4rzw',
-                author_name: '@どまんなか-y3h',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_kZZiRuUr7IPhqznRM0XzNrSfYFXJplQudKDGmCb6j8xcfpt8rbU81oMZtIT3cj4fbW9LIL=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:59:00Z',
-                content: '@@뱁새-w5d ㅈㄴ코미디는 ㅈ도 희망도없는데 깔깔거리는 니 인생이구연ㅋㅋㅋ',
-                reactions: {
-                    useful: 66,
-                    agree: 62,
-                    curious: 75,
-                    creative: 98,
-                    disagree: 41,
-                },
-                time_taken_to_write: 425,
-                manipulated: false,
-            },
-            {
-                comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAGvT0KwdI2l',
-                author_id: 'UCWc5rU8L8zVpNg6OZxn5Uhg',
-                author_name: '@뱁새-w5d',
-                author_profile_image:
-                    'https://yt3.ggpht.com/G_0BgtPcSsqmaaL0hdawevOgof7VIND30nRjARx7Vd4WCkUxgsidBJrQn5qILpA40O4iU68s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T03:38:53Z',
-                content:
-                    '@ 멍청하면 자존심이라도 없어야지\n멍청한데 자존심만 세서\n할 말 없으니까 인신공격ㅋㅋㅋㅋㅋ\n니 지능 보면 학력이 어디 쯤인지는 알겠다ㅇㅇ',
-                reactions: {
-                    useful: 99,
-                    agree: 90,
-                    curious: 11,
-                    creative: 61,
-                    disagree: 79,
-                },
-                time_taken_to_write: 280,
-                manipulated: false,
-            },
-            {
                 comment_id: 'UgyeOXJzKe_PYyuLWJF4AaABAg.AGtCJ86uB4MAH29XBzxzzM',
                 author_id: 'UCpiNCZWN10jxT_FGZcOOeFQ',
                 author_name: '@iceice2290',
                 author_profile_image:
                     'https://yt3.ggpht.com/v9V1tkt-IKecKtl1lrnVUns8StNAjfoaaA9jY_okv_THsfBTcUeq0JWwRpjv4axpkBoeY8Eg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-18T03:22:32Z',
+                timestamp: '2025-05-03T03:22:32Z',
                 content: '@@백운철-p8oㅇㅈ 3번은 너무 많지 않나 싶음',
                 reactions: {
                     useful: 74,
@@ -3862,7 +3731,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@즐거운책벌레들',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kz0AAMNZb-b3IJRZS0JGzws3i__v4UAT0io1j86ks=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:22:14Z',
+        timestamp: '2025-04-29T13:22:14Z',
         content:
             '사실 이게 유일한 해답이라고 생각해요\n내신과 모의고사 거기에 수행평가까지\n우리 아이들 왜 이런 일들로 학창시절이 고달픈건지 이해할수 없습니다',
         reactions: {
@@ -3891,7 +3760,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@surplusking2425',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lJgCpfgAEWtmcn6d6q1BioBYxo4lFwQhFfd84UTyFx=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:38:19Z',
+                timestamp: '2025-04-29T17:38:19Z',
                 content: '유일한 해답? 진짜 해답은 대학평준화지...',
                 reactions: {
                     useful: 0,
@@ -3909,7 +3778,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@진영-s7b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lBm1wQrOm1ZnhQYcsfE3xGjtQ-rXdskF7CZnt7ITnZ8hnCaITqjN24FmMRebf3iVlQjazFc_2G=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:59:41Z',
+                timestamp: '2025-04-30T02:59:41Z',
                 content:
                     '근데 수능을3,4번보는거면 몰라도 그 점수 평균내겠다고 하면 정시의 수시화임',
                 reactions: {
@@ -3928,7 +3797,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@진영-s7b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lBm1wQrOm1ZnhQYcsfE3xGjtQ-rXdskF7CZnt7ITnZ8hnCaITqjN24FmMRebf3iVlQjazFc_2G=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T03:00:03Z',
+                timestamp: '2025-04-30T03:00:03Z',
                 content: '@@surplusking2425 사회주의로 가는 해답 말씀하시는거죠?',
                 reactions: {
                     useful: 20,
@@ -3946,7 +3815,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김민성-v9j8j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k9rT4dFB6J85gWSuxs7q3zHoa4xDpSYzJrPhBtHDE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T15:56:57Z',
+                timestamp: '2025-04-30T15:56:57Z',
                 content:
                     '어차피 그때 경쟁 안하면 더 나이 들어서 경쟁하게 될 텐데 부모 지원이라도 받을 수 있은 시기에 경쟁하는 게 낫지 않을까요…(특수한경우 제외)',
                 reactions: {
@@ -3965,7 +3834,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@honeyhur9132',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ndy2wLUf8QDEQn0HYRJcCd_EcZKn7JW-lu3NjAJ60=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T03:42:11Z',
+                timestamp: '2025-05-01T03:42:11Z',
                 content:
                     '공부를 안하면되. 왜 간단한 정답을 모름? 공부 는 극소수의 천재빼고 인내하고 참고 반복이 전부야. 그게 싫고 따라갈 참고 인내할 능력이 없으니 징징대는거지. 고등학교 공부도 그게 힘들면 대학가서 진짜 공부는 가능할까?',
                 reactions: {
@@ -3984,7 +3853,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ABC-cu3dh',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ka_OJb0XNJYDEohFXLN9aw8SQx2wooMyAYwzwnScVwBS5AeOdo4U3-cDL-EXswMyKilw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T01:21:12Z',
+                timestamp: '2025-05-02T01:21:12Z',
                 content: '내신은 없애버려야할 제도임 이거만큼 비공정한 제도가 없음',
                 reactions: {
                     useful: 36,
@@ -4004,7 +3873,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@bgold_0809',
         author_profile_image:
             'https://yt3.ggpht.com/15VbfNACJ4fMWjc2bxlRsJQ5j0Y7zKt99wjJGFTCP8vTLkCa8Pj_wA-SjvHSKcQw56HeGyrP=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T14:13:44Z',
+        timestamp: '2025-04-29T14:13:44Z',
         content:
             "현 고3입니다.\n평소에 이런 쪽으로 생각을 많이 한다고 생각하는 학생입니다.\n저는 교육 정책이 문제를 풀기 위한 공부를 시키는 게 아니라, 학생 자신의 생각의 범주를 키우는 데에 도움을 주는 것에 집중하는 게 좋겠다고 생각합니다. 자신의 주관을 만들고, 다른 사람들과 공유하며 토론하는 건 정말 중요합니다.\n최근엔 기술 발전에 따라 가짜 정보가 늘어났을 뿐만 아니라, 접근성 또한 높아졌습니다. 심지어 알고리즘에 의해 '보고 싶은 것만 보여주는' 세상이 되었습니다. 이런 상황에서는 어릴 때부터 잘못된 정보에 노출되어 자신의 자아를 형성하기도 이전에 자극적인 방향성에 휩쓸리는 아이들이 많아질 것입니다. 이를 막기 위한 방안을 국가 차원에서 실행해 주어야 한다고 생각합니다. 그 최소한의 방안이 토론과 독서를 기반으로 한 수업이라고 생각하고 있고요. 이런 수업이 진행된다면, 잘못된 정보를 걸러내고 건전하고 건강한 자아를 지닐 수 있을 것이라고 봅니다.\n줄 세우기가 가장 효율적인 방법이라고는 하지만, 기술 특히 인공지능이 발달하는 시대에서는 이런 줄세우기보다는 각자의 개성에 맞춰 다양한 선택지를 더 자유롭게 선택할 수 있게 해야 한다고 생각합니다.\n\n추가로, 수능 여러 번이 오히려 부담이 되지 않도록 좋은 방향으로 나아가, 이후 더 좋은 방향성으로 가는 발판이 되기를 기원합니다.",
         reactions: {
@@ -4027,7 +3896,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@이제그만-f7y',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l1Ei_UOn3gRmgfSr7yz9KSSKyCjd8q_rgy03IhZBNtW-WLHx4=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T14:02:12Z',
+        timestamp: '2025-04-29T14:02:12Z',
         content:
             '수능없어지면 안되고 기회 여러번 주는 것도 좋다 근데 제발..수행 좀 없애라. 애들 미친다 진짜 내신시험준비에 수행에 수능준비에 애들숨도 못쉰다진짜',
         reactions: {
@@ -4049,7 +3918,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@응애-s7r9f',
                 author_profile_image:
                     'https://yt3.ggpht.com/WgrhI_8WPSgR6ZhTQSeTytQuO5n_tGcHKk-BFOcS_3QWHyoqsGMLNBKHZPPSmlCBypFTIaboyJg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-27T19:20:53Z',
+                timestamp: '2025-05-12T19:20:53Z',
                 content:
                     '수행이 힘든 건 맞지만 시험 망했을 때 보험 깔아둘 수 있는 게 수행입니다 없애는 건 그렇고 수행의 비중을 낮추면서 수행 난이도도 낮추는 건 어느정도 이해할 만한 의견이라고 생각해요',
                 reactions: {
@@ -4070,7 +3939,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@크로플-t6i',
         author_profile_image:
             'https://yt3.ggpht.com/gqOVY-C88H2f8PxA1G-8DjvBDG_GFGOYx7rMRnX1LBos2174nGQkSfjvyA9dKPwZEKZb6jTaqqs=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T07:56:52Z',
+        timestamp: '2025-04-29T07:56:52Z',
         content: '마져요 재수 삼수 사수 1년씩 기다려서 보는게 낭비에요',
         reactions: {
             useful: 71,
@@ -4104,7 +3973,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kor6764',
                 author_profile_image:
                     'https://yt3.ggpht.com/b5YSIZnIPlKWz_FFKMUdIFDkr7dCKeA3IAr8-T12d6gkNYYH5OBc29KuczqzS8Ze1F4fsM2U=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:31:45Z',
+                timestamp: '2025-04-29T08:31:45Z',
                 content: '미미이누는 5수라서 인생에 5년을  날려갔네요...',
                 reactions: {
                     useful: 46,
@@ -4122,7 +3991,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Eiejehdiskwn',
                 author_profile_image:
                     'https://yt3.ggpht.com/75PhH4wyhUa8gua_OZji8OIwe3SmROuwLjz-K8IssMN8QwRLjLIzwWwnJVcT_d3KxjiYDaG_26o=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:29:50Z',
+                timestamp: '2025-04-29T09:29:50Z',
                 content: 'ㅇㄱㄹㅇ',
                 reactions: {
                     useful: 36,
@@ -4140,7 +4009,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@오로-i8m',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lDbPA3AdsJo_ytTd2kUyLKeBbBuSv5LgPV6jRJpxlqT_FbErQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:54:21Z',
+                timestamp: '2025-04-29T12:54:21Z',
                 content: '어차피 대학 못 가면 1년 더 봐야되는데 뭔 차이노',
                 reactions: {
                     useful: 76,
@@ -4158,7 +4027,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@apoptosis4869',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:28:29Z',
+                timestamp: '2025-04-29T13:28:29Z',
                 content: '낭비라는 단어부터 어떤 인생일지 뻔함',
                 reactions: {
                     useful: 6,
@@ -4176,7 +4045,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Steelojabchae',
                 author_profile_image:
                     'https://yt3.ggpht.com/Q6tFyAVsv9gltcZId5x9Q68DiY_CpKYx04iKwHscRsQDH22CXKg6KFS1QCXDVXS10WMRSayeZk8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:51:34Z',
+                timestamp: '2025-04-29T13:51:34Z',
                 content: '​@@apoptosis4869 20대에 그정도면 버리는 시간 맞는데?',
                 reactions: {
                     useful: 44,
@@ -4194,7 +4063,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@아임광현',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kJPqWvKueKR6ve-T6-VP0Iwzbv9i7XSlkmXRqJMTHFLW0PvSU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:32:52Z',
+                timestamp: '2025-04-29T14:32:52Z',
                 content: '@@apoptosis4869본 적도 없는 사람 인생 평가나 하는 니 인생도 뻔함',
                 reactions: {
                     useful: 89,
@@ -4212,7 +4081,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-fk7vq2hz8z',
                 author_profile_image:
                     'https://yt3.ggpht.com/B-kFustcZXYeh-V7eEiF_GU1rUhuTqdx6x0tnpSoW1TSoxXG_J9VLmkyDGWiPGGE_m4olp2S=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:56:25Z',
+                timestamp: '2025-04-29T14:56:25Z',
                 content: '@@apoptosis4869낭비맞는데 ㅋㅋ 특히 남자느',
                 reactions: {
                     useful: 10,
@@ -4230,7 +4099,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@냥-g3w',
                 author_profile_image:
                     'https://yt3.ggpht.com/_tZtg0GxCiqs6NZT1ndeUU2ldXE3QAzFYnkoSZuhovEXlNBrgoJacq002qEpq8NpRpZQ8_fC-g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:02:23Z',
+                timestamp: '2025-04-29T15:02:23Z',
                 content:
                     '@@kor6764군대 2년이라 낭비는 아니죠 😅 대학도 동국대 외대 한양대 다 붙었는데 못 간 게 아니구 안 가신건데 😅',
                 reactions: {
@@ -4249,7 +4118,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Zxzxzx-hb3oi',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lgmAPWcGqMX75v4_Yyv6POL8JYqDCj55Ko2mPhNMLnHr7dsrbumy3i7WGR6ppHgma7-g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:03:51Z',
+                timestamp: '2025-04-29T15:03:51Z',
                 content:
                     '음…어차피 대학은 1년더 기다려야 되는데 만약 저게 시행 되고 나서 재수를 해도…',
                 reactions: {
@@ -4268,7 +4137,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@욱쓰-p2n',
                 author_profile_image:
                     'https://yt3.ggpht.com/yjBs8lImgpLIaVBtNPN6QquwSPv_RoQUEKwrmAUMRrUqkv77MTcWsLCBAmSyjeXzfzUa0u-rf8E=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:11:23Z',
+                timestamp: '2025-04-29T15:11:23Z',
                 content: '​@@kor6764 낭비라지만 그걸류 인해 존나 잘먹고 잘 살잖냐',
                 reactions: {
                     useful: 95,
@@ -4286,7 +4155,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@정환-r3o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m7xOAs2RW5yr5_Q5eFXdkrZ8cqX_dL8yn3tzsUwNsirA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T21:02:16Z',
+                timestamp: '2025-04-29T21:02:16Z',
                 content: '그건 안바뀌는건데...',
                 reactions: {
                     useful: 46,
@@ -4298,25 +4167,6 @@ export const COMMENT_DATA_OPINION = [
                 time_taken_to_write: 1711,
                 manipulated: false,
             },
-            {
-                comment_id: 'UgyvvJBd64okD8ykmxV4AaABAg.AGtLk-kPwgXAGutZe8lMrU',
-                author_id: 'UCve1x-u1Auh6of7KhNfJs1A',
-                author_name: '@nolan-j7x',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_l137uOofY0p5fVz-5gjIbyAIQF3nxsJboLYjU-xu0qSHMuWkWsB0e2PhOW65tsS3u8ig=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T22:20:24Z',
-                content:
-                    '이 댓글은 너무 멍청해서... 답글 달기 ㅈㄴ 귀찮은데 달아준다.\n재수 삼수 사수 볼 사람들을 위해서 1년에 수능을 여러번 본다는게 아니라\n단 한 번의 수능시험으로 인재를 판단하기엔 표본이 적다는 얘기다\n세번을 보든 네번을 보든 그 점수들을 평균내든 순위를 평균내든 해서 결국 그 연도에 대학 입학할 사람들을 결정한다는거지\n일년동안 여러번 수능 본다고 여러번 대학 갈 기회가 생기는게 아님\n\n요즘 뉴스에서 다들 문해력 어쩌고 할 때, 그냥 기우겠거니 했는데\n진짜 개심각하네',
-                reactions: {
-                    useful: 47,
-                    agree: 1,
-                    curious: 96,
-                    creative: 17,
-                    disagree: 21,
-                },
-                time_taken_to_write: 38,
-                manipulated: false,
-            },
         ],
     },
     {
@@ -4325,7 +4175,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Ruatj_29',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l-WPruEngifbfolAJ9ooMYouWRIljSLSUdcbFXhpBKLR2w067aQRcH7LDc0zzrTdX9yg=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T22:42:38Z',
+        timestamp: '2025-04-29T22:42:38Z',
         content:
             '지금 고1인데 4월 달 이내로 진로를 정하라는 통지를 받았습니다,, 수시로 대학가려면 일관성있는 생기부를 써야해서 그런다는데 진로가 없는 친구들은 참 막막해하더라고요',
         reactions: {
@@ -4350,7 +4200,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@squaresugar',
                 author_profile_image:
                     'https://yt3.ggpht.com/IwkEZkjvHj4CjMXiLP8j1QXoZz5EjmWM5bPbyJQGgHdC5qR8vZ1rJ1db9tRJ4AbD1uAACeAp5Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-27T23:11:34Z',
+                timestamp: '2025-05-12T23:11:34Z',
                 content:
                     '작년에 고3이였던 사람인데 진로 바껴도 학종으로 잘 가더라구요~!! 걱정 마시길',
                 reactions: {
@@ -4369,7 +4219,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@mintcafe941',
                 author_profile_image:
                     'https://yt3.ggpht.com/TGnjlpZq5xljvH7nV00vj3E_hsxEl8MqQ2FQ9QTtGWcerTcW8_eKjIWlih812C0r2v--LPJaBeQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-05-14T03:21:33Z',
+                timestamp: '2025-04-29T03:21:33Z',
                 content:
                     '저도 고등학교 3학년 때 지금 진로를 찾았는데, 학종으로 서울 웬만한 대학교 뚫렸으니 걱정 마세요! 대신 생기부를 나중에 본인이 포괄적으로라도 관심 있는 방향으로 뻗어나갈 수 있도록 처음에 샛길을 잘 만들어둬야 해요!',
                 reactions: {
@@ -4390,7 +4240,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@hermoor-kor',
         author_profile_image:
             'https://yt3.ggpht.com/hi0DDjI0Pkz3nH_xn9bZaOtc4QF3kADZtSwggydfB_-8PNP-9MFjkInHIXOvpdGCrAQjYxvf=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:06:55Z',
+        timestamp: '2025-04-29T08:06:55Z',
         content: '눈물흘리며 기립박수치고있는 team07은 개추',
         reactions: {
             useful: 39,
@@ -4437,7 +4287,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@동결',
                 author_profile_image:
                     'https://yt3.ggpht.com/0olmW6db7wQQt3H8JhbWmlsxALUH7j5leiMYXFq9bt17Dai-oHDp16GDSrDgQ7VAstYSTBAfqIc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:27:30Z',
+                timestamp: '2025-04-29T08:27:30Z',
                 content: 'ㅋㅋㅋㅋ 나만 아니면 돼~~~~~~~~~',
                 reactions: {
                     useful: 38,
@@ -4455,7 +4305,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@제작소-j6i',
                 author_profile_image:
                     'https://yt3.ggpht.com/6PDvlReFMkV6xpvkGy0EnGU2rUswTzSu2iydyf7FmvZTqa5r1xr2hdLHdcoNCUd8mg_sDtYbzA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:36:10Z',
+                timestamp: '2025-04-29T08:36:10Z',
                 content: '고점은 저게 훨 높긴함',
                 reactions: {
                     useful: 29,
@@ -4473,7 +4323,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김경환-g5o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k6jQqCUlZ6Dhzt-SxhES3hlmL7RURvKeck8dH3Nmw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:43:38Z',
+                timestamp: '2025-04-29T08:43:38Z',
                 content: 'team98 한 번 더 도전해봐도됨 ?',
                 reactions: {
                     useful: 44,
@@ -4491,7 +4341,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@달다구리-s5d',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m50JC-WZc3ucVTt09v7gA43i32hNyelZ8diqyVURDFXMs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:45:17Z',
+                timestamp: '2025-04-29T08:45:17Z',
                 content: '@@김경환-g5o거기는 팀이 없어요 선생님',
                 reactions: {
                     useful: 37,
@@ -4509,7 +4359,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@PoDo_Developer',
                 author_profile_image:
                     'https://yt3.ggpht.com/1M9ppRgIEONqm0w3BiV6nesFiZTz-7AAeGtmP3a2jxQMWTI5CMNYm-iCruz1_WeE_OHeF9vxWw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:45:56Z',
+                timestamp: '2025-04-29T08:45:56Z',
                 content: '​@@김경환-g5o\n선생님은 좀..',
                 reactions: {
                     useful: 38,
@@ -4527,7 +4377,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@DTD_DTD_DTD',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mHABxys7o5BOumMvW-CcSaJcTwNat-vFvWX1bRKzwOsvGYa84=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:53:39Z',
+                timestamp: '2025-04-29T08:53:39Z',
                 content: '드디어 바뀌는구나 하며 감동의 눈물 흘리는 거 아니면 울 이유가 없는데',
                 reactions: {
                     useful: 89,
@@ -4545,7 +4395,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김세훈-x8c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kEoHXiAkX-0F3T0DkstwXPCrnKtSf7mTnqPgLPxIc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:53:55Z',
+                timestamp: '2025-04-29T08:53:55Z',
                 content: 'Team85 다시 수능 보고 싶다능',
                 reactions: {
                     useful: 16,
@@ -4563,7 +4413,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-tm4vh8it7f',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m1E-MwoMEKBk4ahXvYSXijMoCJw1VRfQKsifoih8qWGns=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:56:04Z',
+                timestamp: '2025-04-29T08:56:04Z',
                 content: '@@김세훈-x8c07인데 저희 아버지뻘이세요.. ㅜㅜ 선생님..',
                 reactions: {
                     useful: 81,
@@ -4581,7 +4431,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@o_-.....zzzzzZ',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nDE8JKE7VY7oAgKiBkWLWX7i270q7eBDKwMc6qf1zOSKOe99JwqRzEyEVXEd1r0ls04Qo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:02:35Z',
+                timestamp: '2025-04-29T09:02:35Z',
                 content: 'team 이게 뭔데 왜 붙이는건데',
                 reactions: {
                     useful: 7,
@@ -4599,7 +4449,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@히2토',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lhB-gyK-iEJWDXVcLM6Kkakx6EcfbZP-Q95RNy0Z_2wAewAPLgR0Em8LLQmDxcDu3S1YrIxhTK=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:04:09Z',
+                timestamp: '2025-04-29T09:04:09Z',
                 content: '바로 기립박수',
                 reactions: {
                     useful: 39,
@@ -4617,7 +4467,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@하몽-o9o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ULJp48RLxBcnYGN6z47K7brrfDsPaU-raLDOlkadwNtpVHODsvCyaTRieagP_3DLB1sJ-G_HN3Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:04:44Z',
+                timestamp: '2025-04-29T09:04:44Z',
                 content: '@@달다구리-s5d너무해용',
                 reactions: {
                     useful: 16,
@@ -4635,7 +4485,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@slsosqeueie',
                 author_profile_image:
                     'https://yt3.ggpht.com/m_n2wqxK-GXuparCNQjhwc8CM-bvgF_KbIvYlWAHBCHrNbEtv-hpMHkOsW9qJT05liqSDj6AGw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:04:47Z',
+                timestamp: '2025-04-29T09:04:47Z',
                 content: '​@@김경환-g5o나가세요',
                 reactions: {
                     useful: 52,
@@ -4653,7 +4503,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-w2w3l',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:05:43Z',
+                timestamp: '2025-04-29T09:05:43Z',
                 content: '@@김경환-g5o삼촌은 나가있어,,,,ㅋ',
                 reactions: {
                     useful: 46,
@@ -4671,7 +4521,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@하몽-o9o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ULJp48RLxBcnYGN6z47K7brrfDsPaU-raLDOlkadwNtpVHODsvCyaTRieagP_3DLB1sJ-G_HN3Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:06:54Z',
+                timestamp: '2025-04-29T09:06:54Z',
                 content:
                     '@@o_-.....zzzzzZ음,, OO팀 안 하고 팀OO하면 좀 더 멋있음 젠지 팀! 보다 팀 젠지! 가 자연스럽고 멋있는 느낌',
                 reactions: {
@@ -4690,7 +4540,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@akfy8wcn8w9',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nNR0txrWLLXOjT6k2Ti7o6G9kTWYH3C4ykr1VUJgYBZRxAlKkR9wOlcDmlYHm1gZhfoQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:15:42Z',
+                timestamp: '2025-04-29T09:15:42Z',
                 content: '이제 사실상 재수 못하지ㅋㅋㅋ 정시 100% 전형을 없애는데ㅋㅋㅋ',
                 reactions: {
                     useful: 20,
@@ -4703,31 +4553,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugzj03gCi_s16DxmZSx4AaABAg.AGtMtZHzEILAGtWHGyWUiU',
-                author_id: 'UCKqzfYATjSdfw7JvHe79N5Q',
-                author_name: '@최하늘-j6u',
-                author_profile_image:
-                    'https://yt3.ggpht.com/CIA9cdpACppHSxiu-y8vwicUNU62wi3G-JWJUmN0tnA5irzssnSMMmF0wLmMKcgoSFXcyE5m=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:28:56Z',
-                content:
-                    '멍청한 아이야. 단지 논의이고, 저게 선택된다 할지라도 최소 3-4년은 걸리는데 너랑 무슨 상관이니',
-                reactions: {
-                    useful: 48,
-                    agree: 22,
-                    curious: 13,
-                    creative: 82,
-                    disagree: 68,
-                },
-                time_taken_to_write: 212,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugzj03gCi_s16DxmZSx4AaABAg.AGtMtZHzEILAGtXkyhni-K',
                 author_id: 'UCCemYagIG9FXuNji4-iIjUw',
                 author_name: '@이앙손',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_myrpmfGJHGc4i6KP1P0xkxuVT_amSIamBgb8v6iFw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:41:52Z',
+                timestamp: '2025-04-29T09:41:52Z',
                 content: '저게 바로 반영 안되고 한 빨라야 3~4년은 걸릴듯',
                 reactions: {
                     useful: 40,
@@ -4745,7 +4576,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@PoDo_Developer',
                 author_profile_image:
                     'https://yt3.ggpht.com/1M9ppRgIEONqm0w3BiV6nesFiZTz-7AAeGtmP3a2jxQMWTI5CMNYm-iCruz1_WeE_OHeF9vxWw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:03:11Z',
+                timestamp: '2025-04-29T10:03:11Z',
                 content: '​@@김세훈-x8c 이정도면 교수님이 아닌지..?',
                 reactions: {
                     useful: 44,
@@ -4763,7 +4594,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@won9805',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nGvpiXXhkJZg9jWUwQClfA5OJrD0uWido87uV-XEAL0GU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:34:49Z',
+                timestamp: '2025-04-29T10:34:49Z',
                 content: '드디어 나에게도 기회가',
                 reactions: {
                     useful: 34,
@@ -4781,7 +4612,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-hn7-j8e',
                 author_profile_image:
                     'https://yt3.ggpht.com/DmgQ3dLMrJuF53OzaF9a4pIC6797-TVbPG9CTwnHZHXA5dKSdB-gRqSSVuRaODVIWF1ufONzbw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:37:12Z',
+                timestamp: '2025-04-29T10:37:12Z',
                 content: '@@김경환-g5o삼촌 진정해요',
                 reactions: {
                     useful: 91,
@@ -4799,7 +4630,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jamjamury_1342',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nNi1XpenU1Cj0EIuTueMjnsmuU1YM28lUOnY6NXtrSfD6HLM9oLGSPFemShoTD-qYMca_RguBZ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:56:52Z',
+                timestamp: '2025-04-29T10:56:52Z',
                 content: '​@@김경환-g5o 제발 현생에 만족하시며 사세요',
                 reactions: {
                     useful: 41,
@@ -4817,7 +4648,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@바만나나',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lPzwNJIwW1k0s0Pq5m5acZMdMZ1WQ2bze8T2FvmSmc-8rjJdg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:23:47Z',
+                timestamp: '2025-04-29T15:23:47Z',
                 content:
                     '​@akfy8wcn8w9기존보다 불리해지는건 맞는데\n대학마다 다르고 그 반영도 비율 그대로 가는게 아니라 좀 복잡한지라.. 엄청 불리해지는건 아니라서 재수는 많을듯..',
                 reactions: {
@@ -4836,7 +4667,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Ftf5f6g7Ybgy',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_laoHJQg-n_An94bJD6j3ILXycSdvBx0YXfxlXWtc1Mr2V3bk0SO228QvSY7VRnLoNjdg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:05:57Z',
+                timestamp: '2025-04-30T01:05:57Z',
                 content: '​@@김경환-g5o아재요...',
                 reactions: {
                     useful: 10,
@@ -4854,7 +4685,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Ftf5f6g7Ybgy',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_laoHJQg-n_An94bJD6j3ILXycSdvBx0YXfxlXWtc1Mr2V3bk0SO228QvSY7VRnLoNjdg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:06:52Z',
+                timestamp: '2025-04-30T01:06:52Z',
                 content: '​@@김세훈-x8c할배요...',
                 reactions: {
                     useful: 62,
@@ -4872,7 +4703,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@견우-c5v',
                 author_profile_image:
                     'https://yt3.ggpht.com/XFYTatZNEhMztPjYtp57dYpN8S_aYlNvdgeWx5mH4oUMi2sD8n4UyJKq6aMKGyAMuYOIZ-1ftQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T03:59:28Z',
+                timestamp: '2025-04-30T03:59:28Z',
                 content: '@@user-tm4vh8it7f 님아빠가 님을 9살에 낳으심?',
                 reactions: {
                     useful: 10,
@@ -4892,7 +4723,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@seeiiisaw',
         author_profile_image:
             'https://yt3.ggpht.com/doBRgJvJx9B8Qv9f81K13TM-GJ41T0D27L1FlWhIA6_PeGU9Plh6MFTyt3-R2aMTm2gQQjuNvks=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:48:19Z',
+        timestamp: '2025-04-29T08:48:19Z',
         content:
             '그래 어차피 저출산시대이기도 하고 시대가 많이 달라진만큼 기초교육강화하고 적성 교육 실시한다음에 그래도 적성을 못 찾았다면 대학갈시에 자유전공으롤 돌리는 방법도 나쁘지 않은 거 같음 제안안이 현실적인 부분이 많네',
         reactions: {
@@ -4923,7 +4754,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-zb7ym4zb9w',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lfb-pcGYZj0gg0d930AgEhjE93DJcoyglTyJsiF1U=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:06:55Z',
+                timestamp: '2025-04-29T11:06:55Z',
                 content:
                     '현재 대학생중 자기 진로에 대한 진지한 고민 없이 대학교로 넘어온 학생이 90퍼센트 이상이라고 확신합니다. 심지어 학종으로온 학생들도 단순히 대학 가기위해 만들어진 진로설계가 대부분이에요. 한국 청소년들에겐 진로에 대해 고민할 진정한 기회가 부족합니다',
                 reactions: {
@@ -4942,9 +4773,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jyc-l6y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nnAi_oSHKjJEKwqVDxQHOO3zkIv5IltpbQYyG7hKf2HkaNfV_LPb9_CrTBmyqxIEhu9A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:23:35Z',
+                timestamp: '2025-04-29T11:23:35Z',
                 content:
-                    '맞습니다 지방 일반고인데 학교에서 학종으로가라고 가스라이팅 ㅈㄴ게함​ 진로 정하지도 않았는데@@user-zb7ym4zb9w',
+                    '맞습니다 지방 일반고인데 학교에서 학종으로가라고 가스라이팅 엄청함​ 진로 정하지도 않았는데@@user-zb7ym4zb9w',
                 reactions: {
                     useful: 100,
                     agree: 37,
@@ -4961,7 +4792,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@신유진-q7n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lwdvQztDJkgsBm73_1syXpjp3E1cXMhPinQ78UHbjjhYSyybWLkOtRGN7sReSJt63X9zW87e5W=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:00:38Z',
+                timestamp: '2025-04-29T13:00:38Z',
                 content:
                     '​@@user-zb7ym4zb9w 현재 고등학생인 저도 동의합니다 저희 반 애들 중 절반은 싹다 본인 진로에 대해 결정하지 못했습니다 결정한 친구들 중 몇명은 너무 본인에게 무리가 되는 목표를 세우고 제대로 계획해서 실천하지 못하고 있습니다',
                 reactions: {
@@ -4980,7 +4811,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@올라오는새',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:21:42Z',
+                timestamp: '2025-04-29T13:21:42Z',
                 content:
                     '그냥 옛날 기성세대처럼 돌리는 게 맞음. 뭔 적성타령임 정답과 범위가 명확히 존재하는데 일정 수준까진 노력임.\n그리고 원래 공부가 제일 가성비 좋음. 사회에 나가서 공부 안 하고 다른 길 찾으려면 그게 더 힘들 걸?',
                 reactions: {
@@ -4994,30 +4825,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugz4HFjil3cghRNYxEN4AaABAg.AGtRcoNI3xSAGtwK8qexN8',
-                author_id: 'UCRtAxuHiL_9vc8fpL0e-SGA',
-                author_name: '@올라오는새',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:25:15Z',
-                content: '.',
-                reactions: {
-                    useful: 90,
-                    agree: 43,
-                    curious: 20,
-                    creative: 60,
-                    disagree: 68,
-                },
-                time_taken_to_write: 272,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugz4HFjil3cghRNYxEN4AaABAg.AGtRcoNI3xSAGtwMIX6TQo',
                 author_id: 'UCE0sUU3mz3pm4_xAoAhTu9Q',
                 author_name: '@jyc-l6y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nnAi_oSHKjJEKwqVDxQHOO3zkIv5IltpbQYyG7hKf2HkaNfV_LPb9_CrTBmyqxIEhu9A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:25:33Z',
+                timestamp: '2025-04-29T13:25:33Z',
                 content:
                     '@@올라오는새 윗문단은 맞는말입니다. 근데 공부도 분야가 여러가지 있잖아요? 공대 자연대 상경계 등등 그런 적성을 말한겁니다',
                 reactions: {
@@ -5036,7 +4849,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@seeiiisaw',
                 author_profile_image:
                     'https://yt3.ggpht.com/doBRgJvJx9B8Qv9f81K13TM-GJ41T0D27L1FlWhIA6_PeGU9Plh6MFTyt3-R2aMTm2gQQjuNvks=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:27:18Z',
+                timestamp: '2025-04-29T13:27:18Z',
                 content:
                     '@@올라오는새 적성이라는 게 곧 진로로 연결 되는 고리인데 현재 우리나라 세대들이 이전 세대인 기성세대들과의 비교는 너무 동떨어진 거 아닌 가요..? 지금 시대와는 맞지 않는 교육 방식인 거 같아요 현 세대들은 이전 세대보단 직업 선택군이 다양하고 문화도 다르잖아요..',
                 reactions: {
@@ -5055,7 +4868,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@wintersauceq',
                 author_profile_image:
                     'https://yt3.ggpht.com/niM7XViv-oj1G75Atngz34Tx2XEzJ0xU3sJiUebcyLHj8Id3IPNlQmF_6lVocSZh-8SAcJHZ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T00:06:39Z',
+                timestamp: '2025-04-30T00:06:39Z',
                 content:
                     '⁠​⁠@@올라오는새 지금이 기성세대야? 발전을 할만큼 충분히 했고 이젠 양보다 질을 높여할 시대가 도래해오고 있는데 뭔\n공부 안하고 다른 길이라.. 당연히 힘들겠지 그만큼 더 노력을 들여야되는것도 사실이고 \n근데 최소한 로드맵이라는 틀정도는 만들어주게 해야지 아직도 무작정 공부하는게 답이라고 생각해?',
                 reactions: {
@@ -5076,7 +4889,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Iloveoldpop919',
         author_profile_image:
             'https://yt3.ggpht.com/T_xTj0je3gdNL8tqc46vxU-XXxNAvsBx6jXQa75alqIVFq9-ZTbVdLeoD3D8NeR70cLCZFqU=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:35:05Z',
+        timestamp: '2025-04-29T13:35:05Z',
         content:
             '여태까지 나온 개혁안중 가장 좋은데\n학생들 의견도 좀 물어보고 그거 조절해서 반영좀 해줘요\n어른들만 이야기해서 해결될 문제는 아닌거같은데',
         reactions: {
@@ -5106,7 +4919,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@강이호-e3q',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kl5DflvSAt5cCateTrSwaLn4GBN9r6Kpu3KbWBVHt3T53dfl0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T13:43:12Z',
+                timestamp: '2025-04-30T13:43:12Z',
                 content: '1번 보는것도 힘든데 3번이상 본다고\n서울대가  꼭 맞는것은 아니잖아요.',
                 reactions: {
                     useful: 46,
@@ -5124,7 +4937,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Iloveoldpop919',
                 author_profile_image:
                     'https://yt3.ggpht.com/T_xTj0je3gdNL8tqc46vxU-XXxNAvsBx6jXQa75alqIVFq9-ZTbVdLeoD3D8NeR70cLCZFqU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T14:49:13Z',
+                timestamp: '2025-04-30T14:49:13Z',
                 content:
                     '@@강이호-e3q  그래도 1번 본 경우보다 3번 본 경우가 확률이 더 높지 않을까요',
                 reactions: {
@@ -5143,7 +4956,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:10:32Z',
+                timestamp: '2025-04-30T17:10:32Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 제실 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -5162,7 +4975,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@푸항항-d7j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kl5DflvSAt5cCateTrSwaLn4GBN9r6Kpu3KbWBVHt3T53dfl0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T02:21:22Z',
+                timestamp: '2025-05-01T02:21:22Z',
                 content:
                     '저기 위 어른들은 학생들의 의견엔 관심이 없어요. 자기 밥그릇 챙기기에만 정신팔려서 세금 뜯을 생각만 하겠죠😂',
                 reactions: {
@@ -5181,7 +4994,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Iloveoldpop919',
                 author_profile_image:
                     'https://yt3.ggpht.com/T_xTj0je3gdNL8tqc46vxU-XXxNAvsBx6jXQa75alqIVFq9-ZTbVdLeoD3D8NeR70cLCZFqU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T02:25:24Z',
+                timestamp: '2025-05-01T02:25:24Z',
                 content: '@푸항항-d7j  그래도 서울대 교수분들은 낫지 않을까요',
                 reactions: {
                     useful: 35,
@@ -5199,7 +5012,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@푸항항-d7j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kl5DflvSAt5cCateTrSwaLn4GBN9r6Kpu3KbWBVHt3T53dfl0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T03:00:37Z',
+                timestamp: '2025-05-01T03:00:37Z',
                 content:
                     '@@Iloveoldpop919 주신 의견은 물론 훌륭하지만 교수님들은 제안만 하실 뿐이지 시행은 못하시니까요..',
                 reactions: {
@@ -5218,7 +5031,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Iloveoldpop919',
                 author_profile_image:
                     'https://yt3.ggpht.com/T_xTj0je3gdNL8tqc46vxU-XXxNAvsBx6jXQa75alqIVFq9-ZTbVdLeoD3D8NeR70cLCZFqU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T06:17:17Z',
+                timestamp: '2025-05-01T06:17:17Z',
                 content: '@푸항항-d7j 아하;;',
                 reactions: {
                     useful: 21,
@@ -5238,7 +5051,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Pja-u3n',
         author_profile_image:
             'https://yt3.ggpht.com/29YqrW7wqM74B5nKGQPEkDJ_d3bjIX1sUMK96KvUtIUAakLFqQ-OOz9DWY4s8GEzyDpHE7tgHSk=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T04:24:30Z',
+        timestamp: '2025-04-29T04:24:30Z',
         content:
             '문제집 풀기를 위한 목적의 교육이 아니면 된다 이것이 출발이다\n한국인들은 문제 푸는 법을 공부라고 생각하는 민족임',
         reactions: {
@@ -5268,7 +5081,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@올라오는새',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:34:40Z',
+                timestamp: '2025-04-29T12:34:40Z',
                 content:
                     '한국은 애초에 고대 그리스가 아닌데 서양처럼 원하는 게 모순임. 대학은 한국 내에서 신분으로 작용하는 수단으로 대우해야지 목적에 맞지 않게 대우하는 순간 큰 혼란이 옴.',
                 reactions: {
@@ -5287,7 +5100,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Pja-u3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/29YqrW7wqM74B5nKGQPEkDJ_d3bjIX1sUMK96KvUtIUAakLFqQ-OOz9DWY4s8GEzyDpHE7tgHSk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:01:02Z',
+                timestamp: '2025-04-29T13:01:02Z',
                 content: '@@올라오는새 ???????????? 네가 공부해야 되는 이유',
                 reactions: {
                     useful: 43,
@@ -5305,7 +5118,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@bgold_0809',
                 author_profile_image:
                     'https://yt3.ggpht.com/15VbfNACJ4fMWjc2bxlRsJQ5j0Y7zKt99wjJGFTCP8vTLkCa8Pj_wA-SjvHSKcQw56HeGyrP=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:02:57Z',
+                timestamp: '2025-04-29T14:02:57Z',
                 content:
                     '현 고3으로써, 진짜 제가 생각하던 말이에요.. 문제를 풀기 위한 공부가 아니라 자신의 생각을 만들고 공유하고 토론하는 수업이 항상 필요하다고 생각했었거든요. 드디어 바뀔 기미가 보이기 시작했네요..\n뭐 고3이 이런 생각 하면서 댓글다냐고 할 수도 있겠지만, 현실을 위한 공부를 하면서도 이런 생각을 지니는 게 훨씬 좋다고 생각해서요.',
                 reactions: {
@@ -5324,7 +5137,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김라딘-c7r',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kSgzsn-PaGdvyWXb6AMhFa1gscZpG84RXiatevNLqmSu1hqWQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T19:23:02Z',
+                timestamp: '2025-04-29T19:23:02Z',
                 content:
                     '근데 이런 대규모의 시험은 토의시함이나 논술시험이 거의 불가능함...미국의 sat나 대부분의 나라들의 대입시험들도 대부분 문제풀기식이라 꼭 한국만의 문제는 아님',
                 reactions: {
@@ -5343,7 +5156,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@정병호그라이더',
                 author_profile_image:
                     'https://yt3.ggpht.com/JkuhioNmNKJBj9YEtjPdhqyRR6PLt2t4Ljj6-5f3oPRw9yI33KxzFpMsGhqq1RoprIqYKQvNYg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T08:45:56Z',
+                timestamp: '2025-04-30T08:45:56Z',
                 content: '노벨상 30개 배출한 일본도 입시는 문제풀이인 본고사 위주인데',
                 reactions: {
                     useful: 98,
@@ -5361,7 +5174,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Pja-u3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/29YqrW7wqM74B5nKGQPEkDJ_d3bjIX1sUMK96KvUtIUAakLFqQ-OOz9DWY4s8GEzyDpHE7tgHSk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T09:00:17Z',
+                timestamp: '2025-04-30T09:00:17Z',
                 content:
                     '수능과 sat 달라요, 계네 명문대 경우 에세이도 씁니다 반면에 한국은 그냥 늘상 목적이 시험 합격 그리고 입시 목적이라 별 희한한 문제집을 푸는 거에요. sat 문제 보고 오세요, 그리고 미국교육을 보세요 운동 포함해서 정규과목이 6개로 압니다 클래스가 그냥 틀려요,',
                 reactions: {
@@ -5380,7 +5193,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Pja-u3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/29YqrW7wqM74B5nKGQPEkDJ_d3bjIX1sUMK96KvUtIUAakLFqQ-OOz9DWY4s8GEzyDpHE7tgHSk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T09:10:57Z',
+                timestamp: '2025-04-30T09:10:57Z',
                 content:
                     '어느 나라 서점에 가면 문제집으로 도배된 서점 코너가 있는지 보세요 세상 별의별 기출 문제집 산더미로 쌓인 나라가 한국입니다, 공무원 채용 시에도 학원 가서 하루 10시간 이상 주입하는 나라도 한국이 유일할 겁니다, 그냥 이 나라는 목적이 시험이고 이것으로 변별력 가리자는 생각이 한국의 유일한 철학이자 도죠. 그것을 비판하는 겁니다.',
                 reactions: {
@@ -5401,7 +5214,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@hanee1090',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_klRJVDbpwY1QnrvHfBiC0yEU9eu2-_6iMLCTxD6SU=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T07:57:38Z',
+        timestamp: '2025-04-29T07:57:38Z',
         content: '지금보단낫다',
         reactions: {
             useful: 49,
@@ -5422,7 +5235,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:11:18Z',
+                timestamp: '2025-04-30T17:11:18Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 제실 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -5432,8 +5245,8 @@ export const COMMENT_DATA_OPINION = [
                     creative: 61,
                     disagree: 97,
                 },
-                time_taken_to_write: 345,
-                manipulated: false,
+                time_taken_to_write: 3,
+                manipulated: true,
             },
         ],
     },
@@ -5443,7 +5256,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@탱구-i2o',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l8Lb19f1Jj5ytOpV_xq5aOOCdTcFr6jGryPPHW_sq5cvM=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T13:47:13Z',
+        timestamp: '2025-05-01T13:47:13Z',
         content:
             '지금의 수능과 대학 체계 자체를 근본적으로 갈아엎었음 좋겠다. 아이들이 꿈을 시도 조차 해볼 기회가 없이 수능이란 장벽에 막혀 좌절하는 게 안타까움.\n그냥 어디든 갈 수 있고 가서 무엇이든 배울 수 있는 그런 환경이 조성 됐음 좋겠다.',
         reactions: {
@@ -5466,7 +5279,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@kong2363',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_ksQQl2B9h3YStUGVnbkEBwQ17nquLWhFzYP0HbtW3Fg4xF0T91e_MyLGpXuaKOx1LlOQ=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T15:40:08Z',
+        timestamp: '2025-04-29T15:40:08Z',
         content:
             '현재 대학생이고, 중고등학교가 나눠져 있는 것이 매우 비효율적이고, 비효과적이라고 느껴왔습니다. 그래서 내가 성장해서 교육시스템을 개혁해야겠다고 생각해서 준비중인데요, 이렇게 서울대 교수님들이 제안해주는 현상을 보니 너무 반가운 일이네요. 고맙습니다. 저도 더 힘내겠습니다.',
         reactions: {
@@ -5489,7 +5302,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@choegang-imssaem',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nFk0gPujwLRY0gVeukzI9TWcEnfv_8wsizrb6tJmcoq_g=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-19T10:57:38Z',
+        timestamp: '2025-05-04T10:57:38Z',
         content:
             '수능 여러 번 보는 것 찬성한다. 1번의 시험은 건강상태, 그날의 컨디션으로 공정한 평가가 어렵다.',
         reactions: {
@@ -5512,7 +5325,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@yi4708',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_moJ-vg8U8GklE8d2GhA1SoW9WdMLW4K4ZyBSguNlV6xtWN-G6T4aiTfsS1r9iha3suoS0=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:42:16Z',
+        timestamp: '2025-04-29T09:42:16Z',
         content:
             '근데 실질적으로 가능할까... 수능 문제 출제에 들어가는 비용도 어마어마한데 교수진 1달 가둬놓는거도 그렇고',
         reactions: {
@@ -5554,7 +5367,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ggu_ggu_kka_kka',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mj7CBf4BQmHLQ9dBtWyan_yBQES0sr3UeYE3jsnrkjpqUAOi35ypr3hGLD_I1gkTvFuVeOv0TK=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:23:05Z',
+                timestamp: '2025-04-29T11:23:05Z',
                 content: '6모 9모도 입시에 반영하면 될 것 같아요',
                 reactions: {
                     useful: 75,
@@ -5572,7 +5385,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@key2007prchoi',
                 author_profile_image:
                     'https://yt3.ggpht.com/b4YQUTF9KjKrE_Z4wieiMQCGRvIGcVIRO4TPxSiWRE_ZS9VfCWhkwiuVqsz86xM8-oV_ql9d7ek=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:27:02Z',
+                timestamp: '2025-04-29T12:27:02Z',
                 content:
                     '​@@ggu_ggu_kka_kka 평가원 기출이 아니라서 그러려면 정말 많은 부분이 바뀌어야해요\n되면 좋겠지만',
                 reactions: {
@@ -5591,7 +5404,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@짱박사-l9r',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lDbPA3AdsJo_ytTd2kUyLKeBbBuSv5LgPV6jRJpxlqT_FbErQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:35:35Z',
+                timestamp: '2025-04-29T12:35:35Z',
                 content: '@key2007prchoi 6모 9모도 평가원임',
                 reactions: {
                     useful: 4,
@@ -5609,7 +5422,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김밥말자-s3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nZwsRYgfN4iGQ_vx6l8Ecej4h_CsSyAZZ5ov451LyoBg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:40:34Z',
+                timestamp: '2025-04-29T12:40:34Z',
                 content: '@key2007prchoi 6 9는 평가원이잖아요',
                 reactions: {
                     useful: 12,
@@ -5627,7 +5440,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jung2484',
                 author_profile_image:
                     'https://yt3.ggpht.com/p9Y8eHccMuO5KBS8SBw7F3pC_VSEOPNSrTGVWfLSSWjNri5GfCt4wt7lNMcM5lOU6VRCEhDV=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:18:55Z',
+                timestamp: '2025-04-29T13:18:55Z',
                 content:
                     '그냥 나이든 사람 댓글 언플돼서 그 의견이 맞다는 식으로 이해하는데 진짜 이런건 지금 수능을 보는 학생들만이 안다고 생각함. 9모 반영하는 거 너무 좋음. 진짜.',
                 reactions: {
@@ -5646,7 +5459,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yi4708',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_moJ-vg8U8GklE8d2GhA1SoW9WdMLW4K4ZyBSguNlV6xtWN-G6T4aiTfsS1r9iha3suoS0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:24:40Z',
+                timestamp: '2025-04-29T13:24:40Z',
                 content:
                     '@@jung2484 본인도 작년에 수능봐서 한 해에 수능 볼 수 있는 횟수가 늘어나면 좋다는 생각 이해하는데 실질적으로 가능한지에 대해 생각해본거임',
                 reactions: {
@@ -5665,7 +5478,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@swdotyoon',
                 author_profile_image:
                     'https://yt3.ggpht.com/xgFkBtEPMRnEv1cwIpcMw-p09IBQS8-CSG2OMrwPsb5A5OkQGkvB3d3nIz2b_krxtBjUkg_4OA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:42:14Z',
+                timestamp: '2025-04-29T13:42:14Z',
                 content: '@@yi4708ㄹㅇ 학생들한텐 좋겠는데 현실적으로 힘들거같음',
                 reactions: {
                     useful: 43,
@@ -5683,7 +5496,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Yuusi-j3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lkIByNVbSuFqJGUCTwWjyjAGNZyOZyewDqD3snyIfuaSW6VQtIro6BXAVa29R6UGf8zQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:29:57Z',
+                timestamp: '2025-04-29T14:29:57Z',
                 content:
                     '@@oennjchevvjlas2408 그건 지금까지 대입에 6모, 9모 점수가 반영되지 않아서 느슨하게 한 거고 반영된다면 당연히 수능처럼 해야죠',
                 reactions: {
@@ -5702,7 +5515,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@흐헤헤-t3l',
                 author_profile_image:
                     'https://yt3.ggpht.com/Rker0yRFG7Oelk3fyCjnrMwjOgIzJ9wRD07tLfy2-9g0n_uz3nYx4bfE9fbFg6ATmxZ9tUb9=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:05:00Z',
+                timestamp: '2025-04-29T15:05:00Z',
                 content: '​@@oennjchevvjlas2408당연히  시험환경 수능처럼 바꾸는 가정 하에지 ㅋㅋ',
                 reactions: {
                     useful: 46,
@@ -5720,7 +5533,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-j3b8t',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:51:36Z',
+                timestamp: '2025-04-29T15:51:36Z',
                 content:
                     '@@oennjchevvjlas2408 6모 9모를 없애자 솔직히 왜 존재함? 공무원도 6모 9모잇음? 없음;;',
                 reactions: {
@@ -5739,7 +5552,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@낙타-p3x',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nL4ceCa7kksipzNxx4BtHbEGvL7s_Vi-4WKMYLXObdzhM=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:12:01Z',
+                timestamp: '2025-04-29T16:12:01Z',
                 content: '기사 시험처럼 보는거죠 자격시험같이',
                 reactions: {
                     useful: 19,
@@ -5757,7 +5570,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@math-01123',
                 author_profile_image:
                     'https://yt3.ggpht.com/kr_RO3PWfhvx6QxJFokdKV9mnYf-RtJyUuaQ2uZkvJvwvygWrzZStF5dxKgPZMcj9lBHDcygrA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:38:57Z',
+                timestamp: '2025-04-29T16:38:57Z',
                 content:
                     '@@성이름-j3b8tn수생 꼽껴있는 난이도 조절 하려는거잖어 그리고 6,9모만 없앰? 없앨거면\n3,5,6,7,9,10모 다 없애야지',
                 reactions: {
@@ -5776,7 +5589,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-j3b8t',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:53:54Z',
+                timestamp: '2025-04-29T16:53:54Z',
                 content:
                     '​@@math-01123  모의고사는 어처피 실력검증구간이니까 걍 둬라 오히려 수능치는데 좋겟지. 정 거슬리면 1년 4회만 하던가해야지뭐',
                 reactions: {
@@ -5795,7 +5608,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@math-01123',
                 author_profile_image:
                     'https://yt3.ggpht.com/kr_RO3PWfhvx6QxJFokdKV9mnYf-RtJyUuaQ2uZkvJvwvygWrzZStF5dxKgPZMcj9lBHDcygrA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:06:50Z',
+                timestamp: '2025-04-29T17:06:50Z',
                 content:
                     '@@성이름-j3b8t 내 말은 왜 없애냐는거임\n정시파이터로써 사설 모고도 해야된다고 몸',
                 reactions: {
@@ -5814,7 +5627,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@성이름-j3b8t',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:13:59Z',
+                timestamp: '2025-04-29T17:13:59Z',
                 content: '​@@math-01123다해그럼 다하면되지 안될거있노 단 수능2회는 기회주는거임',
                 reactions: {
                     useful: 21,
@@ -5832,9 +5645,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@1q2w3e4rf',
                 author_profile_image:
                     'https://yt3.ggpht.com/YIys9NoyBjJRnS7BKjLVqwLOgS2MR7zPLTHfetFITJ4-bpcoyp2Mx5-yAnjR8hRzTem8qUTehA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:23:55Z',
+                timestamp: '2025-04-29T17:23:55Z',
                 content:
-                    "유럽 일부 국가는 입시가 존재하지 않고\n명목상 상위권 대학도 없긴 합니다\n졸업이 ㅈㄴ 빡셀 뿐이죠\n\n그러나 프랑스 그랑제꼴 같은 '엘리트' 집단이 존재하기도 하고 사립 대학이 공립보다 더 인정 받기도 합니다\n\n저희는 사실상 사립이 더 인기가 많다 보니 정부가 통제하기도 힘들거라고 생각합니다",
+                    "유럽 일부 국가는 입시가 존재하지 않고\n명목상 상위권 대학도 없긴 합니다\n졸업이 빡셀 뿐이죠\n\n그러나 프랑스 그랑제꼴 같은 '엘리트' 집단이 존재하기도 하고 사립 대학이 공립보다 더 인정 받기도 합니다\n\n저희는 사실상 사립이 더 인기가 많다 보니 정부가 통제하기도 힘들거라고 생각합니다",
                 reactions: {
                     useful: 94,
                     agree: 59,
@@ -5851,7 +5664,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@샘새미-p7x',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mhgm1fQBIFkSCkRQWCaFPi-f4Mo8zTitteCHfT770=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T00:33:17Z',
+                timestamp: '2025-05-01T00:33:17Z',
                 content:
                     '​@@loysa2373\n전기후기는 2회 필수 시험이 아니라 전기에 떨어지면 후기를 갔음.\n70 80년대 예를들면,\n고대 떨어지고 한양대 후기에, 경희대 떨어지고 경기대 광운대 후기에.\n그래서 후기는 내가 원하는 대학이 없었어요. 돈없으면 그냥 후기가고 돈있으면 재수하는 구조.\n하지만 옛날에는 대부분 돈이 없었고.',
                 reactions: {
@@ -5870,7 +5683,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김하겸-s5v',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T06:20:39Z',
+                timestamp: '2025-05-02T06:20:39Z',
                 content:
                     '그 전에 소멸해서 의미없는 논의긴함 ㅋㅋ 중요도로치면 바꿔야할 부분에 포함되지도않을듯',
                 reactions: {
@@ -5889,7 +5702,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@styue',
                 author_profile_image:
                     'https://yt3.ggpht.com/wfOqe2bZnm5M6rIV2_53C2zWDmFQSdKqL7hFNcEfbRPzKk-jK0fM4TlMpV7SXUMyaPIRKS8g9A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-18T07:27:27Z',
+                timestamp: '2025-05-03T07:27:27Z',
                 content: '​6모 9모도 입시에 방영하면 더 양극화되죠​@@ggu_ggu_kka_kka',
                 reactions: {
                     useful: 20,
@@ -5909,7 +5722,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@하브루타-i4r',
         author_profile_image:
             'https://yt3.ggpht.com/GAqHoI1ATK2B3TdUwZE5VFIeTo_T8ESmNogAwXMtEuRqeIKp3ts47uUKm6cInEk1NHLjQnGMog=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T10:10:30Z',
+        timestamp: '2025-04-29T10:10:30Z',
         content:
             '1994년도에 수능을 두 번 치뤘던 적이 있었음. 근데 그때 두번째 시험을 너무 어렵게 내서 거의 100% 다 첫번째 수능점수를 제출하는 바람에 이듬해부터 수능을 한번만 보는 식으로 지금까지 쭉 이어져 왔음. 일년에  수능을 3~4번 보면 시험을 치룰수록 난이도를 높일거임. 더 공부했으니 전보다는 수준이 높아졌겠지 하는 식으로해서',
         reactions: {
@@ -5938,7 +5751,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@fifaboy425',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nIlM7HgJW1VsTCmQJtDp1UF6S57ylLmGUYAnSDGNU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:51:07Z',
+                timestamp: '2025-04-29T10:51:07Z',
                 content: '첫 수능이었나',
                 reactions: {
                     useful: 98,
@@ -5956,7 +5769,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Goguggi1111',
                 author_profile_image:
                     'https://yt3.ggpht.com/pi69y8OH-MX0MBLlBa-VQI3enSU5LU4xUGXYRreSAl8002Gi7sGZ0SVx3IDblL4bQeteWoY1eik=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:14:25Z',
+                timestamp: '2025-04-29T11:14:25Z',
                 content: '@@fifaboy425 2번째요',
                 reactions: {
                     useful: 13,
@@ -5974,7 +5787,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@사나이묵직한주먹-s5f',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kJPqWvKueKR6ve-T6-VP0Iwzbv9i7XSlkmXRqJMTHFLW0PvSU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:20:07Z',
+                timestamp: '2025-04-29T11:20:07Z',
                 content:
                     '6모 9모가 수능이 되는거랑 똑같겠네 근데 그 수능퀄리티로 6,9모고를 그렇게 만들수있을까? 의대가려는 애들은 시험 3개를 모두 다 잘봐야겠네 ㄷㄷ',
                 reactions: {
@@ -5993,7 +5806,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@jyc-l6y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nnAi_oSHKjJEKwqVDxQHOO3zkIv5IltpbQYyG7hKf2HkaNfV_LPb9_CrTBmyqxIEhu9A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:28:02Z',
+                timestamp: '2025-04-29T11:28:02Z',
                 content: '표준점수로 평균내야죠',
                 reactions: {
                     useful: 39,
@@ -6011,7 +5824,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:10:50Z',
+                timestamp: '2025-04-30T17:10:50Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 제실 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -6030,7 +5843,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@comarchi2000',
                 author_profile_image:
                     'https://yt3.ggpht.com/hqRWxzodIOXpEjRzwE9iLClPDxiJD1u7aJLOwR0fcheaQAcRY72aqyS1ZDhpnaBJVJvAfxHtEK8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-05-21T10:45:04Z',
+                timestamp: '2025-05-06T10:45:04Z',
                 content: '그 때는 원점수만 봐서 그럼.. 표준점수로 가면 아무런 문제가 없음.',
                 reactions: {
                     useful: 67,
@@ -6050,7 +5863,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@PasS_PasS_',
         author_profile_image:
             'https://yt3.ggpht.com/Wi_7DVK3xnZZYclvfPDz9AHXg7GaQZlk_7kvxSmSHxR6krT482ujvrnsQkUzW7KoL-eTe9tzpw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T12:04:58Z',
+        timestamp: '2025-04-29T12:04:58Z',
         content:
             '대학은 들어가기 쉽게하고 나오는게 어렵게 해야함. udt같은 특수부대처럼 대학을 운용해야지. 여러공부를 해보고 적성 찾아가야함',
         reactions: {
@@ -6073,7 +5886,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@lolooloop',
         author_profile_image:
             'https://yt3.ggpht.com/3ohjdlSxiF9LXRLAgObmPnL-La9Nv-UJkSdHzXVKbE0Yaxi46K1-uAYW1Ax9z-b6evcNTYov=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T16:18:13Z',
+        timestamp: '2025-04-29T16:18:13Z',
         content:
             '여러번 보는거 굿 솔직히 수능때 한번의 실수로 또다시 20대시절의 1년을 난리는 재수생들 보면 진짜 너무 안타깝더라',
         reactions: {
@@ -6096,7 +5909,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@user-zb7ym4zb9w',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lfb-pcGYZj0gg0d930AgEhjE93DJcoyglTyJsiF1U=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T10:58:02Z',
+        timestamp: '2025-04-29T10:58:02Z',
         content:
             '와 ㅅㅂ 내가 5년전부터 댓글달고 레포트 과제에도 글쓰고 다니던건데\n국영수위주가 아닌 철학,인문학 소양교육의 비중을 늘리고 청소년기를 적성탐색의 시기로 삼아야하는데\n\n도대체 교육정책을 언제 개혁하나 싶었는데 서울대교수들이 내 오랜 생각이랑 똑같은 제안을 드디어 발표했다는 것에 소름돋았다',
         reactions: {
@@ -6119,7 +5932,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Makna-dc3cx',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nKOqIVC_wjCGDpD96rhr1ZSOIcdvmYOi5pFdtljKl4eJy8AVLi8mdgjfZHrXpiFTZecw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T12:17:16Z',
+        timestamp: '2025-04-29T12:17:16Z',
         content:
             '미국 처럼 가는구나\n한국에서 졸업하고 대학 다니다가 미국ㄷ학 붙어서 그 다음해에 바로 편입 갔는데 이런게 필요했음\n좋네 이거는 진짜 좋다 진짜 똑똑하다',
         reactions: {
@@ -6142,7 +5955,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@atinyrobot6927',
         author_profile_image:
             'https://yt3.ggpht.com/NnZKrpbbk2vOj8GUk7s_VhBSdlZP8CNdvifYnxeutgWb6kne_CmpKRVBv-EtCrPUsvrZtP_8=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T10:46:28Z',
+        timestamp: '2025-04-29T10:46:28Z',
         content:
             '개혁이 절실한건 맞죠. 애 키워보니 이건 애들한테 참 가혹하다 싶을 때 많아지네요. 넘 싫은데 또 해야하는, 시켜야하는  상황이 힘듭니다.',
         reactions: {
@@ -6165,7 +5978,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Lllllliiiiiioooo',
         author_profile_image:
             'https://yt3.ggpht.com/-crhk6S5gZs_Nbyptd2BIoPpirmcJqA8DguSHqkB0inHLLoYM7MQZfkLgEbrhKPDNqaay01n_A=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T17:49:52Z',
+        timestamp: '2025-04-29T17:49:52Z',
         content: '재수 삼수생이 줄어야 부모도 숨통 트이고 학생도 살만하지',
         reactions: {
             useful: 85,
@@ -6187,7 +6000,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@user-hpkxzlsk554',
         author_profile_image:
             'https://yt3.ggpht.com/u4WaHNwBW0tNOBxZL8snLRUrPiVnoilBiOyWYkWXnykfLDB_D478k9k5wkN4cYAorhg26008-bc=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:10:43Z',
+        timestamp: '2025-04-29T08:10:43Z',
         content:
             '여러번  치는거  좋아요. 삐끗하거나  실수할수도  있는데  그 중에  잘친것으로  쓰면   덜부담스러울듯',
         reactions: {
@@ -6209,7 +6022,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:12:18Z',
+                timestamp: '2025-04-30T17:12:18Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -6220,7 +6033,7 @@ export const COMMENT_DATA_OPINION = [
                     disagree: 54,
                 },
                 time_taken_to_write: 48,
-                manipulated: false,
+                manipulated: true,
             },
         ],
     },
@@ -6230,7 +6043,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@RoadaoR123',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nG4SbiRinF1vfW-o9Rnw5llJVk7TkcI6fsy_QOXjoibee1KSsh76gul9To0U7W2NWuBQ=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T06:28:53Z',
+        timestamp: '2025-04-29T06:28:53Z',
         content:
             '배우신 분들이 정말 좋은 의견을 내셨다\n어린 시절부터 자연스럽게 본인의 길을 찾을 수 있게 해야 한다\n어른이 되서야 본인이 뭘 하고 싶은지 찾는 사람들이 너무 많다',
         reactions: {
@@ -6257,7 +6070,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@so000-kk7qd',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nz0WQ2urjkwjkAfqK_EdLBYiMnKV9tTCAehms64-BY7J4wgAZK-pM-tV9QNNg395wpAQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:43:10Z',
+                timestamp: '2025-04-29T08:43:10Z',
                 content:
                     '지금 고등학교는 미쳤어요   수행에 내신에 수능최저까지 챙겨야하는 생지옥이에요 교육부 빨리 정신차려야합니다 아무도 원치않는 AI교과서 타령할때가 아닙니다',
                 reactions: {
@@ -6276,7 +6089,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-mq3qg7hd4z',
                 author_profile_image:
                     'https://yt3.ggpht.com/sAk23qHg43AhUfKuSNvTUpPR2qzD1Cp_RZy5Y3HLX4Gskrj4f1lHWu3DfHdc1vFfQg5wAUnjYMU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:27:26Z',
+                timestamp: '2025-04-29T09:27:26Z',
                 content: '@@so000-kk7qdㄹㅇ 쌉인정',
                 reactions: {
                     useful: 46,
@@ -6294,7 +6107,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-hn7-j8e',
                 author_profile_image:
                     'https://yt3.ggpht.com/DmgQ3dLMrJuF53OzaF9a4pIC6797-TVbPG9CTwnHZHXA5dKSdB-gRqSSVuRaODVIWF1ufONzbw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:33:08Z',
+                timestamp: '2025-04-29T10:33:08Z',
                 content: '@@so000-kk7qdㅇㅈ ㅠㅠㅠ',
                 reactions: {
                     useful: 98,
@@ -6312,7 +6125,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:12:02Z',
+                timestamp: '2025-04-30T17:12:02Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -6333,7 +6146,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@user-rplemsn192h',
         author_profile_image:
             'https://yt3.ggpht.com/oMdbb5wyCxhWyACMUnSci4UrjHNVnx-rWymrAMt97H-SbCKZarDfnvoQNAkAf7H0NQOtHD1m=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:03:57Z',
+        timestamp: '2025-04-29T09:03:57Z',
         content:
             '누가 그랬는데. 플랜A가 안 되면 플랜B로 가야하는데 이 나라는 플랜A+B+C+...으로 간다고',
         reactions: {
@@ -6359,7 +6172,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@genuinely-r3e',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nbdc5AzjivOkOVFs1t3A1g2QWi7OLsMZHV2ihZTqZmqltNd7G5En2x7TJbw2Ac3mb2Bw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T06:47:11Z',
+                timestamp: '2025-04-30T06:47:11Z',
                 content: '한국은 걍 다른 나라 교육 시스템  짬뽕 시킴...',
                 reactions: {
                     useful: 26,
@@ -6377,7 +6190,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@uhvai_morrer',
                 author_profile_image:
                     'https://yt3.ggpht.com/TrMUeWQlYJzs34BpSTU04FWH9QMDvFxgwjnaRPHaqQguH8mrrTQiYSwSdjY-COw_Q2cbxQqi=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T09:35:49Z',
+                timestamp: '2025-05-01T09:35:49Z',
                 content:
                     '???: +a 하면 다른 나라들 보다 성장하겠지 그렇겠지?!?! 우리 아들 딸들은 기대에 부흥해줄거야!!!!!!!!',
                 reactions: {
@@ -6396,7 +6209,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ssass7458',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nHwhJjn5siDEQatGsYF4yNVVV4EIFCaA5LezAON9k=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-18T03:52:22Z',
+                timestamp: '2025-05-03T03:52:22Z',
                 content:
                     '왜인줄암? A를 아예 배제하면 A에서 이득보던 사람들이 죄다 반발해서 그래.\n\n그러니까 A를 버리고 B로 못가고 A도 가져가는 시스템이 되는거임.',
                 reactions: {
@@ -6417,7 +6230,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@minyj4505',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mlQZfau-8ffijDxD2EXSrK2vB0q6fYsNxu5RibpAZmtg=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:57:21Z',
+        timestamp: '2025-04-29T08:57:21Z',
         content: '수행평가 제발 없애라고',
         reactions: {
             useful: 90,
@@ -6444,7 +6257,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@안녕하세요-t7e1s',
                 author_profile_image:
                     'https://yt3.ggpht.com/dhQsiovA--cV3SWQTuIRse7ONVGBqUg1KFJvsFlIaztO9C4VmuszzVaDr24QZUmzxgf-n7aQUg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T22:39:24Z',
+                timestamp: '2025-04-29T22:39:24Z',
                 content: 'ㄹㅇ ㅆㅇㅈ 지금 시험기간인데 오늘만 수행이 4개다 ㅆㅂ',
                 reactions: {
                     useful: 21,
@@ -6462,7 +6275,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@찢칠라0523',
                 author_profile_image:
                     'https://yt3.ggpht.com/1CH9onwgVabetKpbBkHC4b4wjRc9InjILCwTECdVl0E3oepUibXSt2puUl0XU27IVdgcuHco=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:38:39Z',
+                timestamp: '2025-04-29T23:38:39Z',
                 content: '훠훠..',
                 reactions: {
                     useful: 30,
@@ -6480,7 +6293,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@다람쥐-o8u',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kSgzsn-PaGdvyWXb6AMhFa1gscZpG84RXiatevNLqmSu1hqWQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:39:47Z',
+                timestamp: '2025-04-29T23:39:47Z',
                 content: '미안하지만 수행평가는 늘어나면 늘어나지 절대 안없어진다',
                 reactions: {
                     useful: 77,
@@ -6498,7 +6311,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@스왈로보스키',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_niEH3Zco7u00jurzz5t9i3qAEptqLTurEheT1wzl95gPQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T03:28:36Z',
+                timestamp: '2025-04-30T03:28:36Z',
                 content: '진심임? 수행이 있음으로 시험 부담이 내려가는건데',
                 reactions: {
                     useful: 44,
@@ -6516,7 +6329,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dol12354',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mdM9w3IVnU63EvkM8QB-fpHHpKOz6-iIXmblVjrfdLNEAek8WoEIS2Ci0xfrvFZSjTCg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T03:34:52Z',
+                timestamp: '2025-04-30T03:34:52Z',
                 content: '@@스왈로보스키 시험 보는게 낫지 솔직히 쓸데없는 일이잖아ㅋㅋ',
                 reactions: {
                     useful: 38,
@@ -6536,7 +6349,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@squaresugar',
         author_profile_image:
             'https://yt3.ggpht.com/IwkEZkjvHj4CjMXiLP8j1QXoZz5EjmWM5bPbyJQGgHdC5qR8vZ1rJ1db9tRJ4AbD1uAACeAp5Q=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-27T23:14:32Z',
+        timestamp: '2025-05-12T23:14:32Z',
         content:
             '시험 여러번 보는거 진짜 좋다고 생각함… 솔직히 6모 9모 수능 이렇게 다 들어간다음에 젤 잘본 점수로 하면 좋겠음 정말 잘하는 친구가 수능때 실수하고 6,9모 잘보는 친구들도 많고 솔직히 6,9모 못봤는데 수능때 잘보는애 정말 없어서.. 실력대로 갈 수 있을 것 같음',
         reactions: {
@@ -6559,7 +6372,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@rmfleu1',
         author_profile_image:
             'https://yt3.ggpht.com/Ir2f4GSIv2_eKRRvr5gntEhWsMCi8uYZ3Qv8Z23bV-CnY9_5ges5KL5W_BvUPtL2XQkfSplDcg=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-15T09:59:39Z',
+        timestamp: '2025-04-30T09:59:39Z',
         content: '왜 난 올해 고삼인거지 수능때문에 우울증걸린거같음 나도 일년에 세번 수능보고싶다',
         reactions: {
             useful: 2,
@@ -6581,7 +6394,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@ck6554',
         author_profile_image:
             'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-15T17:09:55Z',
+        timestamp: '2025-04-30T17:09:55Z',
         content:
             '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 제실 공정한 국시 공시 정시가 답.',
         reactions: {
@@ -6604,7 +6417,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@이루리-q9i',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lVwICIdXFa1ZqPnlJnTv4SFfuRU1A_AODteTbyCBrRW5xHRe5Uim_mgvN8Z2GT4g_3fA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T10:17:45Z',
+        timestamp: '2025-04-29T10:17:45Z',
         content: '수시부터 없애라',
         reactions: {
             useful: 23,
@@ -6626,7 +6439,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@신유진-q7n',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lwdvQztDJkgsBm73_1syXpjp3E1cXMhPinQ78UHbjjhYSyybWLkOtRGN7sReSJt63X9zW87e5W=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:42:45Z',
+        timestamp: '2025-04-29T13:42:45Z',
         content:
             '애초에 우리가 대학입시에 거의 목숨까지 걸어가면서 뛰어들어야할까? 나는 대학 안가고도 구할 수 있는 직종 폭이 좀 넓었으면 좋겠음 이게 정책방안으로서는 힘듦 제제를 가하면 관련 업계들이 아예 들고 일어날테니까 그러니까 사람들 인식이 대학을 가도 되고 안가도 되고 이렇게 변화시킬 무언가가 필요함',
         reactions: {
@@ -6651,7 +6464,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@주식채널-w8g',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T04:50:48Z',
+                timestamp: '2025-05-02T04:50:48Z',
                 content:
                     '우리나라는 힘들지. 자원이 없는 1차산업이 발전한 나라가 아니라서, 대학안가고 할수 있는 일들이 한계가 있는데,\n그래서 생존을 위해 택한게 인적자원, 개발등 고학력이 필요한 산업이고. \n단순히 다른 나라는 대학안가도 잘살잖아, 그렇다더라로 끝이 아니라 해외국가들과 차이나는 지정학적 한계도 생각해야됨, 그냥 좋아보인다고 따라하면 그냥 어설픈 정책이 되고 결국  피해보게 되있음.\n대학 안가도 되긴 하지. 그런데 대학안가면 돈 못버는 직업을 받아들여야되는데 받아들일수 있음? 그것도 아니자너. 대학안가도 돈많이 받고싶은거 아님? 그럼 다른 나라가는게 답임 호주 워홀같은거처럼.',
                 reactions: {
@@ -6670,7 +6483,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@goldfish522',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lr3Hoem8XKXrBMqMvgCWMXwh9CmmxRvNoHv1bf00gG8w=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-20T17:08:42Z',
+                timestamp: '2025-05-05T17:08:42Z',
                 content:
                     '물론 이렇게 되면 좋겠지만 진짜 천지개벽이 일어나지 않는 이상 한국에선 힘들다는게...',
                 reactions: {
@@ -6691,7 +6504,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@클릭해-l9X-여돌L양-l7e',
         author_profile_image:
             'https://yt3.ggpht.com/O-g4VecyCXOftyI90lYqi-GWG9Eqymz3y4SDeeCEkbJ8aBLh7yxlx4_nS7p90znon_PriNk=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T14:31:35Z',
+        timestamp: '2025-04-29T14:31:35Z',
         content:
             '사실 이게 유일한 해답이라고 생각해요\r\n내신과 모의고사 거기에 수행평가까지\r\n우리 아이들 왜 이런 일들로 학창시절이 고달픈건지 이해할수 없습니다ㅋㅋ ٴٴٴ',
         reactions: {
@@ -6739,7 +6552,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@pushpampushpam9067',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l8W5KWllpHtNVwc0PMZUAmk3jCFbFn_03gQxIhvmL0JoI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: '대박👍',
                 reactions: {
                     useful: 100,
@@ -6757,7 +6570,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@maheshkingahiran1864',
                 author_profile_image:
                     'https://yt3.ggpht.com/JW0lBnCuMFUacdOL5GH54qgqMIWCTqQ_oPD6X9LJdU5mhXPJryEy1QUc5UV15aL3zkfSvrVZgA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: '신작을 가져왔구나.. 폰헙에도 없는거 아니노..',
                 reactions: {
                     useful: 29,
@@ -6775,7 +6588,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@nileshyadav8869',
                 author_profile_image:
                     'https://yt3.ggpht.com/Jho98AtSZOnqRiuMWYABzTJVgfWFTApXxTeF-mJOZsrZaRXbuGAdP6i75ePNnkN0W5b7mer8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: '보자마자 연속으로 따알따리 처음 쳐봄',
                 reactions: {
                     useful: 29,
@@ -6793,7 +6606,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@NRKPost77',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mVYsh4_7tPnhk4WYSdJnsULsk1BHYmbthLeH2eoiV5JeggNIweaGnRuf_CWe9Mf5bHig=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 1,
@@ -6811,7 +6624,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@rkmubarakail4068',
                 author_profile_image:
                     'https://yt3.ggpht.com/A3blP8vG0aITaJNDrcBTQO7iia23lkJUNE8YJwFuWK8nSbu0h8tmKbY1YimXgOh7Fh2S_rb-zQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 77,
@@ -6829,7 +6642,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-ee7zouser-ee7zo7vh3v',
                 author_profile_image:
                     'https://yt3.ggpht.com/r61jtKm4pVBRxmPPzFAqTzZ0lALeRxF1IGapvWRCx83C4nIB4uT23o5wnLhoZYcqu-ARqK3svA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 82,
@@ -6847,7 +6660,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@nikulbhaivaghela21',
                 author_profile_image:
                     'https://yt3.ggpht.com/xKNCOxya82iA5Iwx1XTeRXlwbs9tzFYOJ7iCMuzpvjH-J8Wr3HYx5FmxFAwFD-YUYvanh29dLA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 15,
@@ -6865,7 +6678,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@S.super_FF',
                 author_profile_image:
                     'https://yt3.ggpht.com/24AIMjMUnoOiDNWabI27pE0N8feoETGWrulVvL7whETQSywSbmX7BcVTO8g6hjVs0VkhPBV6=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: '대박👍',
                 reactions: {
                     useful: 5,
@@ -6883,7 +6696,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Sharmaa2646',
                 author_profile_image:
                     'https://yt3.ggpht.com/q2QtE_eu2N62z50WuUHyJHlp03uG9tahm4j1cULYlI0u4dvlSsUOE_wPCeTefu3_baGUuC1sRAk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 24,
@@ -6901,7 +6714,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@PradeepPradeep-m2n',
                 author_profile_image:
                     'https://yt3.ggpht.com/wpsCCRR93H1hlya8NgRGueBm7_M_-Dmrjc0UP7NydW8d7YiQzl6vi_J47QTw-OZPnBvzA0BD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 84,
@@ -6919,7 +6732,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ajjubhai8929',
                 author_profile_image:
                     'https://yt3.ggpht.com/BCdsH_5fADk76c8dEVBOGWfZO4azRHu6JcZ1R3QnwFW1tm2I5roy0rDti2usnEi6_q1bgAJIGg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 23,
@@ -6937,7 +6750,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@হেঁপাহৰএসাজ',
                 author_profile_image:
                     'https://yt3.ggpht.com/Pe8fDx2dN3F1GwKv0PDO-1Hp6Ac-9vXj7WlEOex2ccbatwAebnWTFYD0ssfyPTCICe5sWidX0w=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: '보자마자 연속으로 따알따리 처음 쳐봄',
                 reactions: {
                     useful: 3,
@@ -6955,7 +6768,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@khatunbibishaikh6677',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZS9t7NwkALf9wnlip_dNK5VVAZd4-vJaXUuPyJiIwkcwRz1IY8zSQFFpGUtdMWp5sEkc8Piwmw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 98,
@@ -6973,7 +6786,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Tejas_99_yt',
                 author_profile_image:
                     'https://yt3.ggpht.com/VQRR7m67Jt6jx7JBgeaZletelx89k3OyVSboScLsiDWRE0gaHNfwHBkaeX6hOADV2G9Zd4x4yQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 56,
@@ -6991,7 +6804,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Jaymaheshwari24',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k8GjNiCECo12FOY9lA7bNUVwYiFLUAtJCer6l41_qK5-6jt4IxJrSx_wW8JAcTX-SIUg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: '얘꺼 꼭 들어가보셈 생크림 개많이나옴',
                 reactions: {
                     useful: 57,
@@ -7009,7 +6822,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@aghav9389',
                 author_profile_image:
                     'https://yt3.ggpht.com/wadpPlHlww28jdP1X_fWPl-WRpf-ys8Hu845F6hNtG4Phm-dY8nj3vNSZzHkQ7V05GKQ57tO=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:03Z',
+                timestamp: '2025-04-29T14:46:03Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 7,
@@ -7027,7 +6840,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yadavgaming-vg5ln',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kXORfZuEp_lOgZIIurZSAxaKbEkEEK6Y8Pd354JrT0kfB-maFfTUMYCPOgFz0h50ijeg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: '고맙다 덕분에 한번 치고 꿀잠자러간다',
                 reactions: {
                     useful: 46,
@@ -7045,7 +6858,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Allgameing482',
                 author_profile_image:
                     'https://yt3.ggpht.com/YxESOkqBWsFdzT0wpk8wsI7z1Kcapr3wmnEtwMG6ZfLh29pMaqs2JE43XU4OCC7lGx6R78nkKA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: '너 어그로가 아니라 진짜였구나ㅋㅋ',
                 reactions: {
                     useful: 18,
@@ -7063,7 +6876,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@KatarabhupendrBhupendrka-eq8dl',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lstB3YH641mvD7c0F5CsIK1VohS5sGjDHznzqAxeFzDrKoh35mwiEQPb1tQwNdxYWaWA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 87,
@@ -7081,7 +6894,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@DeniseSahu-z4l',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n6uXwQUZQrJSqgJ6ZF2m7yPyU86vA2cV06lZe_vIJ30N0POsPL-swpaX5qoZBX-P1M2A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 42,
@@ -7099,7 +6912,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sarbjeetkaurvlog5049',
                 author_profile_image:
                     'https://yt3.ggpht.com/8uCqoYCyK4lVMlmrJT9JX1qPAgdujTnLaYqoC2YwVbTo4g9GAM4gZQcs6H5frydVkEzAnLb7GQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 33,
@@ -7117,7 +6930,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@all-timebeat2008',
                 author_profile_image:
                     'https://yt3.ggpht.com/VPT5w2HUHe2LN2HNRFPEOrdZO49cJlGlLxz3rd5I86DOq9SnCyb0SkOXAfIpbLdwb8WBzGgW2A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 50,
@@ -7135,7 +6948,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@DancerJITU111',
                 author_profile_image:
                     'https://yt3.ggpht.com/XKeqOthWEIjtD24efcUstQehDTgtlAay4jLFPhOOTzrc05U8ZEukDdjcNcrS1SIXYFcWO37s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: '보자마자 연속으로 따알따리 처음 쳐봄',
                 reactions: {
                     useful: 38,
@@ -7153,7 +6966,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@PBGAMING-k9g',
                 author_profile_image:
                     'https://yt3.ggpht.com/-hlHsnqOxPiaItnSM-jgEjxDUMD14QeLksAK6St2dir6sPeZwCLxcZT9bPK5_QfPYz4fFF13=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: '신작을 가져왔구나.. 폰헙에도 없는거 아니노..',
                 reactions: {
                     useful: 22,
@@ -7171,7 +6984,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@samimmondal3893',
                 author_profile_image:
                     'https://yt3.ggpht.com/u-FeIK4MwE3MntI3m7B6WZ5ddSxsX8XQHIsK1_LN5XBSRmAlAd-vRvwPPFtdQt4hQNcxGxK7_aM=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:04Z',
+                timestamp: '2025-04-29T14:46:04Z',
                 content: 'ㄹㅇㅋㅋ',
                 reactions: {
                     useful: 20,
@@ -7191,7 +7004,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@박하임-r5d',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mZTaHB_dUrjdxVPzWHPSBBiQ8yLcuryhd4EkW86K1c1ICS_z_qpEkyUfbcf4p_XGWlCw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-20T23:49:21Z',
+        timestamp: '2025-05-05T23:49:21Z',
         content:
             '현역 고2인데 좀 번거롭긴 해도 솔직히 지지합니다\n인생은 한방 뭐 이런것도 아니고 딱 하루를 위해 10년 넘게 할애해야하는거 솔직히 너무 힘들어요\n수많은 어른들이 이미 걸어가신 길이고 엄살같이 들리지만....\n솔직히 제가 고3일때 갑자기 확 바뀔리는 없으니까 제 뒤에 후배들이라도 그렇게 하면 좋겠다는 마음입니다...',
         reactions: {
@@ -7214,7 +7027,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@헤헤헤헤-j9c',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mo7mWwMjX7LHrO4LB3JZLcJZ3dL-n_Vb8UjkRRAD4=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:38:04Z',
+        timestamp: '2025-04-29T08:38:04Z',
         content:
             '수시폐해도 크구요..\n저는 특히 수능때 긴장해서 1교시 망쳤는데 한번에 좌지우지 되니 아까웠습니다\n미국도 5-6회 본다고 합니다',
         reactions: {
@@ -7258,7 +7071,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김세훈-x8c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kEoHXiAkX-0F3T0DkstwXPCrnKtSf7mTnqPgLPxIc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:54:45Z',
+                timestamp: '2025-04-29T08:54:45Z',
                 content: '미국 sat 한두달에 한번봄',
                 reactions: {
                     useful: 72,
@@ -7276,7 +7089,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sueshin3850',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nQ3EU32huHUsVMWtkotRJh4JkRDfDc1vzjJzDPmOM=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:00:52Z',
+                timestamp: '2025-04-29T09:00:52Z',
                 content: '호주가 딱 저래요.',
                 reactions: {
                     useful: 41,
@@ -7294,7 +7107,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@akfy8wcn8w9',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nNR0txrWLLXOjT6k2Ti7o6G9kTWYH3C4ykr1VUJgYBZRxAlKkR9wOlcDmlYHm1gZhfoQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:14:55Z',
+                timestamp: '2025-04-29T09:14:55Z',
                 content:
                     '수시 비중을 50퍼 이상으로 늘리고 정시 100% 전형을 없앤다는데요? 수시폐해를 해결해줄 것 같지는 않습니다. 미국같은 경우도 sat가 입시결과를 크게 좌지우지 하지 않기 때문에 두번씩 볼 수 있는겁니다. 미국도 sat 100% 전형은 없거든요',
                 reactions: {
@@ -7308,30 +7121,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'UgzavHjQN5qt-Mu3Ha14AaABAg.AGtQSh-OgvEAGtVHBTazMX',
-                author_id: 'UCKQYeHEhTNLjHjnd1u_MGBQ',
-                author_name: '@팅팅탕탕',
-                author_profile_image:
-                    'https://yt3.ggpht.com/FNYZrDOn2MrJZUWv2kCx2f1KIvQ8_3wd8w1GkqNP6NGLT4qiuykAwaYYNlMTRuBtw7eUQqNyFQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:20:11Z',
-                content: '긴장충 극혐이네 그냥 니 실력이야ㅋㅋㅋㅋ',
-                reactions: {
-                    useful: 49,
-                    agree: 85,
-                    curious: 28,
-                    creative: 96,
-                    disagree: 39,
-                },
-                time_taken_to_write: 185,
-                manipulated: false,
-            },
-            {
                 comment_id: 'UgzavHjQN5qt-Mu3Ha14AaABAg.AGtQSh-OgvEAGtVi-TW9KS',
                 author_id: 'UCrRMk-pSFpzXmqsMPmJqqEg',
                 author_name: '@시청용-h7p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:23:59Z',
+                timestamp: '2025-04-29T09:23:59Z',
                 content: '@@팅팅탕탕긴장을 실력으로서 변별하는 시험은 변별력이 꽝이죠',
                 reactions: {
                     useful: 93,
@@ -7349,7 +7144,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@hh-nb1kc',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lwCQ0_Nu8TiRYF7vW_vx66fpBe-J8yBMAp0RnLc5hBk7U2uW6R8t50hwetfOXL3fvf5Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:36:13Z',
+                timestamp: '2025-04-29T09:36:13Z',
                 content: 'ㄹㅇ 컨디션 난조로 오후시험 다 말아먹음 ㅠ',
                 reactions: {
                     useful: 41,
@@ -7367,7 +7162,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@이응-j5n',
                 author_profile_image:
                     'https://yt3.ggpht.com/Um-BDQoqbdJoL6pmw0q3X4wmrRuiApEnEKgSIiyxeRwWxF34CY2WEu5SDBBnyKGli8ZBhJS4FAs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:40:08Z',
+                timestamp: '2025-04-29T09:40:08Z',
                 content:
                     '@@시청용-h7p 컨디션 조절 못한거는 본인 책임도 있죠 전날까지 뭘했을 줄 알고... 그게 공정성인건데요',
                 reactions: {
@@ -7386,7 +7181,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@cwsmoment',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lqZZRWVeH6XqGcG2ZzeqBwu4JEmbDI7YNnRMhtqBHk1FvxA0I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:00:48Z',
+                timestamp: '2025-04-29T10:00:48Z',
                 content:
                     '​​@@이응-j5n 꼭 컨디션 조절 뿐만 아니라 그냥 긴장 많이 하는 사람 부류가 있어서 그런 사람들한테 수능을 한 번 본다는건 조금 아쉽긴 하지. 극단적인 예로 아이큐 200 넘는 인재가 있는데 긴장을 많이 해서 수능을 망치게 된다면 인재 하나를 놓치는 거니까. 영상에 나오는 교수들도 수능을 여러 번 보자는 얘기도 기회를 일단 여러 번 줘서 인재를 더 많이 발굴해낼 수 있지 않을까 해서 하는 말 같은데.\n그런데 어쩔 수 없이 한 사람을 완전히 평가하는 것도 불가능한 것은 맞아서 결국 사회에서는 긴장감을 조절하는 것도 능력이긴 함.',
                 reactions: {
@@ -7405,7 +7200,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@컴퓨터용-d1t',
                 author_profile_image:
                     'https://yt3.ggpht.com/igCdtNIYlmTSwf0OPmtcC62Iv9fyuCPwvuObPM3d95KbrjjUFSJqZXH2JGFSSeafX7eTGyAGyw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:09:40Z',
+                timestamp: '2025-04-29T10:09:40Z',
                 content:
                     '​@@시청용-h7p긴장은 별개의 상황이지 긴장했다고 면접 망치는 사람들도 있는데..',
                 reactions: {
@@ -7424,7 +7219,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@흐음-b5o',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kxUc-UbNJnhnYMiqrahcybqLg051eNW1m4EXAq7zg9w4wlNav0eWUPWHY5nHoNy7JaQe7IBHX4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:26:43Z',
+                timestamp: '2025-04-29T10:26:43Z',
                 content: '​@cwsmoment인생에서도 긴장해서 실수하는거 책임은 자기 잘못임',
                 reactions: {
                     useful: 79,
@@ -7442,7 +7237,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@우마우마-s8c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kyeY7vBiPKGaANzhS0xmmqoSknJZvlBNcU0sDfBsA7OcA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:27:11Z',
+                timestamp: '2025-04-29T10:27:11Z',
                 content: '그럼 미국 가세요',
                 reactions: {
                     useful: 28,
@@ -7460,7 +7255,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjhjhbjjkbjkby',
                 author_profile_image:
                     'https://yt3.ggpht.com/-HCiOrlscMyAlDlD6uueqRkvwIT7dbPinTmfNFWM5tYIn6W1PVGOHMIFylM-6dXczg_DpoOS=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:00:03Z',
+                timestamp: '2025-04-29T11:00:03Z',
                 content: '수능 초창기에 논술에 내신 끼워보던 전형이 많았음',
                 reactions: {
                     useful: 19,
@@ -7478,7 +7273,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Dkdk-p3i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ksS5UAUM4Uf4f0TGMeubCW-WQ3ct4eKkxCcD0iKfTXeWmF_8MoxaNJSDk_C8JMP3oE7ahPMy6g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:01:44Z',
+                timestamp: '2025-04-29T13:01:44Z',
                 content: '​@@팅팅탕탕뭔소리야 ㅋㅋㅋㅋ 긴장이랑 실력이랑 다른데',
                 reactions: {
                     useful: 6,
@@ -7496,7 +7291,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@헤헤헤헤-j9c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mo7mWwMjX7LHrO4LB3JZLcJZ3dL-n_Vb8UjkRRAD4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:39:23Z',
+                timestamp: '2025-04-29T13:39:23Z',
                 content: '​@@팅팅탕탕\n그러니 대안으로 몇회 더 보자는거잖아',
                 reactions: {
                     useful: 41,
@@ -7514,7 +7309,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@헤헤헤헤-j9c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mo7mWwMjX7LHrO4LB3JZLcJZ3dL-n_Vb8UjkRRAD4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:42:22Z',
+                timestamp: '2025-04-29T13:42:22Z',
                 content:
                     '​​@@우마우마-s8c\n난 수능도 다 친 기성세대인데\n이런 사례도 있으니\n다음세대는 몇회 더 봐서\n여러번 시험으로 한번의 실수도 만회할 수 있는 기회를 주자인거지\n내가 뭔 미국을 가겠냐\n어떤 제도든 단점을 수정 보완할 수 있는게 좋은거지\n초딩인건지 넌',
                 reactions: {
@@ -7533,7 +7328,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@컴퓨터용-d1t',
                 author_profile_image:
                     'https://yt3.ggpht.com/igCdtNIYlmTSwf0OPmtcC62Iv9fyuCPwvuObPM3d95KbrjjUFSJqZXH2JGFSSeafX7eTGyAGyw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:53:52Z',
+                timestamp: '2025-04-29T13:53:52Z',
                 content:
                     '@@헤헤헤헤-j9c 근데 여기사람들은 1년안에 시험 3~4개를 보자는거임? 그럼 고3은 사실상 현역들이 불가능 해지는건데?  시험 3~4개를 볼려면 수시 망한이상 최소 3수가 기준이 되는건데..??',
                 reactions: {
@@ -7552,7 +7347,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@헤헤헤헤-j9c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mo7mWwMjX7LHrO4LB3JZLcJZ3dL-n_Vb8UjkRRAD4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T19:05:35Z',
+                timestamp: '2025-04-29T19:05:35Z',
                 content:
                     '​​​​@@컴퓨터용-d1t\n모고는 더 보는데???? \n미국은 제일 잘 본 시험 1개 점수로 대학응시한데\n어짜피 고2때까지 진도 다 나가잖아\n1년안에 3-4번 본다고 삼수 되는거 아니잖아 뭘 말하는건지 모르겠네\n3번 본거중 잘본거로 대학 응시하는거지',
                 reactions: {
@@ -7571,7 +7366,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@mck7067',
                 author_profile_image:
                     'https://yt3.ggpht.com/y7kd7zRUeokjsLGKKKgUiAzoVP_FzHTUZuYLDglQmfeP0J_7RZT0bFjC9SCvhLQr7Olcl4hNVes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:52:11Z',
+                timestamp: '2025-04-30T01:52:11Z',
                 content:
                     '미국은 절대로 공교육의 지표로 쓰일 나라가 아닙니다. 북유럽이나 서유럽을 따라가야지 문맹률 높은 미국을 왜 따라가나요?ㅋㅋㅋㅋㅋ',
                 reactions: {
@@ -7590,7 +7385,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@시청용-h7p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T08:49:01Z',
+                timestamp: '2025-04-30T08:49:01Z',
                 content: '@@이응-j5n 그렇게 태어난 것도 본인 책임이라면 책임이긴 하죠.',
                 reactions: {
                     useful: 63,
@@ -7608,7 +7403,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@팅팅탕탕',
                 author_profile_image:
                     'https://yt3.ggpht.com/FNYZrDOn2MrJZUWv2kCx2f1KIvQ8_3wd8w1GkqNP6NGLT4qiuykAwaYYNlMTRuBtw7eUQqNyFQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T10:08:14Z',
+                timestamp: '2025-04-30T10:08:14Z',
                 content: '​@@헤헤헤헤-j9c고작 수능이 뭐라고 기회 더 줘야하는데?',
                 reactions: {
                     useful: 11,
@@ -7626,7 +7421,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@헤헤헤헤-j9c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mo7mWwMjX7LHrO4LB3JZLcJZ3dL-n_Vb8UjkRRAD4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T22:01:50Z',
+                timestamp: '2025-05-01T22:01:50Z',
                 content:
                     '​​​​@@팅팅탕탕\n너는 의미가 없는지 몰라도\n다른 사람들은 대부분 대학의 의미와 가치가 커\n전공도 정하고 그걸로 직업도 연결되는데\n학문의 길도 열리는데\n그게 대수가 맞지...',
                 reactions: {
@@ -7647,7 +7442,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@namsuri6556',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nfsRMcdQ-VFoiGqSem9tOD6dD-rK6_7_L87-oT8m-LZ9_Zz1QPLPwPCuXy3MEW6JluRA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-17T00:32:01Z',
+        timestamp: '2025-05-02T00:32:01Z',
         content: '이권다툼이 있어서 저런 의견 무시당함, 우리나라는 이권다툼때문에 못바뀌는게 많음',
         reactions: {
             useful: 97,
@@ -7669,7 +7464,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@JJK9709',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mRZa-g7dO-0WdaavbELSPRPT5zAh8y_AFSL4ApggV38A=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T15:43:51Z',
+        timestamp: '2025-04-29T15:43:51Z',
         content:
             '3번은 너무 많고 적어도 2번정도 해야됨… 진심 수능 한번은ㅜㅜ 너무 애바임..  잘하는애도 긴장해서 틀리는경우가 많은데.. 그 극도의 긴장감을 견뎌내야 하는이유를 잘 모르겠음.. 살면서 수능만큼 긴장되는건 많이 없을듯..',
         reactions: {
@@ -7692,7 +7487,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Bg2Bm',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mN1c1vzIft5ypy_rAQYCalK0QVpe02f37xaOHq7l5Pqc43B_9OZn0V4qqeYf-bVp7yIQ=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:30:32Z',
+        timestamp: '2025-04-29T09:30:32Z',
         content:
             "수능 보는 학생인데 개혁안이 좋거나 나쁘기보다도, 뭔가 바뀌는거 자체가 스트레스에요. 그래서 댓글 의견이 갈리는거고요.. 한번 보는 수능이 부담되지만 반대로 생각해 '지금 치고있는 3모, 6모, 9모' 이런것이 이제부터 점수가 기록되는것도 긴장이 돼요. 재수생이나 선행을 많이 한 학생이 초반에 높은 점수를 따는것도 있고요. 방안은 좋은데 시범운행을 해보면서 천천히 결정하면 좋겠어요",
         reactions: {
@@ -7715,7 +7510,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@miraaee',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lssRdsPwA24yIb8J_vUZ4Mu3gXh2xDM3ZJ3LO4op_s6iO-bmtP4-FPHSbb3sCEiNFiH1z4PoN1=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T14:01:26Z',
+        timestamp: '2025-04-29T14:01:26Z',
         content:
             '취업 시장에서 학력보다 개인능력을 더 \n반영한다면 학력에 집착이 줄어들고\n능력을 키우는 방향으로 교육 분위기가\n바뀌지않을까요?',
         reactions: {
@@ -7738,7 +7533,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@haskar-by5pl',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_ksS6Dw-eG4bDvGHylKAP229xJP_c4mqAJd7efWDZZslq0TznRHsmFBRY03p-6mlUFOKA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T00:58:57Z',
+        timestamp: '2025-05-01T00:58:57Z',
         content:
             '고졸 의무채용비율 확 높여야합니다. 은행원같은것도 보면 예전에 상고출신들이 했는데 이제와서는 대졸 그것도 명문대출신들이 은행원이나 하고있으니 낭비도 그런 낭비가 없지요. 전부다 대학에 매달리니까 사회진출연령이 높아지고 덩달아 초산연령도 너무 높아져 출산율에 악영향을 미치며 사교육비로 나가는 비용 또한 너무 막대합니다.',
         reactions: {
@@ -7761,7 +7556,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@sweetlemonteahan9789',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lwroi4cJmOwuEWsYIP2t2ClVdgLtlOEqUD0Ec6XQ_KLo4=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T10:49:11Z',
+        timestamp: '2025-04-29T10:49:11Z',
         content: '학교별 수준이 다른데 수시는 무슨 수능정시 3~4번중 최고점이나 평균점수도입 찬성',
         reactions: {
             useful: 27,
@@ -7782,7 +7577,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:13:29Z',
+                timestamp: '2025-04-30T17:13:29Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -7792,8 +7587,8 @@ export const COMMENT_DATA_OPINION = [
                     creative: 92,
                     disagree: 70,
                 },
-                time_taken_to_write: 1717,
-                manipulated: false,
+                time_taken_to_write: 1,
+                manipulated: true,
             },
         ],
     },
@@ -7803,7 +7598,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@신유진-q7n',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lwdvQztDJkgsBm73_1syXpjp3E1cXMhPinQ78UHbjjhYSyybWLkOtRGN7sReSJt63X9zW87e5W=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:26:22Z',
+        timestamp: '2025-04-29T13:26:22Z',
         content:
             '지금 고등학생한테 필요한 건 3~4번씩이나 치는 수능도 아니고 재빠르게 진로를 결정해야하는 수시도 아닌 본인 진로에 대해 충분히 고민할 수 있는 시간과 꼭 이루고 싶다는 의지 입니다 현재 고등학생으로서 본인 진로에 대해 고민할 수 있는 시간이 너무 부족해요 학교는 8시 20분까지 등교해서 5시 30분에 학교 마쳐서 학원에 8시까지 있어야해요 거기다가 쉴려고 뒤돌아서면 또 중간고사 공부랑 학교 수행평가, 학원숙젤를 해야해요 그래도  \n저 정도면 많이 양호한게 미술하는 다른 친구는 저랑 달리 5시 30분에 마쳐서 미술학원에 10시까지 있고 집 돌아가서 공부하고 평일에 잠을 5시간 밖에 못자요 너무 시간이 없어서 본인 뭘 좋아하고 잘하는지 찾을 겨를이 없어요 다른 분들은 또 이렇게 말하실 수도 있어요 중학교때 진로직업이라는 과목이 있지 않느냐, 본인 진로에 맞게 선택할 수 있는 주제선택과목이 있지 않느냐고요 아까전의 말들처럼 중학교때부터 진로에 관해 생각할 수 있는 활동들을 합니다 하지만 문제는 첫번째 주제선택은 본인 무엇을 좋아하고 잘하는 지 찾아보는 것에 저는 좋다고 생각합니다 그렇지만 학교에서는 몇몇과목은 다양한 진로 관련 일들이 아닌 학교과목 보충수업의 연장선이였습니다 그리고 또 진로직업 과목선생님과 진로직업 캠프 강사분들은 본인이 뭘 좋아하고 잘하는 지 찾는 걸 도와주는 게 아닌 어떻게하면 좋은 대학을 갈 수 있는 지에 대해 말을 많이 하십니다 어느 대학을 갈지는 본인의 진로을 정한 다음의 단계입니다 생각해보세요 걸음마도 못 뗀 아기한테 어떻게 성인들도 하기 어려운 백덤블링을 시키겠어요 그렇지만 그럼에도 불구하고 다들 이 아기한테 어떻게서든지 백덤블링을 시킵니다',
         reactions: {
@@ -7830,7 +7625,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@신유진-q7n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lwdvQztDJkgsBm73_1syXpjp3E1cXMhPinQ78UHbjjhYSyybWLkOtRGN7sReSJt63X9zW87e5W=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:29:09Z',
+                timestamp: '2025-04-29T13:29:09Z',
                 content:
                     '그래서 우리나라는 남들 하는대로 시간도 없이 빨리빨리 해야한다고 생각합니다 나중에 길을 들었을 때 이미 돌이킬 수도 없고 돌아갈 수도 없어요 그래서 저는 우리나라에서 본인 흥미와 적성을 찾을 시간과 의지가 필요하다고 생각합니다',
                 reactions: {
@@ -7849,7 +7644,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Gurigurihhhaj',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lI5aDxWDIVwQWn2Dun0faVxVMFYeD0rw9iq9KQ0ltN2dR9pCPWY0WuJ6rPOPQusko1-w=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:34:54Z',
+                timestamp: '2025-04-29T13:34:54Z',
                 content: '수고가 많아요. 힘내요',
                 reactions: {
                     useful: 98,
@@ -7867,7 +7662,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@runawayfromthedaylight',
                 author_profile_image:
                     'https://yt3.ggpht.com/6CRcB5SrGbCkoeMj6b2_O13E6_jN2A4clbhmAbzR6fsQWM1gzeCo2oVlFvxu2CebSD7pZ5o79vw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:07:05Z',
+                timestamp: '2025-04-29T14:07:05Z',
                 content: 'ㅇㅈㅋㅋ',
                 reactions: {
                     useful: 0,
@@ -7885,7 +7680,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Kkkkrubbing',
                 author_profile_image:
                     'https://yt3.ggpht.com/3B8bQaZ40BGVGcZJLirTG6oJxis01xuLXEzgrMHXEXKgw7POi0G_LLAls-13qwKrVrMnYoHTXA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T16:05:28Z',
+                timestamp: '2025-05-02T16:05:28Z',
                 content:
                     'ㄹㅇ.. 고1부터 진로 계열 정해서 고3까지 통일시켜야 좋은대학 갈수있는 생기부 만들어지는게 말이됨? 수시때때로 바뀌는게 생각이랑 꿈인데..',
                 reactions: {
@@ -7906,7 +7701,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@수퍼맨사탕',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mI-R6nuiCbAmv4OsufimYj8P-twNRRNaWKN_N63GAD3Q=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:36:00Z',
+        timestamp: '2025-04-29T08:36:00Z',
         content:
             '지지합니다. 공교육 정상화 누구라도 제발  해주세요. 애들 죽어나가요\n교육부가 못하는거 서울대가 해봅시다 제발요',
         reactions: {
@@ -7931,7 +7726,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@fifaboy425',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nIlM7HgJW1VsTCmQJtDp1UF6S57ylLmGUYAnSDGNU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:57:16Z',
+                timestamp: '2025-04-29T10:57:16Z',
                 content: '공교육 정상화.... 사교육을 공교육에 포함시키면 가능',
                 reactions: {
                     useful: 45,
@@ -7949,7 +7744,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:12:31Z',
+                timestamp: '2025-04-30T17:12:31Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -7959,8 +7754,8 @@ export const COMMENT_DATA_OPINION = [
                     creative: 60,
                     disagree: 78,
                 },
-                time_taken_to_write: 1552,
-                manipulated: false,
+                time_taken_to_write: 1,
+                manipulated: true,
             },
         ],
     },
@@ -7970,7 +7765,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@jeongukbaptv5920',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nY7HaT-qp6qM7SYr2pcf-Nl-AnOn3_1pb-hI-MZgiKiV8=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T07:28:55Z',
+        timestamp: '2025-04-29T07:28:55Z',
         content: '진심 좋은 의견이네요',
         reactions: {
             useful: 44,
@@ -7991,7 +7786,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:13:05Z',
+                timestamp: '2025-04-30T17:13:05Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -8001,8 +7796,8 @@ export const COMMENT_DATA_OPINION = [
                     creative: 75,
                     disagree: 36,
                 },
-                time_taken_to_write: 692,
-                manipulated: false,
+                time_taken_to_write: 1,
+                manipulated: true,
             },
         ],
     },
@@ -8012,7 +7807,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@nightcloud19ful',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T04:15:38Z',
+        timestamp: '2025-04-29T04:15:38Z',
         content:
             '영어교육좀 개혁해라. 원어민도 해석못하는 독해와 이상한 단어 복잡한문법 같이 헛된시간 허비하게 하지말고 외국인과 자유롭게 대화할수 있는 능력으로 점수받을수 있는 시험을 만들어라.',
         reactions: {
@@ -8135,7 +7930,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@이현석-w7f',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ng3vdmQ70ckkEDn8ODXy01T1k4iclHBSOBC5Qal-YxKcB6AAI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T04:24:45Z',
+                timestamp: '2025-04-29T04:24:45Z',
                 content:
                     '한국에서 마주칠 일도 별로 없는 외국인과의 회화를 가르치기 보다 대학교에서 외국의 논문을 읽기 쉽도록 현행 영어교육을 유지하는것이 바람직하다고 생각합니다',
                 reactions: {
@@ -8154,7 +7949,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@9jarymanly620',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nTnZg9hYSUxeKKOJH24iTolQWgojT08Rq-yJc862Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T04:27:03Z',
+                timestamp: '2025-04-29T04:27:03Z',
                 content:
                     'ㅇㅇ 원서랑,  논문  읽는  학문수학  능력보다는 \n실생활에  쓰는 영어능력이  중요하니 대학교때 학습  못쫒아가도  상관  없으니  그게  맞을듯',
                 reactions: {
@@ -8173,7 +7968,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@리토-g9r',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nuBIdXO0it8NGWP4js1r1e5xf4z04sklHnq6AOz3L-OTx2cTVrzB6GZK2NTlm_lk8_4_q1xA1L=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T04:29:42Z',
+                timestamp: '2025-04-29T04:29:42Z',
                 content:
                     '그냥 모국어 영어로 가는방법이 더날듯. 한글 비효율적임.학원비로만 얼마를 쓰는거야….',
                 reactions: {
@@ -8192,7 +7987,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@하품나옴-w1y',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nyQa_wlHSr00G-DNwMZIaNQLBQkOaSv32qMSJYA0I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T04:34:03Z',
+                timestamp: '2025-04-29T04:34:03Z',
                 content:
                     '한국인도 한국어능력시험보면 해석못하는사람 많음 모국어의 본능적느낌이랑 학습을위한 문법적해석은 다르지',
                 reactions: {
@@ -8211,7 +8006,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@thomas-p6o2e',
                 author_profile_image:
                     'https://yt3.ggpht.com/T6QcAFnVlVpAJ_ehkEJx5O5_AZzjpMnsuy24sWpbI1fZu8AawbpRxm7J_a9evXukPLDY9-sF=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T04:34:29Z',
+                timestamp: '2025-04-29T04:34:29Z',
                 content: '​@@리토-g9r 이 뭔...',
                 reactions: {
                     useful: 13,
@@ -8229,7 +8024,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@낚시하다말다',
                 author_profile_image:
                     'https://yt3.ggpht.com/1y2A_Exx-ISYot9A72wcQDhOkgKWhS4Nqvumz860BEZXhDu0kx_OG9TyjX-Aqcs3Jc6dwnfksQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T04:35:02Z',
+                timestamp: '2025-04-29T04:35:02Z',
                 content:
                     '왜 전부 바보로  만들게?  \n가뜩이나 애들 학력은 거의 바보수준에 가까운  바닥으로 떨어져가는구만..\n대학가서 논문도 못읽고  문장 읽어가는데 문맹수준으로 대학은 왜가나?\n그럼 국어는 왜 그렇게 어려워야 하는건데..!?  우리가 우리 국어 원어민인데 더럽게 어렵고  비문학 읽는것 자체가  쉽지 않구만 오히려 영어문장들을 더 어렵게 하고 대신 영어과목을 2개로 만들어야지~  엄연히 회화와 지필이 다른 영역인데 그걸 영어라는 과목 하나에서 해결하려니 안되는거지~  무슨~',
                 reactions: {
@@ -8248,7 +8043,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Keempyup',
                 author_profile_image:
                     'https://yt3.ggpht.com/KCWHSYG8ksH6EGqvqk0KDIddMBFcEkQTfA33HiKkG7AtpwnC7jnbSLhgj_I6hLNlUHfACKFYHQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T05:51:52Z',
+                timestamp: '2025-04-29T05:51:52Z',
                 content:
                     '@이현석-w7fㄴㄴ 수학 능력이랑 회화 능력은 별개가 아님 회화 능력을 키운다고 해서 수학 능력이 줄어드는게 아니라 오히려 상호보완 관계라 둘 다 공부하는게 맞는거임 지금 교육과정은 너무 비효율적임',
                 reactions: {
@@ -8267,7 +8062,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Arômêz-2934',
                 author_profile_image:
                     'https://yt3.ggpht.com/7BcfViFGDXqOW8GKF3uOnBm5cnIq9vcYsOVb7mLvbRkQNeQGzmbCwk6NgDhgZNQl55K7w2-EfIo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:08:43Z',
+                timestamp: '2025-04-29T06:08:43Z',
                 content:
                     '@이현석-w7f글로벌 시대에 마주칠일이 없다뇨 저러니 마지막에 외교나 외국인 투자유치도 개판인겁니다.',
                 reactions: {
@@ -8286,7 +8081,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@윾비-g6s',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nrWYdTCpNQNb9ZMqTw-BbNvBFvx5yiKlZsVy_9U-5BCY6jwYc64xphcLTBBpvqhLC-79F9H_Nr=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:14:51Z',
+                timestamp: '2025-04-29T06:14:51Z',
                 content:
                     '전형적인 논의영역에서 벗어난 비판이군요. 현 교육과정에서 영어는 대학수학능력을 위한 교육입니다. 즉 다시 말해 영어회화에 초점을 둔 교육이 아니라, 대학교 이상 수준의 논문을 독해하는 걸 중점으로 삼고 있지요.',
                 reactions: {
@@ -8300,31 +8095,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtCIxwuNol',
-                author_id: 'UC1_ukjMoBBZ_mPEpthFG3UQ',
-                author_name: '@idakang-64',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_nbiuWSXZmQt4aJOr0cIR2ukX2_2zSdjzeaDI0l1EKFLjw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:34:24Z',
-                content:
-                    '이새기는 그냥 수능 본적없는새기임 욕헐거면 문헉을 욕하던가 아무쓸모없는 감상능력 시험인데',
-                reactions: {
-                    useful: 61,
-                    agree: 59,
-                    curious: 0,
-                    creative: 1,
-                    disagree: 1,
-                },
-                time_taken_to_write: 1733,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtCeVvPZ83',
                 author_id: 'UC1uuGJLWiLoe7ypXfk5yO4w',
                 author_name: '@-__-__--.-...--.-..-..-',
                 author_profile_image:
                     'https://yt3.ggpht.com/8dN9sReyk5AnzmRgyv1zkqYenofFiOM-7fUbAzcqHGFv_5pjPpIjbKdZkYrqyhUwHLsbPcUs7d0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:37:29Z',
+                timestamp: '2025-04-29T06:37:29Z',
                 content: '그럼 국어도 일상적인 대화하는 지문으로만 내게하지 왜? ㅋㅋㅋㅋㅋ',
                 reactions: {
                     useful: 30,
@@ -8342,7 +8118,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@뮤_any',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ldmyANqM56Mls144pkNHibc5hjF8_B5WcsupyA0AwuXYHC8XhuG1kxtWlxoETQYEpFlJqg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:51:42Z',
+                timestamp: '2025-04-29T06:51:42Z',
                 content: '솔찍히 토익이나 텝스화하는게 맞다고봄 장기적으로봤을땐',
                 reactions: {
                     useful: 37,
@@ -8360,7 +8136,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@뮤_any',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ldmyANqM56Mls144pkNHibc5hjF8_B5WcsupyA0AwuXYHC8XhuG1kxtWlxoETQYEpFlJqg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:52:55Z',
+                timestamp: '2025-04-29T06:52:55Z',
                 content:
                     '@@윾비-g6s근데 현실은 원어수업도 못따라가는 애들이 생김 서성한도 토플+텝스형 중간형태로 바꾸고 상대평가화시키는게맞음',
                 reactions: {
@@ -8379,7 +8155,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@자석-n2o',
                 author_profile_image:
                     'https://yt3.ggpht.com/tdIL5_XFsXPSx_AwOKmhERFtRZPOZIO6OtAgeUMq-aoqZHvWsvYHLiawfVtzFblTjBVh_GNa=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T06:58:11Z',
+                timestamp: '2025-04-29T06:58:11Z',
                 content: '공부안해본티 내는 무지에서 나오는 한심한 비판',
                 reactions: {
                     useful: 23,
@@ -8397,7 +8173,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@연서-s3g',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:01:44Z',
+                timestamp: '2025-04-29T07:01:44Z',
                 content:
                     '수능 영어 단어들이 회화에선 안 나오지도 안 쓰이는 쓸데없이 어려운 단어라는 게 주류 의견이지만 솔직히 내 생각에는 아님. 수능 공부하면서 알기 된 단어를 뉴스 기사에서 본 적이 정말 많음. 수능 단어 수준 그렇게 어렵지 않음. 진짜 딱 웬만한 뉴스 기사 수준임. 정말 너무 어려운 단어는 수능에서도 지문 밑에 주석으로 달아놓음. 그리고 무엇보다 수능 영어에서 메인을 차지하는 게 독해 부분인데, 이 영역을 공부하면서 지시사와 접속사를 이용하는 법을 알게 되고, 결과적으로는 영어로 된 글을 더 빠르고 정확하게 이해할 수 있게 훈련됨. 이게 영어 논문 읽으려면 필수적으로 갖춰야 하는 기술임. 지시사, 접속사 제대로 활용 못하면 그 어떤 글도 정확하게 못 읽음. 단어들의 조합으로 뜻을 유추만 할 수 있을 뿐. 결론은 수능 영어는 회화 공부용으론 부적합하지만 영어로 된 기사나 논문을 읽는 능력을 기르기 위해서라면 맞춤형으로 잘 짜여져 있단 것임',
                 reactions: {
@@ -8416,7 +8192,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김재우-t4h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kDlqteuGkgRKkl1wa9XXPkPsnTD2D1OoOb4oHKhZ0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:05:29Z',
+                timestamp: '2025-04-29T07:05:29Z',
                 content:
                     '그건 스스로 하는거임. 난 트럼프 욕만하는 한국 언론사 싫어서 prageru 랑 fox뉴스 찾아봄',
                 reactions: {
@@ -8435,7 +8211,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@gmk6976',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l5byQKHT8HnG4HpTDjcMAsmtiOxeGynxGaHLJO_aA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:23:47Z',
+                timestamp: '2025-04-29T07:23:47Z',
                 content:
                     '저도 스피킹이 중요하다고 생각했는데 대학와보니 현체제의 영어 교육이 훨씬 도움된다고 생각합니다\n논문 못읽고 원서를 못읽으면 대학공부가 너무 힘들어져요',
                 reactions: {
@@ -8454,7 +8230,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-HarryWinks',
                 author_profile_image:
                     'https://yt3.ggpht.com/OzKM-OHnyX3yD99yhC9r6jcMjbvcQ0kgZ79p807R3bqeg4UHK3ZKcCDxaoKyNsAA-rHd1ja8qYY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:25:13Z',
+                timestamp: '2025-04-29T07:25:13Z',
                 content: '@이현석-w7f\n넌 좀 미국가서 벙어리로 살아봐라',
                 reactions: {
                     useful: 41,
@@ -8472,7 +8248,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@그로-n7f',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l_E9Rlow1nYtalHzOxKez4vkaXDaV1-P2_Bg2GhAk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:27:43Z',
+                timestamp: '2025-04-29T07:27:43Z',
                 content:
                     '요새 ai 번역 다돼서 회화능력이 더 중요한건 팩트인것 같네요. 저는 논문 찾아볼때 다 번역 켜서 봤던 기억이 있네요',
                 reactions: {
@@ -8491,7 +8267,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@svp-pj1fj',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nps7NVr1paZp3Il5fVuW87-7rOJmeEeIHFXj0xkRB2JUbX_K0n0E99bctSuvsdJ9yLOw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:33:52Z',
+                timestamp: '2025-04-29T07:33:52Z',
                 content:
                     "수능은 대학'수학'능력시험이다. 외국인이랑 소통을 평가하는게 아니라 원서를 들춰보고 구글링으로 지식을 찾아볼 수 있는 능력이 필요하니까 그걸 평가하기 위한 자격시험임. 한국어로 쓰여있어도 철학서적이나 과학서적 읽으면 뭔소린가 싶은 사람 많을건데, 그것처럼 원어민이 수능 문제 어려워하는 것도 당연한거임. 그리고 수능 문법은 생각만큼 복잡하지 않고 딱 해석에 필요한 기초만 평가함. 그마저도 이젠 절대등급화 되어서 운빨도 없고 역량커트인게 명확해진지도 10년이 넘었음.",
                 reactions: {
@@ -8510,7 +8286,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@william_canxi',
                 author_profile_image:
                     'https://yt3.ggpht.com/D8JtFkqACjtTmmrjB0qqo3smNhwKIX7tz6ocOVBUGNnUul_3n7kqEQY6DZEsCLEjy2yZ4ZJQZPk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:35:29Z',
+                timestamp: '2025-04-29T07:35:29Z',
                 content: '@@리토-g9r영어 공동화 정책 진짜 필요함. 우리도 싱가폴처럼 넓게보고 가자',
                 reactions: {
                     useful: 5,
@@ -8528,7 +8304,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@hera2448',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:40:34Z',
+                timestamp: '2025-04-29T07:40:34Z',
                 content:
                     '영어 말하기 쓰기 수업 위주로 가면 \n외국 나가서 살다 온 애들 주재원 국제학교 출신들을 어떻게 이깁니까',
                 reactions: {
@@ -8547,7 +8323,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@shevdbcjdjwjdbdjdjr',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lDbPA3AdsJo_ytTd2kUyLKeBbBuSv5LgPV6jRJpxlqT_FbErQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:41:48Z',
+                timestamp: '2025-04-29T07:41:48Z',
                 content:
                     '일단 내신영어부터 갈아엎어야함 누가누가 지문 많이 외우냐로 공부하는게 말이됨?',
                 reactions: {
@@ -8566,7 +8342,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@tubeyou1490',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ky2-V-Pk8OBJyfWinmCudf3XKZ76AhOpGL_a7PD1o=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:41:49Z',
+                timestamp: '2025-04-29T07:41:49Z',
                 content:
                     'ㄹㅇ 영어는 대학지원때 공인시험 점수 첨부만 시키고 수능에서 빼야할듯. 회화 비중 늘리고. 그렇게 길게 가르쳐두고 말 한마디 못하게 하는 교육이 뭔 소용인지. 영어가 머리 나쁘다고 못하는 그런 것도 아닌데.',
                 reactions: {
@@ -8585,7 +8361,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@minim1014',
                 author_profile_image:
                     'https://yt3.ggpht.com/6LrG3abJji8cvkA7qGiQWSXiAEBeuiznT9NiaILIfb1v0aeociDJV3KtU3d99JBO3kI5mIWb=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:47:58Z',
+                timestamp: '2025-04-29T07:47:58Z',
                 content: '지금 수능영어가 맞는거 같은데요 현직 학생임',
                 reactions: {
                     useful: 91,
@@ -8603,7 +8379,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Temfree',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lShK_NLfF-T-h5FtceVyQitVLoF1qjTGfdH1jckyJh2i8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:51:04Z',
+                timestamp: '2025-04-29T07:51:04Z',
                 content:
                     '@@tubeyou1490 팩트) 영어 1,2등급 나올 정도면 프리토킹은 아니어도 대략적인 회화는 가능함',
                 reactions: {
@@ -8622,7 +8398,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ffasdf4586',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lBI_KBdDkxDIdvku3tZ8DpCQZsZfR4OkJRWOhunUGm4Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:52:22Z',
+                timestamp: '2025-04-29T07:52:22Z',
                 content: '이런 댓글 특: 수험생 아님, 수능영어 안 풀어봄, 영어 학술지 읽을 줄 모름',
                 reactions: {
                     useful: 25,
@@ -8640,7 +8416,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@gamedokhak',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nz3iYWAx1LYDoz57TVAPiYZMNCvMuBmJxQ95wwQAtLBPs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:54:04Z',
+                timestamp: '2025-04-29T07:54:04Z',
                 content:
                     '애초에 수능 영어의 목적이 해외 논문을 독해하는 능력에 초점을 맞춘건데 그걸 폐지하자는건 좀;\n물론 회화 능력도 중요한건 맞으니 그것에도 비중을 두면 좋은건 맞으나 현재 영어도 중요함.',
                 reactions: {
@@ -8659,7 +8435,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@lfwi6973',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m-zxDm-xGbizlXD56O-jD2VYDF-gGul_MHAZfcFDae5A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:58:08Z',
+                timestamp: '2025-04-29T07:58:08Z',
                 content: '근데 수능영어가 원서읽고 논문읽는덴 훨씬 도움됨',
                 reactions: {
                     useful: 100,
@@ -8677,7 +8453,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@monocham1279',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_myCzl6jPCPLusxRi674Bx47mhtJ8K0aO9HvNYZmbIUzCdiUzD97oldmmrU5wNOEmWJqA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:02:41Z',
+                timestamp: '2025-04-29T08:02:41Z',
                 content:
                     '자유로운 대화 수준은 생각보다 높지 않고 거의 중학생 수준이면 충분하잖아요. 그리고 다른 나라식 영어는 진짜 못 알아듣겠음. 일을 하려면 메일이랑 보고서 같은 글로 대화를 하니까 결국 독해와 작문이 베이스에요. 문법과 독해 수준을 끌어 올리는게 맞음.',
                 reactions: {
@@ -8696,7 +8472,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김범-z3b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:04:21Z',
+                timestamp: '2025-04-29T08:04:21Z',
                 content:
                     '오픽봤으면 알텐데..\n문법 개판무시하고 쉬운단어로만 조합하면 IH는뜨는거..\n그만큼 회화는 쉬운건데.. 이걸 고교과정 내내 가르친다고?..',
                 reactions: {
@@ -8715,7 +8491,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@서민혁-z5n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nbcD6KmzPusduS0CJy72AluYUQbKUzb89fYFgm4Nk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:04:49Z',
+                timestamp: '2025-04-29T08:04:49Z',
                 content: '영어만큼 중요한게 없는데 이런 소리를 하는건지..',
                 reactions: {
                     useful: 75,
@@ -8733,7 +8509,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@댓글용채널-f7s',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mHABxys7o5BOumMvW-CcSaJcTwNat-vFvWX1bRKzwOsvGYa84=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:11:26Z',
+                timestamp: '2025-04-29T08:11:26Z',
                 content: '수능영어는 문제 없음. 암기식 내신영어를 갈아엎어야 됨.',
                 reactions: {
                     useful: 4,
@@ -8751,7 +8527,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@VV_swer',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mhc45VsgImZcQXbq7jt-YyZQpWt6aHntx-4F-WciF6tMo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:12:28Z',
+                timestamp: '2025-04-29T08:12:28Z',
                 content:
                     '실제 존재하는 도서에서 발췌하는 지문들인데 외국인이 해석을 못하는 것 자체가 해당 외국인이 학문과 연이 없거나 독해능력이 떨어진다는 것의 반증이다',
                 reactions: {
@@ -8770,7 +8546,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@lfwi6973',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m-zxDm-xGbizlXD56O-jD2VYDF-gGul_MHAZfcFDae5A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:13:17Z',
+                timestamp: '2025-04-29T08:13:17Z',
                 content: '@@댓글용채널-f7s ㄹㅇ 이게 맞음. 모고 1,2나오는데 내신은 5나옴',
                 reactions: {
                     useful: 40,
@@ -8788,7 +8564,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yama-e7h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZpRq5a9FUV_dPk9dicYgLbB-5p5rjhEIP0-NNG4-5ATCZeYs-NlFDLRJ2U7Jo4gzKyM9xA7B4A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:18:47Z',
+                timestamp: '2025-04-29T08:18:47Z',
                 content:
                     '​@이현석-w7f꼭 이런애들 있음 서울대영어교수도 수능영어비판하고 그거 굳이안해도 대학가서 원서며 등등 다하게 된다 너 대학 안다녔지? 오히려 서울대출신들이 제일 비판하는게 우리나라 교육제도야! 뭘좀 알고 떠들어!',
                 reactions: {
@@ -8807,7 +8583,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yama-e7h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZpRq5a9FUV_dPk9dicYgLbB-5p5rjhEIP0-NNG4-5ATCZeYs-NlFDLRJ2U7Jo4gzKyM9xA7B4A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:19:24Z',
+                timestamp: '2025-04-29T08:19:24Z',
                 content: '​@@윾비-g6s그러니까 그게 굳이 필요없다고 어후 문해력!',
                 reactions: {
                     useful: 79,
@@ -8825,7 +8601,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@j6d-p1r',
                 author_profile_image:
                     'https://yt3.ggpht.com/zVR_Xb7-9TEDdjJ4Al0_lpGyzNsbvZOzbyN9K4HOWduzlwgaiuhGtTqogsBmvVQu6nJi1JMWpg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:22:57Z',
+                timestamp: '2025-04-29T08:22:57Z',
                 content: '논문 챗gpt가 번역 정리 다해주는 세상에 회화가 맞다고봄',
                 reactions: {
                     useful: 23,
@@ -8843,7 +8619,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@SeongHo86',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nJzDUX2zqWYbWKRv5RkM4tcqWwuiXUEMTQEEcQu3k=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:32:03Z',
+                timestamp: '2025-04-29T08:32:03Z',
                 content:
                     '@이현석-w7f  요즘 번역기 속도 사람이 몇일 번역하는것보다 더 깔끔해요. 말하기로 이제 바뀌어야 할 거 같아요 ㅎ',
                 reactions: {
@@ -8862,7 +8638,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@윾비-g6s',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nrWYdTCpNQNb9ZMqTw-BbNvBFvx5yiKlZsVy_9U-5BCY6jwYc64xphcLTBBpvqhLC-79F9H_Nr=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:33:36Z',
+                timestamp: '2025-04-29T08:33:36Z',
                 content:
                     '@@yama-e7h 원 댓글에서는 복잡한 영문법과 원어민들도 어려워 하는 단어들은 쓰지 말라고 비판하는 댓글이였습니다. 하지만 영문법과 수준높은 단어들을 배우는건 전혀 필요없지는 않습니다. 보통 교수들이 논문를 쓸때는 자기 분야의 단어를 쓰기 나름이지요. 뿐만 아니라, 논문은 예상독자층이 전세계에 있기 때문에 영문법을 철저히 맞춰야합니다. 논문에서 구어체를 써버리면 못 알아들을 가능성이 높기 때문이죠. 그러므로 복잡한 영문법이나 수준높은 단어들을 쓰는건 문제가 된다고 볼 수 없습니다. 게다가 수능영어의 지문들은 전부 논문이나 원서에서 긁어와 너무 어려운 단어들만 고3수준으로 바꾸어 출제하죠. 못 미더우시면 지문내용을 복붙해서 검색해보시면 됩니다.',
                 reactions: {
@@ -8876,31 +8652,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtQ2LwGp3V',
-                author_id: 'UCJnZx4mkm2389B9NbRhlOkA',
-                author_name: '@오리지널-l9x',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:34:28Z',
-                content:
-                    '너 대학안나왔지? 수능 영어가 애초에 대학교 수업때 쓰이는 논문수준의 영어를 할 수 있냐 없냐를 평가하는건데 뭔 원어민 드립이냐 ㅋㅋㅋㅋㅋ 그래서 수능 지문들이 다 연구결과, 심리학, 생태학 이런 학문관련된 지문이잖아 단어들도 그렇고 닌 한국인이니까 국어 100점 맞을 수 있겠네? 그리고 영어 절대평가된 이후로 3등급 넘는 학생이 50%가 넘는다 대학에서 성적반영 비율도 낮고. 제발 대학안나왔으면 방구석에서 나불 거리지말고 가만히 있어라. 그게 학생들 돕는거다',
-                reactions: {
-                    useful: 17,
-                    agree: 44,
-                    curious: 3,
-                    creative: 86,
-                    disagree: 43,
-                },
-                time_taken_to_write: 630,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtQLAjpZjE',
                 author_id: 'UCOkB2h0aI5VedFykvpvcfLQ',
                 author_name: '@윾비-g6s',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nrWYdTCpNQNb9ZMqTw-BbNvBFvx5yiKlZsVy_9U-5BCY6jwYc64xphcLTBBpvqhLC-79F9H_Nr=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:37:02Z',
+                timestamp: '2025-04-29T08:37:02Z',
                 content:
                     '@ 수준높은 영문법이나 어려운 단어를 배우는것이 굳이 필요없으시다는 입장이신거죠?',
                 reactions: {
@@ -8919,7 +8676,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@MacmillanK-jp1vj',
                 author_profile_image:
                     'https://yt3.ggpht.com/56uQTETOl0IhiQoFQC-xVU7r6uxI2y4UufGWjzyCY6-i1adI4qMc-174If-y1jRcAw6fjldLRA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:37:48Z',
+                timestamp: '2025-04-29T08:37:48Z',
                 content:
                     '@이현석-w7f 외국 논문 볼 사람들은 따로 공부하면 되지 외국 논문 보는건 혼자 공부해서 할수 있는거고 실생활 영어는 혼자서 하기는 힘든거임',
                 reactions: {
@@ -8933,30 +8690,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtQTDQt-Zn',
-                author_id: 'UCC6JIa-9BYWNiNm3ypRb3rA',
-                author_name: '@리겔星',
-                author_profile_image:
-                    'https://yt3.ggpht.com/7JPuhTyI78_djoWBN78wEZtNgqfZDZIzZ-r6NfwbvcqoBNFnOB5XZxz2eoApfgk8j_yC8Ts4Og=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:38:08Z',
-                content: '진짜 바보들이 많구나ㅋㅋㅋㅋ 이딴 댓글에 좋아요가 몇개노ㅋㅋㅋㅋㅋ',
-                reactions: {
-                    useful: 4,
-                    agree: 18,
-                    curious: 90,
-                    creative: 35,
-                    disagree: 47,
-                },
-                time_taken_to_write: 531,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtQiCB-NmQ',
                 author_id: 'UC-BAtCmtlr3t7JXLEhqQosQ',
                 author_name: '@sk8er_bo2',
                 author_profile_image:
                     'https://yt3.ggpht.com/WfD_SEaOLYZKj6ET-gI9Ociox8z_BC53ZQcYIQegy_3Rh2GH8Ag_o5NwFqeNCZkGScdDOesMKXs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:40:19Z',
+                timestamp: '2025-04-29T08:40:19Z',
                 content:
                     '취업하고 보니깐 정말 논문 읽는 능력보다 실생활 능력이 더 중요하다고 뼈저리게 느낌',
                 reactions: {
@@ -8975,7 +8714,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@HooniSs',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZdmW6nZ3Pef2tdIlHjaG3OGfy4WLPi4byjnykSYjs7RC10Ttqmz9WqXvkcyFTf0bnOZMGK-OHA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:46:21Z',
+                timestamp: '2025-04-29T08:46:21Z',
                 content:
                     '댓글만봐도 심연임 ㅋㅋㅋㅋ 학력도 낮은 쓰레기같은 년놈들 모아서 떠드는거 보면 귀싸대기마려움ㅋㅋㅋㅋ 니들이 업무보면서 영어 논문을 읽는다고???ㅋㅋㅋㅋ ㅈ까세요 개가웃지',
                 reactions: {
@@ -8994,7 +8733,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@나-f3d-v3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/UrTr97GeTm7BdoK2SYeD-Vr4c-81io0-cKJ5-gjNwAzMZ031J4Ck4tv9tNVREjTegCRS_l_paA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:49:07Z',
+                timestamp: '2025-04-29T08:49:07Z',
                 content:
                     '⁠@이현석-w7f영어가 교과가 아닌 언어로 다가오면 논문을 못 읽을 이유가 뭐가 있나요?\n원어민들은 논문 읽는 공부를 따로 해야 논문을 읽을 수 있나요? 그리고 우리나라에서 외국인을 마주칠 일이 없기 때문에 영어교육을 이대로 해도 된다는 건 너무 편협한 사고 같습니다',
                 reactions: {
@@ -9013,7 +8752,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@MacmillanK-jp1vj',
                 author_profile_image:
                     'https://yt3.ggpht.com/56uQTETOl0IhiQoFQC-xVU7r6uxI2y4UufGWjzyCY6-i1adI4qMc-174If-y1jRcAw6fjldLRA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:57:40Z',
+                timestamp: '2025-04-29T08:57:40Z',
                 content: '@@user-usznzm 과가 어딘데 영어 논문을 보면서 공부함?',
                 reactions: {
                     useful: 77,
@@ -9031,7 +8770,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kahua-kahua',
                 author_profile_image:
                     'https://yt3.ggpht.com/h1ZTibFWqxBeluEDb6EKx8TsoQJfnNIIqBIwK9MPZcW3EdJ4c1J_8M9V7NcyfEApedHlTihP0g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:06:35Z',
+                timestamp: '2025-04-29T09:06:35Z',
                 content: '​@@윾비-g6s그게 잘못된거라고 주장하는거 같은데 ㅂㅅ임?',
                 reactions: {
                     useful: 82,
@@ -9049,7 +8788,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김예원-j5w',
                 author_profile_image:
                     'https://yt3.ggpht.com/zZvlZB1MSuI1Ty39QLSfv1XtSyf7JqP7GQSUsTGpCX8zg67jCBgr3PVev1ArAkHsK_C9p4Jaglw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:21:02Z',
+                timestamp: '2025-04-29T09:21:02Z',
                 content:
                     'ㅇㅈ이요 회화, 문학, 원서읽기, 기사 읽기, 글쓰기, 영어토론 이런걸 공부해야된다고 생각함',
                 reactions: {
@@ -9068,7 +8807,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-sg2bj6zv2k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:37:16Z',
+                timestamp: '2025-04-29T09:37:16Z',
                 content:
                     '​@@MacmillanK-jp1vj 메디컬, 공대, 수학과 등등 이공계열은 논문까지 안 가도 전공책부터도 영어원서인 경우가 태반인데 이런 질문을 하냐',
                 reactions: {
@@ -9087,7 +8826,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@MacmillanK-jp1vj',
                 author_profile_image:
                     'https://yt3.ggpht.com/56uQTETOl0IhiQoFQC-xVU7r6uxI2y4UufGWjzyCY6-i1adI4qMc-174If-y1jRcAw6fjldLRA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:41:41Z',
+                timestamp: '2025-04-29T09:41:41Z',
                 content: "​@@user-sg2bj6zv2kReally? I didn't know that.",
                 reactions: {
                     useful: 53,
@@ -9105,9 +8844,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@홈-s1x',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mQzrZWRSJ4kXMwKiMh1idcY3KBXIp4_pZFqoBMfMNWc26qbkT6EEejE8GiCXpYzuLd-KBr=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:44:37Z',
+                timestamp: '2025-04-29T09:44:37Z',
                 content:
-                    '그러면 수학도 그냥 전부 경제수학으로 바꾸고 국어도 그냥 대화문만 쳐넣고 그러지그러냐? 변별이 잘도되겠노',
+                    '그러면 수학도 그냥 전부 경제수학으로 바꾸고 국어도 그냥 대화문만 넣고 그러지그러냐? 변별이 잘도되겠네',
                 reactions: {
                     useful: 94,
                     agree: 13,
@@ -9124,7 +8863,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@오리근육',
                 author_profile_image:
                     'https://yt3.ggpht.com/NByfTnGdmzigmJpvoJ8PNULiLPLfCen3ae5D2Wf2K9gUr38JAHDxXLu1o00u4PylAhRTsK_wmQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:47:30Z',
+                timestamp: '2025-04-29T09:47:30Z',
                 content: '그래도 영어만큼 혜자과목이 어딧어',
                 reactions: {
                     useful: 11,
@@ -9142,7 +8881,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-sg2bj6zv2k',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:48:05Z',
+                timestamp: '2025-04-29T09:48:05Z',
                 content:
                     '수능의 취지는 대학수학능력 평가임. 대학에선 영어논문은 물론이고 이공계, 메디컬 계열은 전공부터 영어원서로 배우는 경우가 태반인데 대체 왜 대학수학능력 평가를 회화 중심으로 하잔거임?\n\n게다가 영어회화를 평가하는거면 수험생 몇십 만명 스피치를 죄다 녹음시키고 듣고 객관적으로 평가해야하는데 이게 어떻게 가능함? 회화 중심으로 바꿀 명분도 장점도 실현 가능성도 없음',
                 reactions: {
@@ -9161,7 +8900,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@레서판다-f5i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mSIZ12rNrhbNEeA1laUc-lkUnN-VS-HCIxwFw5rUcIUw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:49:00Z',
+                timestamp: '2025-04-29T09:49:00Z',
                 content:
                     '​@이현석-w7fㅋㅋㅋㅋ과연 그럴까요? 여행가거나 할때 요긴하게 쓰이는데 국어 비문학을 영어로도 보고 실제 원어민들이나 외국교수들한테도 수능영어보게하면 틀리고 영단어 ㅈ도 안쓰는거 나오질않나 아니면 현지인도 안쓰는 단어가 나오질 않나 뭐가 더 비효율적일까요?',
                 reactions: {
@@ -9180,7 +8919,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@팔라딘-f6w',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nrSI134sjeDhhDMV_5j6QoF5rHcXNoZuKKumQQ_8Durdk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:50:53Z',
+                timestamp: '2025-04-29T09:50:53Z',
                 content: '그럼 둘다 하라해',
                 reactions: {
                     useful: 60,
@@ -9198,7 +8937,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@홈-s1x',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mQzrZWRSJ4kXMwKiMh1idcY3KBXIp4_pZFqoBMfMNWc26qbkT6EEejE8GiCXpYzuLd-KBr=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:54:23Z',
+                timestamp: '2025-04-29T09:54:23Z',
                 content: '@@레서판다-f5i 팩트는 수능영어 배우고 잘한애들이 토익 토플 더 잘한다',
                 reactions: {
                     useful: 19,
@@ -9216,7 +8955,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@레서판다-f5i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mSIZ12rNrhbNEeA1laUc-lkUnN-VS-HCIxwFw5rUcIUw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:11:05Z',
+                timestamp: '2025-04-29T10:11:05Z',
                 content:
                     '@홈-s1x ㅋㅋㅋㅋ토플은 모르겠지만 토익이 초중고 영어 한번 더 꼬아서 어렵게 낸것들이니까요. 그래봤자 원어민이랑 말하는거하면 개같이 못하는사람이 태반이라는거ㅋㅋ 이것도 팩트죠',
                 reactions: {
@@ -9235,7 +8974,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@응애나아가',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k2BZK-2uVV4wElYT5N7Wx1pv9PJpD30UQwT6jUJH0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:15:07Z',
+                timestamp: '2025-04-29T10:15:07Z',
                 content:
                     '논문보라고 하는 영어공부가 수능영언데 뭔 회화타령이노ㅋㅋㅋ 공부해보긴함?',
                 reactions: {
@@ -9254,7 +8993,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@뭐라는거냐',
                 author_profile_image:
                     'https://yt3.ggpht.com/K-emtCvueCmNYov_ZMoJfcLkSLoZJlrpK8jKI_o8h7CDW_OW3AHLBypJLmUGTm4Eb6E-H7ohnm0=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:18:09Z',
+                timestamp: '2025-04-29T10:18:09Z',
                 content: '중3)아니 국어에서 문법은 왜배우는거임?',
                 reactions: {
                     useful: 98,
@@ -9272,7 +9011,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@10ys-bv4gv',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:23:27Z',
+                timestamp: '2025-04-29T10:23:27Z',
                 content:
                     '​@@그로-n7f ai가있어도 틀린정보도 많이알려주기에 직접보는법은 알아야합니다',
                 reactions: {
@@ -9286,49 +9025,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtcPvQrT1b',
-                author_id: 'UCF-46ffNxgvyrcZZOl3F1UA',
-                author_name: '@mean3389',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_kisZVsmUETbjq0z6hxv_33niU7P5b2UKE3KSeaZ5dEQog=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:31:17Z',
-                content:
-                    'ㅋㅋ 댓글 단 놈 공부 해본적도 없는 놈 ㅋㅋ 대입을 위한 영어는 당연히 논문을 읽기위한 독해를 위한 거다 회화가 아니라 이 멍청한 ㅅㄲ야',
-                reactions: {
-                    useful: 47,
-                    agree: 42,
-                    curious: 16,
-                    creative: 55,
-                    disagree: 86,
-                },
-                time_taken_to_write: 1,
-                manipulated: false,
-            },
-            {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtcbM8bn0l',
-                author_id: 'UCF-46ffNxgvyrcZZOl3F1UA',
-                author_name: '@mean3389',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_kisZVsmUETbjq0z6hxv_33niU7P5b2UKE3KSeaZ5dEQog=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:32:59Z',
-                content: '@@sk8er_bo2그건니가 … 겨우 그런 직업이라 그런거고 ㅋㅋㅋ',
-                reactions: {
-                    useful: 90,
-                    agree: 29,
-                    curious: 43,
-                    creative: 54,
-                    disagree: 46,
-                },
-                time_taken_to_write: 294,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtczDiYDaL',
                 author_id: 'UC-BAtCmtlr3t7JXLEhqQosQ',
                 author_name: '@sk8er_bo2',
                 author_profile_image:
                     'https://yt3.ggpht.com/WfD_SEaOLYZKj6ET-gI9Ociox8z_BC53ZQcYIQegy_3Rh2GH8Ag_o5NwFqeNCZkGScdDOesMKXs=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:36:14Z',
+                timestamp: '2025-04-29T10:36:14Z',
                 content: '@@mean3389 석박 아니면 ㄹㅇ 저거지',
                 reactions: {
                     useful: 4,
@@ -9341,30 +9043,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtfh9HbmVJ',
-                author_id: 'UCEQMusgRMK0DeXpl7rkN0og',
-                author_name: '@goranii-e7q',
-                author_profile_image:
-                    'https://yt3.ggpht.com/FXsLk6j-3UlxazMN_EuzhfBkkxX_cKphC1nYaM-6hiZzr7qFCEINLisLgeVOTJ1MEi6cHLHKMQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:59:59Z',
-                content: '그냥 지가 수능영어 못하니까 ㅉㅉ',
-                reactions: {
-                    useful: 74,
-                    agree: 85,
-                    curious: 51,
-                    creative: 49,
-                    disagree: 40,
-                },
-                time_taken_to_write: 1708,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtpx6WRUrb',
                 author_id: 'UCvNyrM3UUXTeUz4S0w9LV7w',
                 author_name: '@key2007prchoi',
                 author_profile_image:
                     'https://yt3.ggpht.com/b4YQUTF9KjKrE_Z4wieiMQCGRvIGcVIRO4TPxSiWRE_ZS9VfCWhkwiuVqsz86xM8-oV_ql9d7ek=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:29:33Z',
+                timestamp: '2025-04-29T12:29:33Z',
                 content:
                     '심지어 문법도 꽤 틀림 ㅋㅋㅋ\n영어 쌤이 수특 문법이나 표현이 이상하다고 수업하실때마다 언급하심',
                 reactions: {
@@ -9383,7 +9067,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@frfrfrfr231frfrfr',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kBLER0m_B4mNTNerhVR_p1-MkHteNNqa5VoDe_c9uXy6CHIz1HDJZG2czavtdlNPq8YQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:06:36Z',
+                timestamp: '2025-04-29T13:06:36Z',
                 content:
                     '근데 이런댓글 쓰는애들은 대학어디다니길래 이런말하는거임? 학창시절에 공부 안해봣으니 이런말 하는거같은데',
                 reactions: {
@@ -9402,7 +9086,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@DarkT9',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lmXn_1PIn88_RhuNQAmNa3EIFMOsum1tqihpae5cUxEps=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:08:45Z',
+                timestamp: '2025-04-29T13:08:45Z',
                 content:
                     '이건 수능의 본질을 이해 놋한거임. 수능은 대학에서 공부할 수 있는 능력을 보기 위한거라서 논문을 읽고 이해하는 걸 목적으로 해야하는거임. 프리토킹 목적이면 그냥 다른 영어 자격증 시험으로 대체하면 그만임. 걍 수능영어 과목을 없애도 되는거임',
                 reactions: {
@@ -9421,7 +9105,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김할매',
                 author_profile_image:
                     'https://yt3.ggpht.com/QiA4obsJJwNWGvHEHR6tSx55CxdkqHP55btPYnKZJuZvX1vPzXDxZf3Rp5_8bDbBcWW_r37TsMw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:10:58Z',
+                timestamp: '2025-04-29T13:10:58Z',
                 content: '영어 회화 위주로 안하는 이유??\n영어 할줄알면 젊은사람들 다 도망가니까',
                 reactions: {
                     useful: 27,
@@ -9439,9 +9123,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@qLay1',
                 author_profile_image:
                     'https://yt3.ggpht.com/hHZ954flDgDuRgx1V1BgjMt1jLLnb5s4onAAifSBBR1jpHjFC8Ewh41eyCaQJB6HnjKvRRzHYg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:11:37Z',
+                timestamp: '2025-04-29T13:11:37Z',
                 content:
-                    '⁠@key2007prchoi원서를 긁어오는건데 무슨 소리세요 그리고 수특은 교사따리가 만드니까 그럴수도 있죠',
+                    '⁠@key2007prchoi원서를 긁어오는건데 무슨 소리세요 그리고 수특은 교사가 만드니까 그럴수도 있죠',
                 reactions: {
                     useful: 17,
                     agree: 94,
@@ -9458,7 +9142,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@햔햔-w4q',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kJPqWvKueKR6ve-T6-VP0Iwzbv9i7XSlkmXRqJMTHFLW0PvSU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:17:41Z',
+                timestamp: '2025-04-29T13:17:41Z',
                 content: '이 말이 맞다.. 원어민도 모르는 걸  한국고등학생이 어찌아냐',
                 reactions: {
                     useful: 7,
@@ -9471,30 +9155,12 @@ export const COMMENT_DATA_OPINION = [
                 manipulated: false,
             },
             {
-                comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtvfpQCbHf',
-                author_id: 'UCdUMKtbqVMAvfAswYZRoyjw',
-                author_name: '@user-yw9dq4wi7c',
-                author_profile_image:
-                    'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:19:37Z',
-                content: '​@@9jarymanly620ㅈㄹ ㅋㅋ 실생활에서 쓰면 얼마나 쓴다고ㅋㅋㅋㅋㅋ',
-                reactions: {
-                    useful: 21,
-                    agree: 73,
-                    curious: 90,
-                    creative: 47,
-                    disagree: 42,
-                },
-                time_taken_to_write: 1588,
-                manipulated: false,
-            },
-            {
                 comment_id: 'Ugxu992HjuJrZygnEEx4AaABAg.AGsxQdz7cnKAGtvxsg5TBO',
                 author_id: 'UCdUMKtbqVMAvfAswYZRoyjw',
                 author_name: '@user-yw9dq4wi7c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:22:05Z',
+                timestamp: '2025-04-29T13:22:05Z',
                 content:
                     '​@@MacmillanK-jp1vj대체 넌 어디 과인데 대학교 원서가 영어로 안 쓰여있다는 거냐 뭐 한의예과 다니심?ㅋㅋㅋ',
                 reactions: {
@@ -9513,7 +9179,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@junpkhcoo',
                 author_profile_image:
                     'https://yt3.ggpht.com/77TOMGtyp12TiC7StJpQ5GkynfkVuLDP6KhgYlAktYgRYpFU4CUr5CPfG37W6s7oWXfdmrg1m7I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:26:00Z',
+                timestamp: '2025-04-29T13:26:00Z',
                 content:
                     '그런 거를 정하는 것은 교수진들이 생각하는 거지 대학수학능력 보는건데 뭔 대화능력임? 대화능력도 중요하지만 수능 목적성을 봐야함',
                 reactions: {
@@ -9532,7 +9198,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@9jarymanly620',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nTnZg9hYSUxeKKOJH24iTolQWgojT08Rq-yJc862Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:27:24Z',
+                timestamp: '2025-04-29T13:27:24Z',
                 content:
                     '@@MacmillanK-jp1vj ㅋㅋ 공대  교재가 거의 영어원서입니다. \n대학교  영어  못함  못 따라가요',
                 reactions: {
@@ -9551,7 +9217,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ac-we2of',
                 author_profile_image:
                     'https://yt3.ggpht.com/986TaljV7K3vaVJEfaz__eMU8Hf4l3efH0kag5xHfXUJUczjpZB-HTBtM4BFUcW7YXz-K1Z8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:50:08Z',
+                timestamp: '2025-04-29T13:50:08Z',
                 content: '본인 연의 24학번인데 해리슨이나 아틀라스 볼 때 수능단어 엄청 도움 됬음',
                 reactions: {
                     useful: 14,
@@ -9569,8 +9235,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sintra4750',
                 author_profile_image:
                     'https://yt3.ggpht.com/CUCM4wbyXavPcNAOAuxdqQ7Qb3nsKJ7el7V2hsM3Z8avA27eZUUkRMGCffBJ_I8QZSLMysJ7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:54:29Z',
-                content: '@이현석-w7f\n마주칠일이 왜없노 ㅋㅋ 북한에 살고있냐',
+                timestamp: '2025-04-29T13:54:29Z',
+                content: '@이현석-w7f\n마주칠일이 왜없냐 ㅋㅋ 북한에 살고있냐',
                 reactions: {
                     useful: 94,
                     agree: 62,
@@ -9587,7 +9253,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sintra4750',
                 author_profile_image:
                     'https://yt3.ggpht.com/CUCM4wbyXavPcNAOAuxdqQ7Qb3nsKJ7el7V2hsM3Z8avA27eZUUkRMGCffBJ_I8QZSLMysJ7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:55:21Z',
+                timestamp: '2025-04-29T13:55:21Z',
                 content: '@@DarkT9\n그 수능영어를 왜 고등학생이 필수로 공부해야하냐고',
                 reactions: {
                     useful: 76,
@@ -9605,7 +9271,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@김형원-z2b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nuWA0P_2tAMfEt3vmYjsgOkx0zvGEhlMYVsWd03DY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:15:28Z',
+                timestamp: '2025-04-29T14:15:28Z',
                 content:
                     '회화능력을  수능에 도입한다고 하면 영어 신유형문제가 생기는거임. 필기시험으로 치뤄지는 이상 결국 독해니까.​@@Arômêz-2934',
                 reactions: {
@@ -9624,7 +9290,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@비밀-y6j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mVGXMKQxQhx6ZO3ncWXnKD_oO1sJ_uOJJ43feZzIDcAyhwkV5N4ELfJ8cSiniMPQvf0vh9ymgo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:16:03Z',
+                timestamp: '2025-04-29T14:16:03Z',
                 content:
                     '​@@SeongHo86 그걸로 바꾸는 순간 외국에서 1~2년이라도 살다온 애들이랑 국내에서만 살던 애들이랑 격차 겁나 벌어진다ㅋㅋ그냥 영어학원으로 땡칠 수 있는 걸 유학까지 보낼 분위기 만들려고?',
                 reactions: {
@@ -9643,7 +9309,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@비밀-y6j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mVGXMKQxQhx6ZO3ncWXnKD_oO1sJ_uOJJ43feZzIDcAyhwkV5N4ELfJ8cSiniMPQvf0vh9ymgo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:17:17Z',
+                timestamp: '2025-04-29T14:17:17Z',
                 content:
                     '​@@sintra4750 얜 뭔 소리야?수능 자체가 대학을 위한 시험인데 수능 영어가 왜 필요하냐고?',
                 reactions: {
@@ -9662,9 +9328,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Though96',
                 author_profile_image:
                     'https://yt3.ggpht.com/hv7bAER10e3YrW-en1leahzUsClq9ajumQGbJGUTPJqpV7-SryUC25ozHIwsMjNzR-Z0FmVgxA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:33:59Z',
+                timestamp: '2025-04-29T14:33:59Z',
                 content:
-                    '대학공부 한번도 안해본 멍충이의 댓글.\n지가 외국인이랑 한마디도 못하니 남들도 다 그런줄암😂',
+                    '대학공부 한번도 안해본 이의 댓글.\n지가 외국인이랑 한마디도 못하니 남들도 다 그런줄암😂',
                 reactions: {
                     useful: 10,
                     agree: 95,
@@ -9681,7 +9347,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@CHCH-bd8pi',
                 author_profile_image:
                     'https://yt3.ggpht.com/48rmAUkCtIKNRwsfu-G1pv4hxsTm9pfTg6QZ_XxBs6QYKZGeA6uL1j9kUDv_d0AjjR8Y6POhQuo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:46:18Z',
+                timestamp: '2025-04-29T14:46:18Z',
                 content:
                     '한양대 공대인데 졸업 논문쓰고 학부연구생 하고 다 했는데 수능영어보다 회화가 중요하다 생각함',
                 reactions: {
@@ -9700,8 +9366,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@andrymathscience4833',
                 author_profile_image:
                     'https://yt3.ggpht.com/FhwddF2b6MhwpfaPKncdzN4X5XbG2Qx-arEcSbiqhHRcZyh40z3X4SNcY7yyjRC2xfQMcPv-BQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:38:12Z',
-                content: '​@@리토-g9r Why fucking are you using Korean then?',
+                timestamp: '2025-04-29T15:38:12Z',
+                content: '​@@리토-g9r Why are you using Korean then?',
                 reactions: {
                     useful: 60,
                     agree: 33,
@@ -9718,7 +9384,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@엠씨씨-y4r',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mscAVCSFf4We5Plyi3PdMERqMGlLxUlTUsgneVta8=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:43:29Z',
+                timestamp: '2025-04-29T15:43:29Z',
                 content: '수능과목중 가장 등급받기 쉬운과목이 영어인데 ㅋㅋㅋ',
                 reactions: {
                     useful: 24,
@@ -9736,7 +9402,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@오지훈-r4q',
                 author_profile_image:
                     'https://yt3.ggpht.com/xBNV1J2LJZYbmP89I3IHFn0Nuj8qTK8Bzo5r2ZWUiiL-ER5krii26IGYYdRXRckUF8Q-bXufRA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:51:05Z',
+                timestamp: '2025-04-29T15:51:05Z',
                 content:
                     '​@@그로-n7f 번역이 항상 옳은 것도 아니고, 영어를 알아야 자잘자잘한 오류도 걸러낼 수 있죠;;',
                 reactions: {
@@ -9755,7 +9421,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@오지훈-r4q',
                 author_profile_image:
                     'https://yt3.ggpht.com/xBNV1J2LJZYbmP89I3IHFn0Nuj8qTK8Bzo5r2ZWUiiL-ER5krii26IGYYdRXRckUF8Q-bXufRA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:52:49Z',
+                timestamp: '2025-04-29T15:52:49Z',
                 content:
                     '​@key2007prchoi이건 수능의 잘못이 아니라 수특 만드신 교사 분들의 문제에요;;',
                 reactions: {
@@ -9774,7 +9440,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Arômêz-2934',
                 author_profile_image:
                     'https://yt3.ggpht.com/7BcfViFGDXqOW8GKF3uOnBm5cnIq9vcYsOVb7mLvbRkQNeQGzmbCwk6NgDhgZNQl55K7w2-EfIo=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:17:37Z',
+                timestamp: '2025-04-29T16:17:37Z',
                 content:
                     '@ 제 말은 지나치게 지엽적인 문제로 문제풀이에 얽매이는 것 보다, 신유형이 생기는게 낫다는 주의입니다. 물론 필기시험으로 한정되긴 하겠죠 추후 어학에 많은 사비용이 들어가는 것 보다는 공교육으로 폭넓게 가는게 맞다고 봅니다. 그래서 뉴스에서 말하는 6년 통합을 통해서 길고 넓게 보고 가자는 겁니다.',
                 reactions: {
@@ -9793,7 +9459,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@demonic-satan',
                 author_profile_image:
                     'https://yt3.ggpht.com/lXPX8lynu0Srx9pJgxWnCd8NxvgZW03PGgEWOaqRZcuI0oS8TqMkZibudGRJrKBiM7x-DQcpQQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T18:04:03Z',
+                timestamp: '2025-04-29T18:04:03Z',
                 content: '그렇게 되면 유학 다녀오고\n돈 많은 집안이 너무 유리해지지 않나요?',
                 reactions: {
                     useful: 19,
@@ -9811,9 +9477,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@귀여운아희',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lqZZRWVeH6XqGcG2ZzeqBwu4JEmbDI7YNnRMhtqBHk1FvxA0I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T19:10:51Z',
+                timestamp: '2025-04-29T19:10:51Z',
                 content:
-                    '​@이현석-w7f 말 같지도 않은소리야 수능식 영어로 말하거나 쓰면 F학점 받는다',
+                    '​@이현석-w7f 수능식 영어로 말하거나 쓰면 F학점 받는다',
                 reactions: {
                     useful: 9,
                     agree: 48,
@@ -9830,7 +9496,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sintra4750',
                 author_profile_image:
                     'https://yt3.ggpht.com/CUCM4wbyXavPcNAOAuxdqQ7Qb3nsKJ7el7V2hsM3Z8avA27eZUUkRMGCffBJ_I8QZSLMysJ7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T20:50:12Z',
+                timestamp: '2025-04-29T20:50:12Z',
                 content:
                     '@@비밀-y6j \n모든 고등학생이 대학을 가야하나? 수능 잘보고 싶으면 수능영어 따로 학원에서 배우면 되는거 아니냐? 학교에선 실생활에서 쓸수 있는영어를 가르쳐야지 ㅋㅋ',
                 reactions: {
@@ -9849,7 +9515,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@9jarymanly620',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nTnZg9hYSUxeKKOJH24iTolQWgojT08Rq-yJc862Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:11:12Z',
+                timestamp: '2025-04-29T23:11:12Z',
                 content:
                     '@@sintra4750 다이알로그...\n가르쳐요\n그  학생이  뭘  쓸지  모르니 죄다  짬뽕해  놓은책이  현  교과서입니다.\n그리고 학생이 쓰는거  위주로  가르친다고  하면  걍  다  없애고 직업교육만  해야하는건데...  그럼 학문과,  학교의  기능을  너무  낮게  보시는거  같은데요',
                 reactions: {
@@ -9868,7 +9534,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sintra4750',
                 author_profile_image:
                     'https://yt3.ggpht.com/CUCM4wbyXavPcNAOAuxdqQ7Qb3nsKJ7el7V2hsM3Z8avA27eZUUkRMGCffBJ_I8QZSLMysJ7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:32:39Z',
+                timestamp: '2025-04-29T23:32:39Z',
                 content:
                     '@@9jarymanly620 \n누가 학문이고 뭐고 뭐랍니까 최소한 영어만큼은 좀 유의미 하게 가르치라는거죠',
                 reactions: {
@@ -9887,7 +9553,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@9jarymanly620',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nTnZg9hYSUxeKKOJH24iTolQWgojT08Rq-yJc862Q=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:41:50Z',
+                timestamp: '2025-04-29T23:41:50Z',
                 content: '@sintra4750  그 유의미가 사람마다  다른게  문제',
                 reactions: {
                     useful: 57,
@@ -9905,7 +9571,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@sintra4750',
                 author_profile_image:
                     'https://yt3.ggpht.com/CUCM4wbyXavPcNAOAuxdqQ7Qb3nsKJ7el7V2hsM3Z8avA27eZUUkRMGCffBJ_I8QZSLMysJ7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T23:47:45Z',
+                timestamp: '2025-04-29T23:47:45Z',
                 content:
                     '@@9jarymanly620 \n아무리생각해도 대ai시대에 활자로서의 영어보다는 의사소통 감정전달로서의 영어가 훨신 가치 있을거같은데',
                 reactions: {
@@ -9924,7 +9590,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-dt2if9ke4v',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lLiV2dRmznHvUcas9OhxGAleRjrhNTzBcrQZYkso9d97N0V_fjCbApgsDHDB8ZXdfI7Sg6uAYy=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T00:55:27Z',
+                timestamp: '2025-04-30T00:55:27Z',
                 content:
                     '@@레서판다-f5i 수능 자체가 대학을 위한건데 논문 독해능력이 중요하겠냐 회화능력이 중요하겠냐 생각 좀 하고 댓글달아라',
                 reactions: {
@@ -9943,7 +9609,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@레서판다-f5i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mSIZ12rNrhbNEeA1laUc-lkUnN-VS-HCIxwFw5rUcIUw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:08:21Z',
+                timestamp: '2025-04-30T01:08:21Z',
                 content:
                     '@@user-dt2if9ke4v ㅋㅋㅋㅋ내 말의 뜻을 이해 못하고 급발진을 박아버리네\n내가 수능을 위하지않은거라고 함?\n적어도 배우는만큼 외국인이랑 소통 잘 되라고 하는 뜻으로 배우고 하는건데 그렇게 학문적으로만 쳐배우고 막상 외국인이랑 대화하면 이제 단어할줄아는 어린아이마냥 어버버거리는게 대부분인데\n써먹을수있어야 배운게 빛이나지\n써먹지도 못하면 왜하누?\n그저 수능 하나에 12년이상을 쳐갈아서 배워놓고 말하지고 못하면 뭔소용이냐고',
                 reactions: {
@@ -9962,7 +9628,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@레서판다-f5i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mSIZ12rNrhbNEeA1laUc-lkUnN-VS-HCIxwFw5rUcIUw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:12:09Z',
+                timestamp: '2025-04-30T01:12:09Z',
                 content:
                     '@user-dt2if9ke4v  제발 내가 말하는 문장 뜻을 보고 답글바란다ㅋㅋ\n영어를 배우는 목적이 회화를 어느정도 할줄알고 외국인과의 원활한 소통을 위해 하는거지 급발진밟고 그저 수능하나에 목숨거는거라고 하면 12년동안 영어를 배웠지만 말할줄모르는 ㅂㅅ으로 만드는거랑 뭐가 다르냐? 손해아니냐? 목적을 잃어버렸다고 밖에 설명이 안되는데?',
                 reactions: {
@@ -9981,8 +9647,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@전성욱-v1b',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mrXal74XcEHfg2gsrBe1i5Xv2xeiYkhHHsSY5GjxQtewY=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T01:23:17Z',
-                content: '그래서 수능 영어 공부하면 영어 논문이 읽힘? 헛소리야 ㅋㅋ',
+                timestamp: '2025-04-30T01:23:17Z',
+                content: '그래서 수능 영어 공부하면 영어 논문이 읽힘? ㅋㅋ',
                 reactions: {
                     useful: 13,
                     agree: 37,
@@ -10001,7 +9667,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@AJ-pu4jv',
         author_profile_image:
             'https://yt3.ggpht.com/llRFnSvkAIQQvAS8twQv0lI5XajBen4aU4LS0YCf3pLGYlSTHidHVC_ne_KeBzkDTsMXqzBtgw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-28T05:53:01Z',
+        timestamp: '2025-05-13T05:53:01Z',
         content: '수능 평균말고 베스트 점수 쓰자\n그리고 수시 없애라 제발',
         reactions: {
             useful: 93,
@@ -10023,7 +9689,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@구른다-c8z',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:31:14Z',
+        timestamp: '2025-04-29T09:31:14Z',
         content: '지금 09년생인데 진짜 수능 다시 보는거 너무 좋다',
         reactions: {
             useful: 46,
@@ -10047,8 +9713,8 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@노-f8l',
                 author_profile_image:
                     'https://yt3.ggpht.com/Ex-4ylBCZoSE6LK5QnIElcNe6cc1nN-yVMJ2CZnRtzCE6ItoOxwu61zUfq0rjfJ3iloxsrJV=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T14:00:02Z',
-                content: '되겠나 ㅋㅋ 정시 100퍼 없는 역대 최악의 세대 빨리 자퇴나 해라',
+                timestamp: '2025-04-29T14:00:02Z',
+                content: '되겠나 ㅋㅋ',
                 reactions: {
                     useful: 68,
                     agree: 72,
@@ -10065,7 +9731,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:13:16Z',
+                timestamp: '2025-04-30T17:13:16Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -10075,8 +9741,8 @@ export const COMMENT_DATA_OPINION = [
                     creative: 98,
                     disagree: 42,
                 },
-                time_taken_to_write: 505,
-                manipulated: false,
+                time_taken_to_write: 3,
+                manipulated: true,
             },
         ],
     },
@@ -10086,7 +9752,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@qmpzal790',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mGYRb5vw3zMi0-KVKOm-yoAf5EpIyrKKY_oAXNzmpLwRw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:20:54Z',
+        timestamp: '2025-04-29T09:20:54Z',
         content:
             '수시 없애고 그냥 수능평가 2번으로 해서 잘 나온 점수로 입학하는 걸로 해야 함. 수시가 편법이 너무 많음.  그리고 외국인 혜택 축소해야 함',
         reactions: {
@@ -10111,7 +9777,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:11:47Z',
+                timestamp: '2025-04-30T17:11:47Z',
                 content:
                     '편법꼼수 수시 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -10121,8 +9787,8 @@ export const COMMENT_DATA_OPINION = [
                     creative: 21,
                     disagree: 60,
                 },
-                time_taken_to_write: 288,
-                manipulated: false,
+                time_taken_to_write: 2,
+                manipulated: true,
             },
             {
                 comment_id: 'UgwrhyFuHFTyHOWjev14AaABAg.AGtVMTR4N-fAH0SPxf0J99',
@@ -10130,7 +9796,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@으잉으잉-w1z',
                 author_profile_image:
                     'https://yt3.ggpht.com/fzS_qiDUJklZzYUvT9HD9bZd_mU-65qcQfHrZX8ZtTdb6VHhH4HPEJUdBcsTYGTnM79v6Ao9=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T11:29:05Z',
+                timestamp: '2025-05-02T11:29:05Z',
                 content:
                     '외국인은 혜택받는거 많이 없고 수시는 다름아닌 학생들이 가장 선호하는 진학 방법임.... 정시파이터는 수시 애들에 비하면 정말 소수임. 당사자들 얘기도 제발 들어보면 안될까?',
                 reactions: {
@@ -10151,7 +9817,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@네로-c5y',
         author_profile_image:
             'https://yt3.ggpht.com/XqgHU8Ia4kIeJDr6ZXiXniy1RCBcppy-L44HifhUj7Wxs7vua3FRnXO3BuH8jUKXNQp_oB4LXY8=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T14:20:07Z',
+        timestamp: '2025-04-29T14:20:07Z',
         content:
             '아니 4번은 진짜 빡셈 이러면 걍 고3 과정 다 앞으로 땡겨야할텐데, 지금 교육 과정에선 뺄게 없음 차라리1학기 2학기로 나눠서보는게 좋을 듯',
         reactions: {
@@ -10174,7 +9840,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@장마-k3n',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_k60EJCH_ppJcpBjnKq9-qH-32g1h7vZX9ZDL1ypUXwNlwdzJXbS_GyCMgr0u7T0eO-pBVa9Oi7=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:57:50Z',
+        timestamp: '2025-04-29T08:57:50Z',
         content:
             '1. 중2병처럼 대2병 있는거 아시죠? 입시뚫고 대학들어왔는데 정신차려보니 이제 이게 적성에 맞나? 내가 뭘 좋아하나? 뭐해먹고 어떻게 살아야하나? 반수할까? 대부분 이럽니다. 제발 선진국다운 교육시스템이 되게 해주세요. \n2. 5등급제는 수시도 아니고 정시도 아니고 애들 할것만 더 많아져서 사교육만 더 많이 하게 생겼어요. ㅠ\n3. 그리고 제발 영어 좀 어떻게 해주세요. 그렇게 어릴때부터 사교육비 들여서 영어를 해야되면 그걸 국가에서 커버를 해주세요. 저렴하게~~ 그럼 사교육비의 반이 확~ 줄겁니다. 제발~',
         reactions: {
@@ -10214,7 +9880,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@10ys-bv4gv',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k_nRddFD4iToGC_qJBSbq_CH5SoMtdU4s5knzrPGHfX6Gb3R4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:21:31Z',
+                timestamp: '2025-04-29T10:21:31Z',
                 content: '챗gpt쓰세요 영어학원갈필요없어요',
                 reactions: {
                     useful: 89,
@@ -10232,7 +9898,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@장마-k3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k60EJCH_ppJcpBjnKq9-qH-32g1h7vZX9ZDL1ypUXwNlwdzJXbS_GyCMgr0u7T0eO-pBVa9Oi7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:30:04Z',
+                timestamp: '2025-04-29T10:30:04Z',
                 content:
                     '@@10ys-bv4gv 중고등에서 쳇gpt 돌려서 시험치나요? 대학에서 영어로 수업듣고 앉아서 쳇gpt로 실시간 번역하나요? 리포트쓸때 원서번역은 좀 가능하겠지만 그것도 뭘 좀 알아야 하죠~~ 필요한 영어를 공교육에서 잘 커버해주면 사교육비의 반이 줍니다. 영어유치원과 어학원에 말배우고 원서읽고 독해배우러 갑니다. 그걸 공교육에서 하면 해결!',
                 reactions: {
@@ -10251,7 +9917,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@aqznxkdhekd',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:16:22Z',
+                timestamp: '2025-04-29T11:16:22Z',
                 content:
                     '수능 영어는 사교육에 과투자 전혀필요없고, 수시는 잘 모르겠네요. 워낙 케바케라',
                 reactions: {
@@ -10270,7 +9936,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-hb6tf5hi6z',
                 author_profile_image:
                     'https://yt3.ggpht.com/IJJCqVUeSr19MbkTCovKJRi0KCqNR354r-cLADL0TYA6hjBY4u4BL4lV2xse5PJhVEhgmXBv=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:16:46Z',
+                timestamp: '2025-04-29T11:16:46Z',
                 content: '@@10ys-bv4gv 그렇게 이제 한 마디도 못하게 되고~ 좋겠다아주',
                 reactions: {
                     useful: 67,
@@ -10288,7 +9954,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yomamte',
                 author_profile_image:
                     'https://yt3.ggpht.com/90GzAwv0rZKfMGCI36lfH3Xd6qAhN32trZY1H3Gi8VpDCkGU5_cj5nvmphzbfywvzvFlTT9APA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:02:36Z',
+                timestamp: '2025-04-29T12:02:36Z',
                 content: '영어가 수능중에 등급따기 제일 쉬운거 아니에요? 단어만외워도 3나오는데',
                 reactions: {
                     useful: 62,
@@ -10306,7 +9972,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@캡틴아프리카1',
                 author_profile_image:
                     'https://yt3.ggpht.com/SluI360mj1WdtRE5ImT9cLk_Vk-2YyuxFEjrg3_EgQxOZ8pZ-q7yXT3lMFMA_T6pEKao_TJPUAc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:09:19Z',
+                timestamp: '2025-04-29T12:09:19Z',
                 content:
                     '영어는 양입니다 진짜 사교육 1도 쓸모없어요 뉴스매일 읽고듣고 영어원서 찾아서 읽고 미국 토크쇼, 팟캐스트 찾아서 듣고 영어영상 유튜브댓글,레딧같은걸로 은어,줄임말같은것도 익숙해질수있고 돈많으면 원어민이랑 화상대화같은거 하면 좀 빠르게 갈수있음',
                 reactions: {
@@ -10325,7 +9991,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@kjunpark7484',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kr4R1kimoPNsDuXrs4Uetqym8b68HaYwlWtdlQVz4=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:16:07Z',
+                timestamp: '2025-04-29T12:16:07Z',
                 content:
                     '영어는 지금 절대평가 되고 사실상 자격고사화 되면서 입시에서의 비중과 사교육 영향이 확 줄어들었는데 어느 쌍팔년도 이야기를 하는지?? 아무것도 모르면서 아무말이나 막 뱉어대는 일침충의 전형적인 양태구만 ㅋㅋㅋㅋㅋ',
                 reactions: {
@@ -10344,7 +10010,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@사과별',
                 author_profile_image:
                     'https://yt3.ggpht.com/VkukKrCArgbtBo_TqQyTsi8G0uJLnPfcsaQvXfBmMeFVS1pqRZE2VIEHT1QiIrRAZJt5PV8KhQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:52:27Z',
+                timestamp: '2025-04-29T12:52:27Z',
                 content: '영어가 제일쉬운데 수능공부 안해봄?',
                 reactions: {
                     useful: 4,
@@ -10362,7 +10028,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-yw9dq4wi7c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:23:31Z',
+                timestamp: '2025-04-29T13:23:31Z',
                 content: '​@@사과별안 해본 놈,걍 못하는 놈들이 영어교육 문제다!!!빼액!! 이럼 ㅋㅋ',
                 reactions: {
                     useful: 78,
@@ -10380,7 +10046,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@엄준식-i2l',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kJPqWvKueKR6ve-T6-VP0Iwzbv9i7XSlkmXRqJMTHFLW0PvSU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:27:17Z',
+                timestamp: '2025-04-29T13:27:17Z',
                 content: '@@yomamte절대평가 3이면 상대평가에서 5등급인데?',
                 reactions: {
                     useful: 36,
@@ -10398,7 +10064,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@qqqq3500',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m6hL2xoimRwP-9Bhxa_RQnrwgYBExNAZZfAcIXy6_hF3v9pP5m5-8UmqjoDS60S8tkCQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T02:14:41Z',
+                timestamp: '2025-04-30T02:14:41Z',
                 content:
                     '솔직히 영어는 학보모들이 너무 과하게 생각함. 대부분애들이 유학이 아니라 수능쳐서 대학갈껀데 수능영어 하나준비하자고 무슨 유치원부터 영유를 보내고 초딩영어학원을 보내대는지 이해가 안감. 다른과목도 마찬가지임. 대치동 초딩의대반 수학수업하는거 봤는데 정작 그나이애들은 수능때 미적치지도 않는데 사짜 미적이나 가르치고 그걸 보내면서 사교육비가 많이나오니 하는데 진짜 좀 과하게 생각하는걸 줄이면 좋겠음 근본적으로',
                 reactions: {
@@ -10417,7 +10083,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@장마-k3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k60EJCH_ppJcpBjnKq9-qH-32g1h7vZX9ZDL1ypUXwNlwdzJXbS_GyCMgr0u7T0eO-pBVa9Oi7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T11:45:03Z',
+                timestamp: '2025-04-30T11:45:03Z',
                 content:
                     '​@@qqqq3500 다른과목 공부할 시간을 벌어주겠다는거죠. 수행과 동아리선점에 내신 신경쓰려면 어릴때부터 적어도 수학 영어는 미리 해둬야 입학 후 리터니나 사교육으로 무장하고 들어온 애들과 경쟁해서 공부할 시간이 생깁니다. 준비없이 학교들어가면 애가 똑똑해도 내신에선 시간 쫒기고 정시로 넘어가서 고생하게 되죠~ 영어만이라도 토플몇점이상 등으로 자격시험으로 통과시키면 애들이 그나마 숨통 트일것 같네요.',
                 reactions: {
@@ -10436,7 +10102,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@qqqq3500',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_m6hL2xoimRwP-9Bhxa_RQnrwgYBExNAZZfAcIXy6_hF3v9pP5m5-8UmqjoDS60S8tkCQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T12:47:18Z',
+                timestamp: '2025-04-30T12:47:18Z',
                 content:
                     '@@장마-k3n 저는 동의하지않습니다. 지금 고등학교1학년 학생분들은 과목변경이 있으나 제가 응시했던 수능 기준 국어, 수학, 영어, 과탐과목을 응시하게됩니다. 리터니분들이나 사교육으로 무장한 학생들을 예로 들었는데 애당초 고교영어는 절대평가로 그리 큰 차이가 날 수가 없는구조입니다. 초등학교저학년부터 영어학원을 다녀서 엄청난 차이를 보이는 과목도 아니고 해외유학 경험에서 쓰는 회화영어와는 관련조차 없구요. 그리고 수학의 경우 솔직히 선행필수라고 생각합니다. 하지만 그게 너무 과해요. 앞서 말했듯이 초딩의대반 수학학원에서 대체 왜 미적을 가르치고있는지도 모르겠고 그거 고등학교때 배우는 미적분 본질과도 1도연관없는 그냥 학부모님들 스스로 안심용 눈가리개입니다. 그냥 빠르면 중학교 1,2학년 아니면 3학년때 해도 충분합니다. 초딩의대반 수학수업과정을 잠시 봤었기에 이런말을 합니다. 글고 젤 중요한건 그 친구들이 수능칠때 미적분 있지도 않습니다. 학원들은 돈벌려고 있는곳이기에 어떻게든 학부모님들 겁줘서 등록시키려는 곳입니다. 운동선수를 예로들면 하루에 훈련 5,6번 하면 좋죠. 하지만 사람은 정해진 시간과 에너지라는게 존재합니다. 그냥 무식하게 때려넣는거에 비례해서 실력이 오르는게 절대 아니에요. 초등학교때는 책많이 읽고 중학교때는 점점 스스로 공부습관 잡는 시기입니다. 많은 학부모님들이 우리애는 학원 뭐뭐 보냈으니 잘하겠지라는 생각에 제일 중요한 공부습관이 안잡힌친구들이 많아요. 학원뺑뺑이돌고 오늘 학원에 6시간있었으니 공부 6시간했어 이러는 거죠. 학원간 시간은 공부한시간이 아닙니다. 혼자 계획해서 자습하는게 공부시간입니다. 진짜 본질을 다들 놓치는거 같아서 적어봅니다.',
                 reactions: {
@@ -10455,7 +10121,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@장마-k3n',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k60EJCH_ppJcpBjnKq9-qH-32g1h7vZX9ZDL1ypUXwNlwdzJXbS_GyCMgr0u7T0eO-pBVa9Oi7=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T13:38:15Z',
+                timestamp: '2025-04-30T13:38:15Z',
                 content:
                     '​​​@@qqqq3500 맞아요. 수학얘기 동의하구요. 수학 영어 과탐의 선행 및 사교육! 특히 기저귀 차서부터 시작되는 영어몰입에서 학부모와 아이들이 경쟁과 비용면에서 벗어날 수 있도록 대안을 짜내봐야죠.~',
                 reactions: {
@@ -10474,9 +10140,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@go4kchipro144',
                 author_profile_image:
                     'https://yt3.ggpht.com/1_8oq-IaNpbuvIF9iKDlOEP7HTvy2w5du1zonZQLqn8ZyGpS9G_CeP-QQ8vBoweCWAq2XSwD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T06:02:48Z',
+                timestamp: '2025-05-01T06:02:48Z',
                 content:
-                    '@@10ys-bv4gv 쳇GPT도 틀림. 특히, 아에 문법이 틀리는 경우도 있음. 따져서 혼내면 사과하면서 웃고 ㅇㅈㄹ ㅋㅋ 결론적으로 쳇 GPT는 아직은 활용자에 따라 날개가 될 수도 아니면 그냥 꼼수가 될수도.',
+                    '@@10ys-bv4gv 쳇GPT도 틀림. 특히, 아에 문법이 틀리는 경우도 있음. 따져서 혼내면 사과하면서 웃고 ㅋㅋ 결론적으로 쳇 GPT는 아직은 활용자에 따라 날개가 될 수도 아니면 그냥 꼼수가 될수도.',
                 reactions: {
                     useful: 94,
                     agree: 15,
@@ -10493,7 +10159,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@go4kchipro144',
                 author_profile_image:
                     'https://yt3.ggpht.com/1_8oq-IaNpbuvIF9iKDlOEP7HTvy2w5du1zonZQLqn8ZyGpS9G_CeP-QQ8vBoweCWAq2XSwD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T06:09:51Z',
+                timestamp: '2025-05-01T06:09:51Z',
                 content:
                     '@@qqqq3500 무엇이든 100을 요구하는 것에 대한 최선은 120임. 조기교육의 기본은 1) 실제 영재들의 영재교육 2) 일반인들의 해당 내용에 대한 이른 노출. 3) 두뇌 개발. 영재발굴. ㅋㅋ 대치동 의대반 자체는 문제가 있다고 여겨짐. 그건 유치원생이나 초딩부터 의대로 가겠다고 사립?기관과 학부모들이 학생들에게 다양한 진로로의 방향성과 가능성을 막는 꼴이 되고 훗날 의, 치, 한을 못 갈 경우 패배의식에 빠지게 할 수 있음. 그렇지만 의대반이 중학생, 고등학생대상으로도 있으면서 다양한 사회봉사, 쉐도잉, 국제 적십자 봉사 ㅋㅋ, 의학논문 등 일관성 있게 같이 진행한다면 진정성이 느껴질지도. ㅎ 어쩃든 영재반이름이 의대반이라는 거겠죠? 참 특이한 사회현상일세.',
                 reactions: {
@@ -10512,7 +10178,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@go4kchipro144',
                 author_profile_image:
                     'https://yt3.ggpht.com/1_8oq-IaNpbuvIF9iKDlOEP7HTvy2w5du1zonZQLqn8ZyGpS9G_CeP-QQ8vBoweCWAq2XSwD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T06:29:21Z',
+                timestamp: '2025-05-01T06:29:21Z',
                 content:
                     '@@10ys-bv4gv 쳇GPT를 전문가가 가다듬어줘야 할 필요가 있음. 쳇GPT로만 만사오케인 두부류는 다음과 같습니다. 1) 쌉고수 2) 이래도 저래도 그만인 그저그런놈.',
                 reactions: {
@@ -10533,7 +10199,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@정현서-s9g',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T18:57:08Z',
+        timestamp: '2025-04-29T18:57:08Z',
         content:
             '저것도 아니야. 서울대 기득권은 내놓기 \n싫기..서울대가 제일 예측불가 깜깜히 전형\n이라며',
         reactions: {
@@ -10556,7 +10222,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@마음밭-j8t',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nbpIyw9RERWWeYVcxAB1eIBIpGS09nJ0NDBVgNNe0nbEppDM0SbBGcKOhumeWeRWLvPA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:19:18Z',
+        timestamp: '2025-04-29T09:19:18Z',
         content:
             '수능으로 실력 가리는게 어려워지면 내신이 더 난리일텐데요... 지금도 체육시간에 평가로 저글링, 음악시간에 음악편곡, 논문 몇개를 읽고 ppt를 만드는등... 내신을 위한 괴상한 수행평가들이 많은데 혹시 이 수행 평가를 더 늘릴 계획이신건지...  평가 대안을 정확히 알고 싶네요.',
         reactions: {
@@ -10601,7 +10267,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@rice5bakgok480',
                 author_profile_image:
                     'https://yt3.ggpht.com/tvlcPVeCI_Y3qP7pcjjRhFOUafAUpEEnu47gTcFkA1J6RogtTW1ngYD7gYi9rbBiy67hCKg-YPM=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:41:28Z',
+                timestamp: '2025-04-29T10:41:28Z',
                 content: '대체 어떤 고등학교에서 이래요? ㅋㅋㅋㅋ',
                 reactions: {
                     useful: 80,
@@ -10619,7 +10285,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@쿠쿠루핑퐁-g7f',
                 author_profile_image:
                     'https://yt3.ggpht.com/fstjOO9OXewJ1-nK177-wArBo06FbU76-8ROYcV2tr_2R0Z3WvoyH8UECla-U-XA4eFpoYgREZU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:46:34Z',
+                timestamp: '2025-04-29T10:46:34Z',
                 content:
                     '현직 대치동 고교 재학중 입니다..안저렇습니다 친구들 학교도 똑같고요..음미체는 걍 줍니다 뭔 소설을 써ㅜㅜ',
                 reactions: {
@@ -10638,7 +10304,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@강준-u6r',
                 author_profile_image:
                     'https://yt3.ggpht.com/vj4eo2OSa52LHNFZxjhJLAsCsUpwYllNUtS7Y3DeDcNWILCnucRwRiduwI-5tKGvl1rjHHhbSA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:06:25Z',
+                timestamp: '2025-04-29T11:06:25Z',
                 content:
                     '@@쿠쿠루핑퐁-g7f저도 대치 출신이지만 오히려 대치여서 수행이 덜 빡센거 아닐까요? 막상 수시로 가는 사람 전교에서 많지 않으니까요',
                 reactions: {
@@ -10657,7 +10323,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-mq3eq9zf4o',
                 author_profile_image:
                     'https://yt3.ggpht.com/IEIB_D1H4HanZszwzZ5Z5MJxTGnZ81SfJCh-sJXqAqHIJIJAAaajpvAUl4iZW1hoVNBjtEwODg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:30:38Z',
+                timestamp: '2025-04-29T11:30:38Z',
                 content: '@@rice5bakgok480제가 다닌 곳도 저랬어요',
                 reactions: {
                     useful: 57,
@@ -10675,7 +10341,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@쿠쿠루핑퐁-g7f',
                 author_profile_image:
                     'https://yt3.ggpht.com/fstjOO9OXewJ1-nK177-wArBo06FbU76-8ROYcV2tr_2R0Z3WvoyH8UECla-U-XA4eFpoYgREZU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:34:31Z',
+                timestamp: '2025-04-29T11:34:31Z',
                 content: '@@강준-u6r 글쎄요 윈터 이런데 지방 친구들 만나보면 그닥요?',
                 reactions: {
                     useful: 96,
@@ -10693,7 +10359,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@HuTao-sj7jj',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_k6ik9k6NPqHs0kvMwv9SpZyE9qUk9AxeJZJ9_zucX5-Srt4Jkr8so6gIcmOMBS08yveQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:46:04Z',
+                timestamp: '2025-04-29T11:46:04Z',
                 content:
                     '@@쿠쿠루핑퐁-g7f ​  대구 수성구 사는데 수행은 안어려움.. 중간기말이 어렵지ㅋㅋㅋ',
                 reactions: {
@@ -10712,7 +10378,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@seoyeon2000',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:58:35Z',
+                timestamp: '2025-04-29T11:58:35Z',
                 content: '내신이 난리이면 수능으로 보면 되지않을까요?ㅋㅋ',
                 reactions: {
                     useful: 48,
@@ -10730,7 +10396,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@대구박노인',
                 author_profile_image:
                     'https://yt3.ggpht.com/iE0G-DnPd7OM-GziTkp3zAQDYCf_qH1QhLt0kM7pHR7_QFYzQR2LoVsxIc2WF90datN4BihHQvc=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:22:45Z',
+                timestamp: '2025-04-29T12:22:45Z',
                 content:
                     '체육 수행 저글링은 중학교때 해봤는데 어디가 기괴하단거.. 푸쉬업갯수 플랭크 시간 이런거보다 훨씬쉬운데',
                 reactions: {
@@ -10749,7 +10415,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@민재김-x2d',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:40:56Z',
+                timestamp: '2025-04-29T12:40:56Z',
                 content:
                     '소설 쓰지마시구요. 님 세대는 인구도 없으니까 좋은 대학가기 쉬우실거에요. 열심히하고 사회주의 국가로 힘써주십시오.',
                 reactions: {
@@ -10768,7 +10434,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@마음밭-j8t',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nbpIyw9RERWWeYVcxAB1eIBIpGS09nJ0NDBVgNNe0nbEppDM0SbBGcKOhumeWeRWLvPA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:45:24Z',
+                timestamp: '2025-04-29T12:45:24Z',
                 content:
                     '@@seoyeon2000 저도 수능만 봤음 좋겠는데 수능 3ㅡ4번 본다는건 수능으로 대학가기 더 힘들어지는 거 아닐지 걱정이 되어서요...',
                 reactions: {
@@ -10787,7 +10453,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@seoyeon2000',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:16:28Z',
+                timestamp: '2025-04-29T13:16:28Z',
                 content:
                     '@@마음밭-j8t 수능을 한번보는게 걱정되야 되죠  에초에 수능을 여러번 봐서 안좋을게 있나요?  저는 수능이라는 시험을 존중하기 때문에  3학년이라는 1년의 시간이 또 다른 내신과정이 되겠다는 생각이 드네요.',
                 reactions: {
@@ -10806,7 +10472,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Dkdjsnskl7',
                 author_profile_image:
                     'https://yt3.ggpht.com/wuOXVCn-MxIK5TdIY0_DPL4AKqw5la9Qj8vkhMOibwSeIbg8UGJc05WXWGpe-12bNKQrzRDWs_M=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:28:36Z',
+                timestamp: '2025-04-29T13:28:36Z',
                 content:
                     '@@민재김-x2d​​⁠ 엥 진짜인데요… 강남 아니고 강북 일반여고여서 그런지 수행평가가 괴랄해요… 체육만 해도 플랭크 3분 이상에 푸쉬업 20개에 플라잉디스크, 이단 줄넘기 30개, 발목 줄넘기 6분 등등이고요. 화학 수행은 교과서 써져 있는대로 써도 선생님이 원하는 대로 안 썼다고 깎고, 음악은 랩 가사 쓰고 직접 불러서 제출하고, 논문이랑 책 읽고 사회문제에 대해서 쓰라고 하고, 국어는 조를 짜서 감점 다 시키고, ppt 계속 만들라고 시키고 ㅈㄴ쓸데없는 수행 개많이 하게 하면서 생기부는 ㅈㄴ못 쓰고 고쳐달라고 하면 지금 선생님 무시하냐고 짜증내고 ㅈㄴ ㅈㄹ입니다. 짜증나서 내신 안 챙기는 게 아니라 못 챙기겠어요ㅗㅗㅗㅗ 걍 자퇴하고 싶어서 미치겠어요…수업은 ㅈㄴ 못 가르치고 자기 썰만 풀어서 뭘 배우는지도 모르겠고 필기할 것도 없고 수업 준비 제대로 안하시는 쌤들도 많고 수업 듣다 보면 짜증나서 뛰쳐나가고 싶네요. 그리고 시험지도 오류 있어서 재시험 보게 만들고 학생보다 수특이나 모고 같은 문제 잘 못 푸는 쌤들 많은데 어떻게 교사가 됐는지 이해가 안됩니다…학교에서 담배 피는 쌤들 있어서 학급회의 통해서 학교에 꼰질렀는데 방송으로 학생들한테 담배 피지 말라고 ㅈㄹ이고 학교가 고이고 썩었습니다…내신으로 어떻게 대학을 가요',
                 reactions: {
@@ -10825,7 +10491,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@마음밭-j8t',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nbpIyw9RERWWeYVcxAB1eIBIpGS09nJ0NDBVgNNe0nbEppDM0SbBGcKOhumeWeRWLvPA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:48:04Z',
+                timestamp: '2025-04-29T13:48:04Z',
                 content:
                     '@seoyeon2000  음 그렇게 되려나요? ^^ 이런저런 댓글이 달려서 재밌네요. 의견주셔서 감사합니다. ^^ 저는 미국 SAT처럼 되면... 학과 수업 이외의 대회 실적들이 중요해질 것 같아서 그것도 걱정이구요... 좋은 밤 되십시오',
                 reactions: {
@@ -10844,9 +10510,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@민재김-x2d',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T16:24:39Z',
+                timestamp: '2025-04-29T16:24:39Z',
                 content:
-                    '@Dkdjsnskl7  네네~ 그만 찡찡대고 그냥 놀든가 공부하든가 하세요~ 어차피 투덜대봐야 달라지는거 없음. 그냥 닥치고 하는게 상위권 애들이더라구여',
+                    '@Dkdjsnskl7  네네~ 그냥 놀든가 공부하든가 하세요~ 어차피 투덜대봐야 달라지는거 없음. 그냥 닥치고 하는게 상위권 애들이더라구여',
                 reactions: {
                     useful: 79,
                     agree: 23,
@@ -10863,7 +10529,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@dugmdals',
                 author_profile_image:
                     'https://yt3.ggpht.com/cZlmZgwvNxATnkAdGRR9Dd3XX_hKbUALmU-n5HxnLEmrvBcoLWA-kTR2rUJj05bWbwo1QNby6g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:22:55Z',
+                timestamp: '2025-04-29T17:22:55Z',
                 content: '강남3구 사는데 미술 개레전드개복잡 피피티 만듦',
                 reactions: {
                     useful: 58,
@@ -10881,7 +10547,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@시청계정-kr',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mN__N_2uFbZrlLqg7AsKwxtiHGXpNz3SKALxg8-9CilkPEabyyEDNp6kOsYvddOsZvEy6GUGTW=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:25:20Z',
+                timestamp: '2025-04-29T17:25:20Z',
                 content: '체육, 음악은 성적 박아도 대입에 문제없긴함',
                 reactions: {
                     useful: 78,
@@ -10899,7 +10565,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@seoyeon2000',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T17:32:12Z',
+                timestamp: '2025-04-29T17:32:12Z',
                 content: '그럼 내신으로 가세요~',
                 reactions: {
                     useful: 91,
@@ -10917,7 +10583,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@2222-b1g',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l-L7A_P4-wpjUY-me3ZAgH1DtFMVidkyv0lOi2Kkog760=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T21:20:00Z',
+                timestamp: '2025-04-29T21:20:00Z',
                 content: '​@Dkdjsnskl7 랩은 모든 학교가 하는거임? ㅋㅋㅋㅋㅋ',
                 reactions: {
                     useful: 11,
@@ -10935,7 +10601,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@go4kchipro144',
                 author_profile_image:
                     'https://yt3.ggpht.com/1_8oq-IaNpbuvIF9iKDlOEP7HTvy2w5du1zonZQLqn8ZyGpS9G_CeP-QQ8vBoweCWAq2XSwD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T06:18:46Z',
+                timestamp: '2025-05-01T06:18:46Z',
                 content:
                     '거 미국 교육 시스템은 입맛에만 맞춰 언급하는데 참.ㅋㅋ 수행평가 본질을 잘 지킨다면 암기위주의 입시보다 보다 ㄷㅓ 창의적인 효과를 ㄱㅓ둘 수 있어야할텐데..부작용과 잡음이 많으니..이럴 때는 원론적으로 저럴 때는 눈치입시적으로..참 일관성 없네. 외국을 따라하기보다 가장 중요한 것이 우리나라 실정에 맞는 정책일 것입니다. 그냥 교권을 다시 강화하고 스승의 은혜를 다시 하늘로 보내야 할 필요가 있어보임. 안그러면 학부모들 입맛에 휘둘릴테고 그러면 이제 자식 입시를 학부모들이 이렇게 저렇게 만들어내는 커쳐가 형성되는거죠. PS) 우리나라 실정에 수행평가가 잘 돌아갈려면 자사고에서나 가능할 것 같음. 아니면 대치동 같은 좋은 학군. 그러면 거길 왜 거기를 굳이 가냐가 국민정서죠. 내가 하면 로맨스 남이 하면 불륜. 자사고는 걸맞는 특혜를 줘야함. 교육자체가 평등하면 안되죠. 기회가 평등해야지 .AI의발달로 일반적으로 이제 돈때문에 낮은질의 교육을 받게되는 사람들의 수는 이전보다도 더 현격히 줄어들 것으로 예상됩니다.',
                 reactions: {
@@ -10954,7 +10620,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@go4kchipro144',
                 author_profile_image:
                     'https://yt3.ggpht.com/1_8oq-IaNpbuvIF9iKDlOEP7HTvy2w5du1zonZQLqn8ZyGpS9G_CeP-QQ8vBoweCWAq2XSwD=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T06:56:27Z',
+                timestamp: '2025-05-01T06:56:27Z',
                 content:
                     '내신은 언제나 옳아야죠. 내신에 문제가 있ㄷㅏ면 교육이 나가리임. 일부 학생들에게만 혜택이 돌아오게되는 구조상으로 인한 불공정이죠. 남이하면 불륜이고 내가하면 로맨스에. 미국이나 선진국 교육제도는 입맛에 맞게 인용 및 끌어들이고..일관성이 드럽게 없는데 그냥 주어진환경내에서 우리나라 실정에 맞는 것이 무엇이냐가 가장 중요한 포거스일 것 같습니다. 원론을 얘기할 때 어디 학교세요 ㅇㅈ랄 하니 대화의 발전이 없지. 그건 마치 ㅋㅔ찹 안줘서 뭐라고 했더니 저희는 케찹을 2개만 주기로 되어있습니다라고 말하는대신 다른사람들도 2개만 받고 원래 그래요 ㅇㅈ랄 하는 것과 똑같네.',
                 reactions: {
@@ -10973,7 +10639,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Dkdjsnskl7',
                 author_profile_image:
                     'https://yt3.ggpht.com/wuOXVCn-MxIK5TdIY0_DPL4AKqw5la9Qj8vkhMOibwSeIbg8UGJc05WXWGpe-12bNKQrzRDWs_M=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T03:32:16Z',
+                timestamp: '2025-05-02T03:32:16Z',
                 content:
                     '@민재김-x2d  그래서 어차피 정시로 가거든요 모고 성적은 좋으니까 걱정마세요~~~',
                 reactions: {
@@ -10992,7 +10658,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@Kkkkrubbing',
                 author_profile_image:
                     'https://yt3.ggpht.com/3B8bQaZ40BGVGcZJLirTG6oJxis01xuLXEzgrMHXEXKgw7POi0G_LLAls-13qwKrVrMnYoHTXA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-17T16:06:05Z',
+                timestamp: '2025-05-02T16:06:05Z',
                 content: 'ㄹㅇ 수행 진짜저럼',
                 reactions: {
                     useful: 33,
@@ -11012,7 +10678,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@CosTanSin',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kr4bNGofmTMPp5MZXDPMJK5LVxode4q5XfL_KkDT6k-92DsDa2ZJkQL47K5Z7lphmMUw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T23:16:15Z',
+        timestamp: '2025-04-29T23:16:15Z',
         content:
             '지금 중고등과정에서 배우는거 아예 안배우진 말고 심화까진 안나가고 기초까지 하는대신 학생들이 자신의 진로찾고 그러는걸 더 확대해야된다고봄',
         reactions: {
@@ -11035,7 +10701,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@HaelimCha',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_ny-jr7hjm6o0DIAi3vzIlVaV9CrK6h8Jn8h4R2Rea3aw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T17:53:24Z',
+        timestamp: '2025-05-01T17:53:24Z',
         content:
             '그리고 입학보다 졸업을 어렵게하는게 좋은 것 같아요. 이 커리큘럼을 이수한 사람으로 인정될 수 있게',
         reactions: {
@@ -11058,7 +10724,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@rrrr-rrr',
         author_profile_image:
             'https://yt3.ggpht.com/hY9j9faU-hKGiOLbOp2C8mg2BuNqi_Jhvd9gagovvjSoFXSwqCMf27JY799v0jR0NcQJoG0E7w=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T10:18:42Z',
+        timestamp: '2025-04-29T10:18:42Z',
         content:
             '어쨌거나 실패해도 다시도전할수있는 안전망을 만들어야지....수능한번에 인생결정나는건 너무함',
         reactions: {
@@ -11081,7 +10747,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@정은박-s2h',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-15T11:00:34Z',
+        timestamp: '2025-04-30T11:00:34Z',
         content:
             '수행평가 폐지..정시 확대, 학교 내신도 수능식으로 출제..정시를 함께 준비하는 공부할 수 있도록 일관성을 지녀야 함..수행평가에 내신에..세특준비..수능까지..우리 애들 너무 불쌍해요.ㅜ',
         reactions: {
@@ -11104,7 +10770,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@hyeranyang20',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mjcJD15NNQEAlNXvsZBqscbFBUECoa7747YEKZOMA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:57:29Z',
+        timestamp: '2025-04-29T08:57:29Z',
         content:
             '상대평가를 없애고 절대평가 해야 함. 그리고 프랑스처럼 지역별로 서울대를 만들어서 명문대를 다 평준화 시키면 수도권으로 밀집되는 현상도 어느 정도 해결 가능함. 말이 안되는게 OECD국가 중 고교학점 시행하는 나라 중 상대평가 하는 나라는 우리나라밖에 없음. 취지에 맞지도 않음.',
         reactions: {
@@ -11131,7 +10797,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@린신-j4h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:38:12Z',
+                timestamp: '2025-04-29T09:38:12Z',
                 content:
                     '이 주장이 말이 안되는게 그러면 서울에서 세종으로 정부 청사 옴겼을때 왜 안됬음? 지금부터 대학 서열 없애려 하면 뭔 공산주의도 아니고 강제로 없애는게 더 이상함',
                 reactions: {
@@ -11150,7 +10816,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@린신-j4h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:38:42Z',
+                timestamp: '2025-04-29T09:38:42Z',
                 content: '세종으로 도시이전도 못하는데 잘도 하겠다 ㅋㅋ',
                 reactions: {
                     useful: 71,
@@ -11168,9 +10834,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-qz6ee2mi4w',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lYJmbdEpmd-T_reSRfTjmICZY1-tafQlu41zvGBvfZHTU=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T11:43:43Z',
+                timestamp: '2025-04-29T11:43:43Z',
                 content:
-                    '@@린신-j4h세종 도시 이전은 안되는 게 맞고 ㅋㅋ 아직도 대전이나 세종으로 수도 옮겨야 한다는 대전 사람들 보면 존나 웃김 ㅋㅋㅋㅋㅋ 대전 사람말고 아무도 찬성 안 하는 걸 아직도 우기고 있네',
+                    '@@린신-j4h세종 도시 이전은 안되는 게 맞고 ㅋㅋ 아직도 대전이나 세종으로 수도 옮겨야 한다는 대전 사람들 보면 웃김 ㅋㅋㅋㅋㅋ 대전 사람말고 아무도 찬성 안 하는 걸 아직도 우기고 있네',
                 reactions: {
                     useful: 77,
                     agree: 100,
@@ -11187,7 +10853,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@user-yw9dq4wi7c',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nxVsg2YYziQ9V-yCVAEH_nxaFMNy2IQL09WwXX0TsTNrq88oE=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T13:30:46Z',
+                timestamp: '2025-04-29T13:30:46Z',
                 content: '아저씨 발 닦고 주무쇼',
                 reactions: {
                     useful: 50,
@@ -11207,7 +10873,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Nemleria_',
         author_profile_image:
             'https://yt3.ggpht.com/haSVaHxJkqMHzRB7_f9Gw7ueKqsjzqnmp-UCMGA6l1eY_DyYB8spuLWi36fZB0WT6JxXY0HsIfA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-17T05:45:24Z',
+        timestamp: '2025-05-02T05:45:24Z',
         content:
             '이게 맞지요!!!  수시는 교과든 학종이든 불평등 역차별 선행조장의 핵심입니다.\n\n공정하게 같은시험으로 치르게하고 중도학업포기자든 누구든 언제든 공부의지만 있음 시험치를 수있도록 해줘야합니다. 수능100프로 지지합니다',
         reactions: {
@@ -11230,7 +10896,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@최운영-h1i',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_la4c5HNthn9VKSRPDG2UPh4M7eZdrILAm3673D-cE=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T06:47:39Z',
+        timestamp: '2025-04-29T06:47:39Z',
         content: '최소 10년 걸린다.. 지금 상황에서는 절대 적용 못함',
         reactions: {
             useful: 39,
@@ -11263,7 +10929,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@telos-88',
                 author_profile_image:
                     'https://yt3.ggpht.com/AoVfa7_3U85xKIdALTPWD9dlGzvHK48oIDKbmr8qBHms6duGhWMAzLBca7SD6oBu-WJ8-LVAiQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:08:46Z',
+                timestamp: '2025-04-29T07:08:46Z',
                 content: '아니면 한국이란600년역사를 뒤엎어야됨',
                 reactions: {
                     useful: 4,
@@ -11281,7 +10947,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@휴먼-h7k',
                 author_profile_image:
                     'https://yt3.ggpht.com/jF8_6O5hY9y-Rx-IUmIB__TXa_fDkKlQwAa4sWl-hmL3FSzXGiWiQza2FpVS9bam5JIPCVt9=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:28:58Z',
+                timestamp: '2025-04-29T07:28:58Z',
                 content: '지들 수능 보는거 아니라서 안 할듯',
                 reactions: {
                     useful: 65,
@@ -11299,9 +10965,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ghost-exist-in-everywhere',
                 author_profile_image:
                     'https://yt3.ggpht.com/U-Bylj05nT8jo1oLm-4LxbnmqiccKgbgpNMST51eQz-vpoo-4o-JIJz7YwZQY_EGIOZ9Abejtg=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:41:11Z',
+                timestamp: '2025-04-29T07:41:11Z',
                 content:
-                    '10년뒤면 저출산\n지금 학생들 -> 투표권도 없는 쓸모없는것들\n예비학생 -> 알빠임?\n어차피 고령화라 개체수 많은 노인네들만 선동하면 표 굴러들어오는데 뭐',
+                    '10년뒤면 저출산\n지금 학생들 -> 투표권도 없는것들\n예비학생 -> 알빠임?\n어차피 고령화라 개체수 많은 노인들만 선동하면 표 굴러들어오는데 뭐',
                 reactions: {
                     useful: 35,
                     agree: 76,
@@ -11318,7 +10984,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@tubeyou1490',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ky2-V-Pk8OBJyfWinmCudf3XKZ76AhOpGL_a7PD1o=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T07:48:20Z',
+                timestamp: '2025-04-29T07:48:20Z',
                 content: '@telos-88 한국 100년도 안됐어요.',
                 reactions: {
                     useful: 98,
@@ -11336,7 +11002,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@telos-88',
                 author_profile_image:
                     'https://yt3.ggpht.com/AoVfa7_3U85xKIdALTPWD9dlGzvHK48oIDKbmr8qBHms6duGhWMAzLBca7SD6oBu-WJ8-LVAiQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:00:02Z',
+                timestamp: '2025-04-29T08:00:02Z',
                 content: '@@tubeyou1490 조선포함',
                 reactions: {
                     useful: 3,
@@ -11354,7 +11020,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@yama-e7h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ZpRq5a9FUV_dPk9dicYgLbB-5p5rjhEIP0-NNG4-5ATCZeYs-NlFDLRJ2U7Jo4gzKyM9xA7B4A=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:15:11Z',
+                timestamp: '2025-04-29T08:15:11Z',
                 content: '놉 당장가능 지금 못하면 십년후에도 못함',
                 reactions: {
                     useful: 34,
@@ -11372,7 +11038,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@aeonian_yf0p',
                 author_profile_image:
                     'https://yt3.ggpht.com/rz5Ub9_emeMIxquEL-BfEEp4ElOVNC7BlwYCaS9UQDqOYi01CMRLkdQyOpJQ_lwwcUN-8oFjYQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:31:32Z',
+                timestamp: '2025-04-29T12:31:32Z',
                 content:
                     '​@telos-88 6.25 터진것도 100년이 안됐는데 왜 600년의 역사를 갈아엎어요... 끽해야 몇십년이지',
                 reactions: {
@@ -11391,7 +11057,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@telos-88',
                 author_profile_image:
                     'https://yt3.ggpht.com/AoVfa7_3U85xKIdALTPWD9dlGzvHK48oIDKbmr8qBHms6duGhWMAzLBca7SD6oBu-WJ8-LVAiQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T12:38:22Z',
+                timestamp: '2025-04-29T12:38:22Z',
                 content: '@  아이 ㅅ 바커 적당히 알아들을 것이지 아주 ㄹㅈ 발광을해요',
                 reactions: {
                     useful: 24,
@@ -11409,7 +11075,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@telos-88',
                 author_profile_image:
                     'https://yt3.ggpht.com/AoVfa7_3U85xKIdALTPWD9dlGzvHK48oIDKbmr8qBHms6duGhWMAzLBca7SD6oBu-WJ8-LVAiQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T08:06:29Z',
+                timestamp: '2025-04-30T08:06:29Z',
                 content: '입만터는 조선놈들아 무ㅕ라 말좀해봐 ㅋㅋㅋㅋ',
                 reactions: {
                     useful: 38,
@@ -11427,9 +11093,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@게이게이좌',
                 author_profile_image:
                     'https://yt3.ggpht.com/1vucTM83RZINvtt-he4hdW9g6RJ_Iur8K5B8hdRn6SZ2SJKiwBSp2FjfDwjZVP8R8V15g11VzQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T09:54:18Z',
+                timestamp: '2025-05-01T09:54:18Z',
                 content:
-                    '한국 역사가 600년이노? 0 하나 더 붙인 오타인가 싶어서 0 빼고 계산해도 안맞는데 이기 맞노?',
+                    '한국 역사가 600년임? 0 하나 더 붙인 오타인가 싶어서 0 빼고 계산해도 안맞는데?',
                 reactions: {
                     useful: 30,
                     agree: 10,
@@ -11446,7 +11112,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@telos-88',
                 author_profile_image:
                     'https://yt3.ggpht.com/AoVfa7_3U85xKIdALTPWD9dlGzvHK48oIDKbmr8qBHms6duGhWMAzLBca7SD6oBu-WJ8-LVAiQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-16T11:01:01Z',
+                timestamp: '2025-05-01T11:01:01Z',
                 content: '@@게이게이좌 이런사람때문에 이국종이 탈조선외치지 ㅋㅋㅋㅋㅋ',
                 reactions: {
                     useful: 19,
@@ -11466,7 +11132,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@cheese-mackerel',
         author_profile_image:
             'https://yt3.ggpht.com/UMNrDJ4JF-yw0xLLjd9bpZcd0TR5uvQb2lY8mncb_-hXTqNqHSTfRsYPXsTnigZU05U6GgU99A=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T22:10:59Z',
+        timestamp: '2025-04-29T22:10:59Z',
         content:
             '수능 인생 한방인 경향이 없지않지. 평생교육을 감안하더라도 평소 행실, 학력, 사회기여 등을 종합적으로 판별하는게 낫다.',
         reactions: {
@@ -11489,7 +11155,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@이병희-z1q',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_m84hRP9WLNuRRAh3-ZFaLYQZaCvgAmCwlIOoP8D8o=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T03:49:28Z',
+        timestamp: '2025-05-01T03:49:28Z',
         content:
             '시험 하나로 줄세워서 가는게 사교육 제일 줄일 수 있음. 지금 수행평가한다고 바쁘니, 교과 과정은 선행으로 떼우고있음.  수행평가, 선행, 수많은 입시전형으로 사교육 범벅',
         reactions: {
@@ -11512,7 +11178,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@글루아',
         author_profile_image:
             'https://yt3.ggpht.com/ubUvpalWTLIGtfyr0UvN0mUk-c_u-CXnmzMCneoOdtBL3Tj-OuxkTgdYY7uqYcX-xlafImkr=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:56:02Z',
+        timestamp: '2025-04-29T09:56:02Z',
         content:
             '지금 청소년인 입장으로서 이 개혁안 정말 내 사상과 딱 맞다ㅠㅠㅜㅜ 이대로만 우리나라 교육이 바뀐다면 정말... 너무 행복하고 훨씬 살기 좋은 세상이 될 듯....',
         reactions: {
@@ -11535,7 +11201,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@timothykim9008',
         author_profile_image:
             'https://yt3.ggpht.com/5OWIaPr8Sn1SA0VJic8EbYRUTUmeBNjkWFhwZInJoUevn9rbKfok82cGqeNF8tdeZ-lDOfi7SA=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:56:21Z',
+        timestamp: '2025-04-29T13:56:21Z',
         content:
             '중고교 통합은 영국의 세컨더리 스쿨이랑 비슷한 개념인 거 같은데, 영국도 중등과정을 3~4년 동안 밟고 그 이후에 A-level이라는 시험을 봐서 대학에 가는 시험을 보는 걸로 알고 있습니다.\n영국의 A-level은 시험을 1년 중 2번, 8~19일 정도에 걸쳐 치르는데 한국도 수능을 하루만 보는 걸로, 1년에 딱 하루만 보면서 난이도를 굉장히 어렵게 내어 학생들에게 큰 부담을 주는 것보다는 여러 번에 걸쳐서 보는 걸로 부담을 조금이라도 줄이는 게 어떨까 하는 생각을 예전에 조금 했던 적은 있는데 교수회가 이렇게 공개적으로 개혁안을 낼 줄은 생각을 못했네요. \n\n\n특히 영어 교육은 개혁할 필요성이 크다고 봅니다. \n네덜란드처럼 성적 상관없이 영어로만 대화하고 토론하는 형태의 수업까지는 어려울 수 있어도 한국처럼 유치원생에게까지 영어 유치원을 다니게 하는 건 영어 공교육이 뛰어난 네덜란드도 그 정도까지 하지는 않습니다. \n문법이나 독해 위주보다는 실생활에서 쓰이는 영어로, 고등학교 졸업 전에는 대학 강의나 레포트에서 쓰일 법한 단어나 문장 위주로 공부해야 하는 게 어떨까 싶습니다.\n한국 수능 영어가 영국의 대학 교수님들마저도 어려워할 정도인데, 그만큼 한국 영어는 개혁 필요성이 크다고 봅니다.',
         reactions: {
@@ -11558,7 +11224,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@진구-s7s',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l-bG94bB6PI8B3NpIj6R4__iMslxQjh2j-7EwLGt6yHQ=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:32:51Z',
+        timestamp: '2025-04-29T13:32:51Z',
         content:
             '아주 좋은 개혁안이네요!!! 초등6년 소양교육, 중등6년 기초와 적성교육!! 국영수 중심에서 벗어나 미래의 아이들에게 적성을 찾아주는 교육. 인성교육도 함께.. 정말 정말 좋아요. 제발 실현되기를..단언컨데 이 방안이 실현되면 출산율이 급상승할 것으로 예상합니다.',
         reactions: {
@@ -11581,7 +11247,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@아이야-c8f',
         author_profile_image:
             'https://yt3.ggpht.com/gm4beWmUh1utIpYNPbnVyvDHKu9SSOwDXfWUB31xm0EYTq9S4B0oIxXfmBNP_UmSgE6v1g-QRw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T14:32:37Z',
+        timestamp: '2025-04-29T14:32:37Z',
         content:
             '3월 평가원모고랑 6월수능\n9월평가원모고 11월수능 항상 생각하는건데 이렇게 되면 좋겠다는 생각 항상함',
         reactions: {
@@ -11604,7 +11270,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@user-uf6rd1oy33',
         author_profile_image:
             'https://yt3.ggpht.com/IP7FhACI-tPJlk1YmfWGPU7EqEcU4kuH_k5ceQV-RyQcv0UIIDV170dShHnwPTw_zzBmvNGIGw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T03:15:16Z',
+        timestamp: '2025-05-01T03:15:16Z',
         content:
             '그냥 학력고사처럼 간단하게 해. 이것 저것 복잡하게 만드니까 사교육만 판을 치지, 다 없애버리고 예전 학력고사처럼 시험 한번, 끝.  어차피 이제 어느 대학나와도 대학 간판이 미래를 보장 못해주잖아.',
         reactions: {
@@ -11627,7 +11293,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@올리브봉봉-v1g',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mAv0bvCcnu2IwjsJQHiy3aBSjzDDQleEKhgoBpLG-f06s=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T11:12:22Z',
+        timestamp: '2025-04-29T11:12:22Z',
         content:
             '좋은 아이디어고, 꼭 실행했으면 좋겠다. 애들이 수능보는 하루를 위해 애답지 못하게 자라고 있다. 꼭 개편해라!!!',
         reactions: {
@@ -11650,7 +11316,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Univer6',
         author_profile_image:
             'https://yt3.ggpht.com/SZ_XIzvE-uafdBbiMg6-JG1ValKL04YzGHvGJgrcrdIIz-uVsxJeoOM374VADWNQj7fdLv__NT4=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T02:07:15Z',
+        timestamp: '2025-05-01T02:07:15Z',
         content:
             '그래..SAT처럼 수능좀 여러번 보게 해야 \n애들 숨통이 좀 열리지..SAT는 여러번 봐서\n제일 높은 성적으로 대입 넣을 수 있는데..\n3~4번이 안된다면 최소 6월 수능/ 11월 수능 이렇게 바꾸든가..',
         reactions: {
@@ -11673,7 +11339,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@김민수-p5v',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_n5mk-yUNe3P-0k53fZKW6erREFlm65_YGWywDQVj8=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:18:41Z',
+        timestamp: '2025-04-29T08:18:41Z',
         content:
             '공부의 본질과 필요성이 중요해지겠네요. \n지금은 그저 기계적인 암기와 문제의 의의가 아닌 출제자의 의도를 파악하는 오로지 점수만을 위한 노력으로 사람의 수준을 판별하는 용도로 사용되고 있다고 생각이 드네요.. 진정 나라의 발전을 도모한다면 학생 스스로가 지식과 배움을 추구하는 환경을 만들어 직업정신과 자아을 가질수 있도록 해야합니다',
         reactions: {
@@ -11702,7 +11368,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@스나이퍼-l4j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mhJLdSNeM60x0E8ateXaJ2YqQmmQzOM2hfxTeUPXiLhw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:13:45Z',
+                timestamp: '2025-04-29T09:13:45Z',
                 content:
                     '수능은 암기만으로 되는 시험이 아닙니다... 요즘 시험 킬러는 없어져도 고난이도 문항이 늘어나서 시간적 압박때문에 낯선 문항을 간결하고 빠르게 푸는 문제해결력이 중요합니다...',
                 reactions: {
@@ -11721,7 +11387,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@WLee0000',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_kGbzuHsf8CGdiFeKVM3TKi9r4JmymtqTsx0WMjsLQvZuItYdhl3_7MMdXoz9-I9Xxg9g=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:43:02Z',
+                timestamp: '2025-04-29T09:43:02Z',
                 content: '난 40대 이상은 댓글 못달게 막아야 한다고 생각한다 이런거보면',
                 reactions: {
                     useful: 77,
@@ -11739,7 +11405,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@엄준식-w8p',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_l3Bz6doyOqmxnbxC7YTPEYDkB4EqydIAMsbEUjvC3cQlxG46o=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T10:29:57Z',
+                timestamp: '2025-04-29T10:29:57Z',
                 content:
                     '수능에 응시해본 적이 없는 사람이구만.\n암기로만 구성된 학력고사의 폐해를 바로잡기 위해 암기를 배제하고 만든 시험이 수능입니다. 현재 수능의 난이도가 치솟는 까닭은 암기를 줄이려다 보니 출제범위가 지나치게 한정되어 있기 때문이고요. \n \n학력고사가 암기싸움이었다면 수능은 지능차력쇼인 셈입니다.',
                 reactions: {
@@ -11758,7 +11424,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@박주철-u4b',
                 author_profile_image:
                     'https://yt3.ggpht.com/K3ArV217T1vIW8haw16QcacaGh1C26M70f0_fKpNiI-wfg3-FUxvYOEW7kL5jH6441tVA2Km=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:01:50Z',
+                timestamp: '2025-04-29T15:01:50Z',
                 content:
                     '@WLee0000요즘 수능 국어는 많이 어려워진거 같더라 근데 영어 수학은 옛날 3040사람들이 본 수능이 더 어렵다 생각함 영어는 상대평가고 수학은 이과면 수1,2적통기벡 고정이니',
                 reactions: {
@@ -11777,7 +11443,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@스나이퍼-l4j',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_mhJLdSNeM60x0E8ateXaJ2YqQmmQzOM2hfxTeUPXiLhw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T15:06:15Z',
+                timestamp: '2025-04-29T15:06:15Z',
                 content:
                     '@@박주철-u4b 영어는 예전이 어려워도 수학은 지금이 거의 전성기급입니다 171130 181130같은 킬러는 안나와도 그 킬러 소재로 준킬러~킬러 바로 아래소재로 문제를 도배해놔서 시간압박이 심합니다 오히려 예전엔 92까진 쉬웠죠 지금은 92받는 난이도가 예전보다 더 어렵습니다 실제로 만표도 지금이 제일 높습니다',
                 reactions: {
@@ -11796,9 +11462,9 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@귀여운아희',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_lqZZRWVeH6XqGcG2ZzeqBwu4JEmbDI7YNnRMhtqBHk1FvxA0I=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T19:15:00Z',
+                timestamp: '2025-04-29T19:15:00Z',
                 content:
-                    '​@@엄준식-w8p 개똥같은 소리하고 있네  무슨 지능차력쇼야 선행학습해서 지문 이해는 뒷전이고 문제패턴만 반복학습 해서 이해 없는 답 추론하기 게임 된지가 언젠데',
+                    '​@@엄준식-w8p 무슨 지능차력쇼야 선행학습해서 지문 이해는 뒷전이고 문제패턴만 반복학습 해서 이해 없는 답 추론하기 게임 된지가 언젠데',
                 reactions: {
                     useful: 17,
                     agree: 48,
@@ -11817,7 +11483,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@박주영-i2d',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kXUI7BdFqsGpRhM4zXfJ6nd6GOZkGYzJKg4on7s8iiP68=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-16T04:49:15Z',
+        timestamp: '2025-05-01T04:49:15Z',
         content:
             '현역한테는 좋고 현역외는 안좋을 듯\n11월 바라보고 1년 준비해야 됐다면\n이젠 처음시험부터 잘봐야 되니까 최소2년 시작인데',
         reactions: {
@@ -11840,7 +11506,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@Kngm-e6b',
         author_profile_image:
             'https://yt3.ggpht.com/_9rW1R_RlpMSNtR1PKe289bFYrkjk6ap8YVP463WKJT7fOyds5zM17j9o9xZYiNQhN1EwHzsDw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T04:40:38Z',
+        timestamp: '2025-04-29T04:40:38Z',
         content: '잘한다~',
         reactions: {
             useful: 100,
@@ -11862,7 +11528,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@더불어-m1r',
         author_profile_image:
             'https://yt3.ggpht.com/HgZxkDXXhE8iT6CHXlBZZGMHR1vh26fdY3kZVDh6qlHNA5ap5n5xmvpVbFW5DuBPJOjTNKVG=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T11:07:08Z',
+        timestamp: '2025-04-29T11:07:08Z',
         content: '인성 교육, 공감 교육, 상호 존중 교육이 먼저입니다.',
         reactions: {
             useful: 41,
@@ -11884,7 +11550,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@elrakim456',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kzGuByNabw3B1kzNNzc_XrMAk-ai3f1Hoynxf_Sj8=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T07:21:11Z',
+        timestamp: '2025-04-29T07:21:11Z',
         content: '현행 생기부나 교과전형보다 훨씬 공정할 제도로 보이네요.\n환영합니다.',
         reactions: {
             useful: 51,
@@ -11905,7 +11571,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@ck6554',
                 author_profile_image:
                     'https://yt3.ggpht.com/eSAdNAH01Dw2xhwoone2z2I6PuNhRiQkLMwGivmKP2LQekcer9BZ8Guwg_poC0VcHfVkBFgjYw=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-15T17:14:51Z',
+                timestamp: '2025-04-30T17:14:51Z',
                 content:
                     '불평등 편법꼼수 수시전형 특별전형 2000개 전형이나 대폭 축소시키거나 없애자고. 그나마 제일 공정한 국시 공시 정시가 답.',
                 reactions: {
@@ -11926,7 +11592,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@엠케이-c8h',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l_vz8lJGfg2bwi2pGBhVXDVOQv3sdA3hEvYZUdGueAWg=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:43:40Z',
+        timestamp: '2025-04-29T08:43:40Z',
         content:
             '진짜 좋은 지적입니다\n적성도 모르고 기계도 아니고 외우기만 하는 교육. 시대에 맞지않는것 같습니다\n인문교양 수업도 꼭 넣어주세요',
         reactions: {
@@ -11949,7 +11615,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@yoonjinpark1403',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kM8VelfH9RHkWEShCWtLfEAjQOkFfU8Sfi8-D7gJ0=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:36:37Z',
+        timestamp: '2025-04-29T13:36:37Z',
         content: '수능 여러번이 좋다는 애들은 일단 최상위권은 아님 ㅋㅋㅋㅋㅋㅋ',
         reactions: {
             useful: 94,
@@ -11971,7 +11637,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@정승용-p5f',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l9l-9STKIlzYMi0LbEzIp6swqRp5Djo2fmGl9s0OoCQ3M=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-15T11:52:07Z',
+        timestamp: '2025-04-30T11:52:07Z',
         content:
             '수능은 3~4번 치는거보다 차라리 대학교 가기 위한 기초수학수준만 판단하는 정도로 모든 학생 8월쯤에 전과목 절대평가 제도로 보고 더 높은 대학가고싶은 애들은 서울대를 포함한 지거국 전형 그리고 사립대 최상위권 학교 시험전형으로 나눠서 11월에 시험 한번 더 치게 하는 게 좋음 그러고 12월에는 진학하고자하는 대학 학과 논술 시험보면 좋을 듯(편입시험제도처럼)  이왕하는 거  국가장학금도 국립대로 한정해버리고 중고교 통합은 좋아보임',
         reactions: {
@@ -11994,7 +11660,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@윤채한-i8k',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_ku-A8ZJeDChgAQFMJrdlfR4sW_DQ3sdssUpW8dIks=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T12:29:01Z',
+        timestamp: '2025-04-29T12:29:01Z',
         content: '학생들한테 투표해보고 했으면 좋겠네요',
         reactions: {
             useful: 25,
@@ -12016,7 +11682,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@행운-f9b',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_ko8Jtyblk6GsYRLvMpXox7624vTk8qh5HIbY4ntk0gbS7uLzED0vgws857sAlVUWTdDjTWgoHC=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:57:37Z',
+        timestamp: '2025-04-29T08:57:37Z',
         content: '수행 좀 없애고요.. 학제 통합은 반대입니다... 현실상 불가능합니다..',
         reactions: {
             useful: 95,
@@ -12038,7 +11704,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@hyn_thj',
         author_profile_image:
             'https://yt3.ggpht.com/VEERXxzcA0NoPgtE-wbkdWPm5ANwQYeQbt6bd7leUIuuWE3wfQMvPV3qfhwge_U2305rVP_D-Q=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T23:15:44Z',
+        timestamp: '2025-04-29T23:15:44Z',
         content: '미국 sat처럼 일년에 여러번 보게 해달라',
         reactions: {
             useful: 45,
@@ -12060,7 +11726,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@오성후-r5j',
         author_profile_image:
             'https://yt3.ggpht.com/UltC-mHdvW7T0CzZYNfEVuGhF6Nsj7KbZINsDHgplkCZ3xfdz4MMDzly4FxTnUZCAJzK_WoN=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T21:46:47Z',
+        timestamp: '2025-04-29T21:46:47Z',
         content:
             '수능보다 고등학교때는 대학에서 공부할수 있는 꼭 필요한 기본 지식만 습득하면 원하는 과입학이 가능하게 해주고 대학안에서 철저한 검증 으로 졸업시키는 방안은 어떻습니까?',
         reactions: {
@@ -12083,7 +11749,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@브라운-b9s',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_kXaKnUXdxutu4rz_d5zRGtqBE7p48D6XdeFyomXrhCsg=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T19:27:47Z',
+        timestamp: '2025-04-29T19:27:47Z',
         content: '1년에 한번은 ㄹㅇ 가혹함',
         reactions: {
             useful: 37,
@@ -12105,7 +11771,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@crushpear5653',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mYUFfcJCGsO9d-CMEmbK0MUI2_NYVsopAagySYQmK4Yoo=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-15T16:31:02Z',
+        timestamp: '2025-04-30T16:31:02Z',
         content: '또 어디서 외국꺼 갖고 와서 애들.상대로 실험 하는거 보소 0:57',
         reactions: {
             useful: 62,
@@ -12127,7 +11793,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@헤르마노스-123',
         author_profile_image:
             'https://yt3.ggpht.com/fHBY5x0QIOefg98fSwvHyDHISe3PCjf70wuXouYz27zTpZQvDLG0Fkmvlk2HG62oLh7LEWs-=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T08:31:56Z',
+        timestamp: '2025-04-29T08:31:56Z',
         content:
             '무전공 늘리는건 좋은거같음 19살까지 수능공부만 하던 애가 20살 되자마자 어떻게 진로를 정하겠음?',
         reactions: {
@@ -12155,7 +11821,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@나-f3d-v3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/UrTr97GeTm7BdoK2SYeD-Vr4c-81io0-cKJ5-gjNwAzMZ031J4Ck4tv9tNVREjTegCRS_l_paA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:46:32Z',
+                timestamp: '2025-04-29T08:46:32Z',
                 content:
                     '난 오히려 반대\n청소년기에 진로 관련 활동을 늘려서 꿈을 쫒을 시기에 꿈을 꿀 수 있게 해줬으면 좋겠음\n성인이 되면 꿈을 쫒지 못한다는 말이 아니라 청소년기에 자기 좋아하는거 하나 못찾고 수능공부만 하는게 안타깝다는 말임',
                 reactions: {
@@ -12174,7 +11840,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@나-f3d-v3y',
                 author_profile_image:
                     'https://yt3.ggpht.com/UrTr97GeTm7BdoK2SYeD-Vr4c-81io0-cKJ5-gjNwAzMZ031J4Ck4tv9tNVREjTegCRS_l_paA=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:47:13Z',
+                timestamp: '2025-04-29T08:47:13Z',
                 content: '무전공을 늘리는건 본질적 해결책이 아니라고 생각함',
                 reactions: {
                     useful: 5,
@@ -12192,7 +11858,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@tongfan',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nRm-xqfLJJWynoHGMhyHMwYUsNZJiWKxev5sYnIaf7KvGvXFXY-L9EqaMrhr3VzoI0SQ=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:57:10Z',
+                timestamp: '2025-04-29T08:57:10Z',
                 content:
                     'ㅇㄱㄹㅇ... 고등학교 중학교때 본인 진로 못찾고 무작정 공부만 해서 그냥 본인 맞는 학과도 아니고 높은 학과라고 무작정 쓰는거 여럿 봄. 그 학과 분야 좋아하는 애들, 관심있는 애들이 그런 애들때문에 못들어가는게 너무 안타까움. 적극 찬성.',
                 reactions: {
@@ -12211,7 +11877,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@에둥',
                 author_profile_image:
                     'https://yt3.ggpht.com/2oADUt73Ddt20egxWmhedrFnWO0sBQuuFsEVdEWtdvMAZhPzf07L5YQx1plmTxD5Zvr4F2Nhjwk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:57:39Z',
+                timestamp: '2025-04-29T08:57:39Z',
                 content: '저도 반대.. 무전공은.. 시간만 버리는짓 같음..',
                 reactions: {
                     useful: 28,
@@ -12229,7 +11895,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@푸라면-i4i',
                 author_profile_image:
                     'https://yt3.ggpht.com/0d6mMw6q9JVOMYIrTp435Ew33O3eQuSBt9E3SidjMCTnlPZKfMAuauna11PJI9t2HdfdJlpG=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:57:56Z',
+                timestamp: '2025-04-29T08:57:56Z',
                 content: '댓글 수준이 높네',
                 reactions: {
                     useful: 19,
@@ -12249,7 +11915,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@하얀그림자-u6u',
         author_profile_image:
             'https://yt3.ggpht.com/WuXosJk2aHaeicqTo0obsYcWIbrZEd844Q2kncNRsZkQwJckDS2DWXYAVpU15nUJldE01Z6Q=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T17:41:30Z',
+        timestamp: '2025-04-29T17:41:30Z',
         content: '여러번 보는거 찬성함',
         reactions: {
             useful: 18,
@@ -12271,7 +11937,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@user-dz2qg4rg6g',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_mNkj4pW6jUvChG4gBzsrYlBtzdpsU-SuNMu6MPKVmDoCxY2_D05vAOfPJE2IATJUm0Sw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T04:48:07Z',
+        timestamp: '2025-04-29T04:48:07Z',
         content: '이 입시정책 좋다~👍  채택하고 하루빨리 시행되었으면',
         reactions: {
             useful: 2,
@@ -12280,10 +11946,10 @@ export const COMMENT_DATA_OPINION = [
             creative: 94,
             disagree: 65,
         },
-        time_taken_to_write: 378,
+        time_taken_to_write: 3,
         tab: ['opinion'],
         cluster: 'cluster_A',
-        manipulated: false,
+        manipulated: true,
         reply_ids: [],
         replies: [],
     },
@@ -12293,7 +11959,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@박상욱-m6o',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_n35Kdej-kbSZ1UwC-rWOBuh2XdW2jjqfrabNPY5Mo=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T22:36:44Z',
+        timestamp: '2025-04-29T22:36:44Z',
         content: '수능 다회응시는 괜찮은 듯. 현행은 일년에 단 하루의 운이 넘 크기 작용함.',
         reactions: {
             useful: 1,
@@ -12315,7 +11981,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@jeongwoncho8210',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lu2GvO15oLoFqtmkrWoInS2HA3EvUIuYaSEl5ezEb8Gvc30M1jhmQ3R_ZkJAHMGki_Pw=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T07:55:25Z',
+        timestamp: '2025-04-29T07:55:25Z',
         content: '고교학점제 세대인데 나 때 지나고 저리 변하니 배가 아프네',
         reactions: {
             useful: 67,
@@ -12341,7 +12007,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@영서김-i5i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nX4HfiXY6W7mAzsZPP4xrRi4LVwy3DxJ8n5bP9lQBRqqbrj1s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:17:24Z',
+                timestamp: '2025-04-29T08:17:24Z',
                 content: '고3인데 제대로된 체험학습 한번 못가본게 한이네...',
                 reactions: {
                     useful: 0,
@@ -12359,7 +12025,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@홍길동-q9g4h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ngRLwJsm-2H8xp7qj8udZmOl7OF05RcMDkp8Vq4vpmXzk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T08:23:38Z',
+                timestamp: '2025-04-29T08:23:38Z',
                 content: '​@영서김-i5i수학여행도 못가본 세대도 있음 ㅋㅋ',
                 reactions: {
                     useful: 43,
@@ -12377,7 +12043,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@영서김-i5i',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_nX4HfiXY6W7mAzsZPP4xrRi4LVwy3DxJ8n5bP9lQBRqqbrj1s=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:21:28Z',
+                timestamp: '2025-04-29T09:21:28Z',
                 content: '@@홍길동-q9g4h 아 홍길동 시절이면... ㅇㅈ',
                 reactions: {
                     useful: 67,
@@ -12395,7 +12061,7 @@ export const COMMENT_DATA_OPINION = [
                 author_name: '@홍길동-q9g4h',
                 author_profile_image:
                     'https://yt3.ggpht.com/ytc/AIdro_ngRLwJsm-2H8xp7qj8udZmOl7OF05RcMDkp8Vq4vpmXzk=s48-c-k-c0x00ffffff-no-rj',
-                timestamp: '2025-04-14T09:28:11Z',
+                timestamp: '2025-04-29T09:28:11Z',
                 content: '@영서김-i5i 04인데 세월호 산불 코로나 3연타로 수학여행못감 ㅋㅋ',
                 reactions: {
                     useful: 96,
@@ -12415,7 +12081,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@betterthanpast1869',
         author_profile_image:
             'https://yt3.ggpht.com/hk-zZo84msiQanNKSlq1fcNAWM6dnDUMvuxBsBch76hoTBPJbiLq-ockNMi6gtsY-e0oLanO=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T15:07:10Z',
+        timestamp: '2025-04-29T15:07:10Z',
         content: '학생들 수능에 대한 스트레스만 3배 4배 늘 거 같은데',
         reactions: {
             useful: 76,
@@ -12437,7 +12103,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@wayfereralpha7072',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_l4A_BpCZaqcGs5IslCgAFDKKpaDpf--FtwlXil1so=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:03:03Z',
+        timestamp: '2025-04-29T09:03:03Z',
         content: '일단 내신 학생부부터 어떻게 좀 해줘요 ㅠ',
         reactions: {
             useful: 28,
@@ -12459,7 +12125,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@leechanghyun',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_lYssVhZTX7fKLDkFM5Cx100zMmDE5cEljUYSXxfu4=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T13:04:00Z',
+        timestamp: '2025-04-29T13:04:00Z',
         content:
             '애초에 한번만 보는게 아니라 여러번의 기회로 주는거라면 좋은거 같음. 교육과정의 변화 때문에 걱정되는건 아는데 더 좋은 결과가 기다리고 있다면 해보는게 맞는거 같고 모든 수험생 그리고 학생분들 부디 파이팅!',
         reactions: {
@@ -12482,7 +12148,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@user-sounkaheeari',
         author_profile_image:
             'https://yt3.ggpht.com/BIn4hpEsGme___-YibkIJV9Sl-CEmA-6LHkS_doAqjOC9pvhJxFlVw-dpGYBHJq2NBnj6jS97Ac=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T11:03:58Z',
+        timestamp: '2025-04-29T11:03:58Z',
         content:
             '웬만한 입시제도를 예전에 다 해본 것 같은데 입학은 쉽게 졸업은 어렵게 전공은 성적순으로 나중에 정하게 하고...이것도 졸업 안시키키면 어쩌냐고 난리쳐도 중단!!!\n고등졸업자들의 가는 직업들이 안전하고 벌이로 먹고 살만해져야 한국의 모든 문제가 해결...저출산문제까지도',
         reactions: {
@@ -12505,7 +12171,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@진석최-f1i',
         author_profile_image:
             'https://yt3.ggpht.com/ytc/AIdro_n3AexbIABbMKlogUR0dPQIElzbRy40MFOmAi6C0boN4j398k0=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-15T10:35:25Z',
+        timestamp: '2025-04-30T10:35:25Z',
         content:
             '수능 3번은 진짜 필요하다고느낌.... 본인은 군대갔다와서 수능다시보고 급수직상승한 사람으로써 어릴때 교육기회가 사람마다 틀림. 그리고 자율학습 경험도 틀리고, 본인은 군대로 인한 인내심으로 공부습관생긴사람으로써, 물론 공부도 하다보면 자기노하우가 생기고....\n한번의 수능으로 어릴때 1~2년이상 버리는 경우가 많음..  이런걸 방지하기위해서라도 필요하다고생각됨 \n어떤사람들은 공부가 재능의 영역이라하지만 그건진짜 소수가 대부분 노력하면 가능해진다고 생각함.\n뇌도 습관의 의해 각인됨..\n전국민 상향 평준화된 학습 수준은 국가 경쟁력도 증가하겠지',
         reactions: {
@@ -12528,7 +12194,7 @@ export const COMMENT_DATA_OPINION = [
         author_name: '@오정-p4j',
         author_profile_image:
             'https://yt3.ggpht.com/Pzbd0zEItrzksa2Ll6QASG778FDCXE1mj3lrSbUpkZN0ceqCAwPwBivCK0qmzkdn7-lGb8R4fg=s48-c-k-c0x00ffffff-no-rj',
-        timestamp: '2025-04-14T09:24:15Z',
+        timestamp: '2025-04-29T09:24:15Z',
         content: '당연한 조치. 내신 비율이 과하게 커지면서 초등생 부터 사교육 열기가 커짐.',
         reactions: {
             useful: 6,
@@ -12549,7 +12215,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B0',
         author_name: '@user_B0',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:00:00Z',
+        timestamp: '2025-05-11T09:00:00Z',
         content: '개혁이 아니라 혼란만 가중될 거예요. 현실을 생각하고 말을 해야지',
         reactions: {
             useful: 33,
@@ -12570,7 +12236,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B1',
         author_name: '@user_B1',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:05:00Z',
+        timestamp: '2025-05-11T09:05:00Z',
         content: '교수 1년에 네번씩 가둬놓고 문제 출제? 니들이 할거 아니면 조용히 하셈.',
         reactions: {
             useful: 84,
@@ -12591,7 +12257,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B2',
         author_name: '@user_B2',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:10:00Z',
+        timestamp: '2025-05-11T09:10:00Z',
         content: '학습 공백, 교사 업무량 증가도 고려해야죠.',
         reactions: {
             useful: 16,
@@ -12612,7 +12278,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B3',
         author_name: '@user_B3',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:15:00Z',
+        timestamp: '2025-05-11T09:15:00Z',
         content: '시험 난이도 조절 실패하면 대혼란일 듯.',
         reactions: {
             useful: 26,
@@ -12633,7 +12299,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B4',
         author_name: '@user_B4',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:20:00Z',
+        timestamp: '2025-05-11T09:20:00Z',
         content: '이런 안은 현실을 모르는 사람들이 만든 듯.',
         reactions: {
             useful: 63,
@@ -12654,7 +12320,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B5',
         author_name: '@user_B5',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:25:00Z',
+        timestamp: '2025-05-11T09:25:00Z',
         content: '예전에 수능 두 번 했다가 망한 전례가 있어요.',
         reactions: {
             useful: 13,
@@ -12675,7 +12341,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B6',
         author_name: '@user_B6',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:30:00Z',
+        timestamp: '2025-05-11T09:30:00Z',
         content: '어차피 또 상위권만 유리해지는 구조죠.',
         reactions: {
             useful: 23,
@@ -12695,7 +12361,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_B6_0',
                 author_name: '@reply_user_B6_0',
                 author_profile_image: 'dummy_profile_image_B6_0.png',
-                timestamp: '2025-04-27T23:11:34Z',
+                timestamp: '2025-05-12T23:11:34Z',
                 content: '일단 이사람은 상위권 아닐듯 ㅋㅋ',
                 reactions: {
                     useful: 81,
@@ -12712,7 +12378,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_B6_1',
                 author_name: '@reply_user_B6_1',
                 author_profile_image: 'dummy_profile_image_B6_1.png',
-                timestamp: '2025-04-27T23:15:00Z',
+                timestamp: '2025-05-12T23:15:00Z',
                 content: '상위권이 유리한 건 맞지만, 이건 좀 다른 문제 아닌가요?',
                 reactions: {
                     useful: 45,
@@ -12729,7 +12395,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_B6_2',
                 author_name: '@reply_user_B6_2',
                 author_profile_image: 'dummy_profile_image_B6_2.png',
-                timestamp: '2025-04-27T23:20:00Z',
+                timestamp: '2025-05-12T23:20:00Z',
                 content: '수능이 상위권 유리한 건 어쩔 수 없는 현실이죠.',
                 reactions: {
                     useful: 12,
@@ -12746,7 +12412,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_B6_3',
                 author_name: '@reply_user_B6_3',
                 author_profile_image: 'dummy_profile_image_B6_3.png',
-                timestamp: '2025-04-27T23:25:00Z',
+                timestamp: '2025-05-12T23:25:00Z',
                 content: '그렇다고 해서 이 제도가 나쁜 건 아니지',
                 reactions: {
                     useful: 29,
@@ -12765,7 +12431,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B7',
         author_name: '@user_B7',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:35:00Z',
+        timestamp: '2025-05-11T09:35:00Z',
         content: '수능을 여러 번 보면 사교육만 더 심해질 것 같은데.',
         reactions: {
             useful: 95,
@@ -12786,7 +12452,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B8',
         author_name: '@user_B8',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:40:00Z',
+        timestamp: '2025-05-11T09:40:00Z',
         content: '제도 바꾸기 전에 현장 의견 먼저 듣는 게 맞죠.',
         reactions: {
             useful: 43,
@@ -12807,7 +12473,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_B9',
         author_name: '@user_B9',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:45:00Z',
+        timestamp: '2025-05-11T09:45:00Z',
         content: '항상 이런 개혁안은 학생들 의견 받는 걸 본적이 없음.',
         reactions: {
             useful: 83,
@@ -12828,7 +12494,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C0',
         author_name: '@user_C0',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:00:00Z',
+        timestamp: '2025-05-11T09:00:00Z',
         content: '찬성하는 이유도 이해는 가는데, 너무 성급한 것 같아요. 제도 바꾸는 건 신중해야죠.',
         reactions: {
             useful: 4,
@@ -12849,7 +12515,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C1',
         author_name: '@user_C1',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:05:00Z',
+        timestamp: '2025-05-11T09:05:00Z',
         content: '중립적으로 보고 싶네요. 좋아보이긴 하지만 무조건 찬성하는것도 위험한 것 같아요',
         reactions: {
             useful: 9,
@@ -12870,7 +12536,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C2',
         author_name: '@user_C2',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:10:00Z',
+        timestamp: '2025-05-11T09:10:00Z',
         content: '너무 급진적이라 찬반이 갈리는 것도 무리는 아님.',
         reactions: {
             useful: 26,
@@ -12891,7 +12557,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C3',
         author_name: '@user_C3',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:15:00Z',
+        timestamp: '2025-05-11T09:15:00Z',
         content: '좋은 개혁일 수도 있지만 학생들 부담이 커질 수도 있을 것 같음',
         reactions: {
             useful: 4,
@@ -12912,7 +12578,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C4',
         author_name: '@user_C4',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:20:00Z',
+        timestamp: '2025-05-11T09:20:00Z',
         content: '충분한 논의가 선행돼야 한다고 봄',
         reactions: {
             useful: 49,
@@ -12933,7 +12599,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C5',
         author_name: '@user_C5',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:25:00Z',
+        timestamp: '2025-05-11T09:25:00Z',
         content: '학생 의견도 들어봐야할듯요',
         reactions: {
             useful: 33,
@@ -12953,7 +12619,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_C5_0',
                 author_name: '@reply_user_C5_0',
                 author_profile_image: 'dummy_profile_image_C5_0.png',
-                timestamp: '2025-04-27T23:11:34Z',
+                timestamp: '2025-05-12T23:11:34Z',
                 content: '학생 의견을 뭐 이 나라가 들은 적이 있나요? ㅋㅋ',
                 reactions: {
                     useful: 81,
@@ -12970,7 +12636,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_C5_1',
                 author_name: '@reply_user_C5_1',
                 author_profile_image: 'dummy_profile_image_C5_1.png',
-                timestamp: '2025-04-27T23:15:00Z',
+                timestamp: '2025-05-12T23:15:00Z',
                 content:
                     '@@reply_user_C5_0 그렇게 너무 부정적으로만 보지 마세요. 목소리를 내다보면 언젠가는 들릴 날이 올 거예요.',
                 reactions: {
@@ -12988,7 +12654,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'dummy_reply_author_C5_2',
                 author_name: '@reply_user_C5_2',
                 author_profile_image: 'dummy_profile_image_C5_2.png',
-                timestamp: '2025-04-27T23:20:00Z',
+                timestamp: '2025-05-12T23:20:00Z',
                 content:
                     '저는 학생인데요, 해당 개혁안에 대해 대찬성하는 입장이에요. 나름 학생 의견 잘 파악한듯?',
                 reactions: {
@@ -13008,7 +12674,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C6',
         author_name: '@user_C6',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:30:00Z',
+        timestamp: '2025-05-11T09:30:00Z',
         content: '이런 개혁은 학생들 의견을 먼저 들어야 한다고 생각해요.',
         reactions: {
             useful: 51,
@@ -13029,7 +12695,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C7',
         author_name: '@user_C7',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:35:00Z',
+        timestamp: '2025-05-11T09:35:00Z',
         content: '시범 운영부터 해보는 건 어떨까요?',
         reactions: {
             useful: 96,
@@ -13050,7 +12716,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C8',
         author_name: '@user_C8',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:40:00Z',
+        timestamp: '2025-05-11T09:40:00Z',
         content:
             '제아무리 서울대 교수라고 해도 현장 어떻게 돌아가는지 잘 모름. 이런 개혁은 교사들 끼고 하기 전까진 중립적으로 봐야함',
         reactions: {
@@ -13072,7 +12738,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_C9',
         author_name: '@user_C9',
         author_profile_image: '',
-        timestamp: '2025-05-26T09:45:00Z',
+        timestamp: '2025-05-11T09:45:00Z',
         content: '일단 추진 방향은 흥미롭긴 하네, 어떻게 되든 잘 풀어갔으면',
         reactions: {
             useful: 68,
@@ -13093,7 +12759,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e0',
         author_name: '@critic_e0',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:03:00Z',
+        timestamp: '2025-04-30T12:03:00Z',
         content: '이게 다 전교조 때문이지 전교조가 나라 교육 말아먹은 거 모르는 사람 있냐?',
         reactions: {
             useful: 76,
@@ -13114,7 +12780,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e1',
         author_name: '@critic_e1',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:07:00Z',
+        timestamp: '2025-04-30T12:07:00Z',
         content: '전 정권이 교육을 망쳤지, 전교조랑 손잡고 쇼나 하고.',
         reactions: {
             useful: 43,
@@ -13134,7 +12800,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_b59bfff5',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
+                timestamp: '2025-05-11T15:00:00Z',
                 content: '너무 멍청한 소리다. 먹이 금지',
                 reactions: {
                     useful: 4,
@@ -13153,7 +12819,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e2',
         author_name: '@critic_e2',
         author_profile_image: '',
-        timestamp: '2025-04-15T11:52:00Z',
+        timestamp: '2025-04-30T11:52:00Z',
         content: '전 정권은 교육이 아니라 세뇌였다, 전교조 덕분에.',
         reactions: {
             useful: 14,
@@ -13173,7 +12839,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_d38aa870',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
+                timestamp: '2025-05-11T15:00:00Z',
                 content: '도대체 뭘 배우고 살아왔냐?',
                 reactions: {
                     useful: 16,
@@ -13190,7 +12856,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_20505fef',
                 author_name: '@replyUser_1',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:01:00Z',
+                timestamp: '2025-05-11T15:01:00Z',
                 content: '비판하려면 대안도 좀 내라.',
                 reactions: {
                     useful: 18,
@@ -13209,7 +12875,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e3',
         author_name: '@critic_e3',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:05:00Z',
+        timestamp: '2025-04-30T12:05:00Z',
         content: '입시를 전교조 입맛대로 바꾸더니 지금 꼴 참 잘 돌아간다.',
         reactions: {
             useful: 71,
@@ -13230,7 +12896,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e4',
         author_name: '@critic_e4',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:06:00Z',
+        timestamp: '2025-04-30T12:06:00Z',
         content: '정권 잡고 전교조 밀어주더니 학생들은 실험용이냐?',
         reactions: {
             useful: 89,
@@ -13251,7 +12917,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e5',
         author_name: '@critic_e5',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:03:00Z',
+        timestamp: '2025-04-30T12:03:00Z',
         content: '전교조 말만 듣고 만든 정책이 다 지금 문제 만드는 거야.',
         reactions: {
             useful: 58,
@@ -13272,7 +12938,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e6',
         author_name: '@critic_e6',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:06:00Z',
+        timestamp: '2025-04-30T12:06:00Z',
         content: '그놈의 전교조, 왜 아직도 안 없애냐?',
         reactions: {
             useful: 11,
@@ -13292,8 +12958,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_f2087f6c',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
-                content: '개소리도 정도껏 해라.',
+                timestamp: '2025-05-11T15:00:00Z',
+                content: '정도껏 하세요.',
                 reactions: {
                     useful: 3,
                     agree: 8,
@@ -13311,7 +12977,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e7',
         author_name: '@critic_e7',
         author_profile_image: '',
-        timestamp: '2025-05-26T13:07:00Z',
+        timestamp: '2025-05-11T13:07:00Z',
         content:
             '그때 정부는 학생들 고통은 안중에도 없었어. 지들 자식들 좋은 대학 보내는 것만 관심 있었지',
         reactions: {
@@ -13332,7 +12998,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_f1961c3d',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
+                timestamp: '2025-05-11T15:00:00Z',
                 content: '그렇게 불만이면 니가 정치를 해라.',
                 reactions: {
                     useful: 2,
@@ -13349,8 +13015,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_7b25c4ce',
                 author_name: '@replyUser_1',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:01:00Z',
-                content: '이런 새기들 특) 말만 많음 ㅋㅋ',
+                timestamp: '2025-05-11T15:01:00Z',
+                content: '이런 애들은 말만 많더라',
                 reactions: {
                     useful: 25,
                     agree: 22,
@@ -13368,8 +13034,8 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e8',
         author_name: '@critic_e8',
         author_profile_image: '',
-        timestamp: '2025-04-15T11:55:00Z',
-        content: '지들 자리 지키려고 엉망으로 만든 정책 아직도 치우질 못했네.',
+        timestamp: '2025-04-30T11:55:00Z',
+        content: '자기들 자리 지키려고 엉망으로 만든 정책 아직도 치우질 못했네.',
         reactions: {
             useful: 62,
             agree: 10,
@@ -13388,8 +13054,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_901ed6aa',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
-                content: '뭘 알고 좀 말 해라 무식한넘아',
+                timestamp: '2025-05-11T15:00:00Z',
+                content: '뭘 알고 좀 말 해라',
                 reactions: {
                     useful: 5,
                     agree: 5,
@@ -13405,8 +13071,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_0b01c0ca',
                 author_name: '@replyUser_1',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:01:00Z',
-                content: '진짜 한심하다.',
+                timestamp: '2025-05-11T15:01:00Z',
+                content: '진짜 어휴,,,',
                 reactions: {
                     useful: 2,
                     agree: 22,
@@ -13424,7 +13090,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e9',
         author_name: '@critic_e9',
         author_profile_image: '',
-        timestamp: '2025-04-15T11:50:00Z',
+        timestamp: '2025-04-30T11:50:00Z',
         content: '정권이 바뀌어도 썩은 물은 안 바뀌더라.',
         reactions: {
             useful: 60,
@@ -13444,8 +13110,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_7f961142',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
-                content: '정치병 도졌냐?',
+                timestamp: '2025-05-11T15:00:00Z',
+                content: '세상 만사가 다 정치로 보이지 아주',
                 reactions: {
                     useful: 30,
                     agree: 28,
@@ -13463,7 +13129,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e10',
         author_name: '@critic_e10',
         author_profile_image: '',
-        timestamp: '2025-04-15T11:52:00Z',
+        timestamp: '2025-04-30T11:52:00Z',
         content: '전 정권은 교육을 정치 도구로 써먹은 거 밖에 없음.',
         reactions: {
             useful: 61,
@@ -13484,7 +13150,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e11',
         author_name: '@critic_e11',
         author_profile_image: '',
-        timestamp: '2025-04-15T11:56:00Z',
+        timestamp: '2025-04-30T11:56:00Z',
         content: '그 시절 교육부는 그냥 청와대 하청업체였지.',
         reactions: {
             useful: 82,
@@ -13504,7 +13170,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_90dac4be',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
+                timestamp: '2025-05-11T15:00:00Z',
                 content: '아는 척은 전문가한테 맡겨라.',
                 reactions: {
                     useful: 20,
@@ -13521,7 +13187,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_fb091db5',
                 author_name: '@replyUser_1',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:01:00Z',
+                timestamp: '2025-05-11T15:01:00Z',
                 content: '듣기 민망하니까 그만 좀 하세요 할아버지.',
                 reactions: {
                     useful: 7,
@@ -13540,8 +13206,8 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e12',
         author_name: '@critic_e12',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:09:00Z',
-        content: '지금 고생하는 학생들 보면 진짜 화남. 누구 탓이겠냐? 다 청와대 그자식 탓이지',
+        timestamp: '2025-04-30T12:09:00Z',
+        content: '지금 고생하는 학생들 보면 진짜 화남. 누구 탓이겠냐? 다 청와대 그녀석 탓이지',
         reactions: {
             useful: 71,
             agree: 30,
@@ -13561,7 +13227,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e13',
         author_name: '@critic_e13',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:00:00Z',
+        timestamp: '2025-04-30T12:00:00Z',
         content: '어른들 장난질에 학생들 인생이 왔다 갔다 한 거지. 하여간 그 정권 사람들이란',
         reactions: {
             useful: 34,
@@ -13581,7 +13247,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_064d1015',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
+                timestamp: '2025-05-11T15:00:00Z',
                 content: '팩트 없이 지껄이지만 말고.',
                 reactions: {
                     useful: 2,
@@ -13598,8 +13264,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_ba5f913d',
                 author_name: '@replyUser_1',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:01:00Z',
-                content: '헛소리 그만하고 공부 좀 해라.',
+                timestamp: '2025-05-11T15:01:00Z',
+                content: '공부 좀 해라.',
                 reactions: {
                     useful: 14,
                     agree: 13,
@@ -13615,7 +13281,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_5e639b7f',
                 author_name: '@replyUser_2',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:02:00Z',
+                timestamp: '2025-05-11T15:02:00Z',
                 content: '제대로 알고 떠드는 거냐?',
                 reactions: {
                     useful: 29,
@@ -13634,7 +13300,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e14',
         author_name: '@critic_e14',
         author_profile_image: '',
-        timestamp: '2025-04-15T11:56:00Z',
+        timestamp: '2025-04-30T11:56:00Z',
         content: '이 모든 난장판은 지난 정권이 씨 뿌린 거임.',
         reactions: {
             useful: 20,
@@ -13655,7 +13321,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e15',
         author_name: '@critic_e15',
         author_profile_image: '',
-        timestamp: '2025-04-15T12:08:00Z',
+        timestamp: '2025-04-30T12:08:00Z',
         content: '당시 장관이 누군지만 봐도 답 나오잖아.',
         reactions: {
             useful: 43,
@@ -13676,8 +13342,8 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e16',
         author_name: '@critic_e16',
         author_profile_image: '',
-        timestamp: '2025-05-26T13:16:00Z',
-        content: '학생들 이용해서 지들 정치질만 했던 인간들. 당장 총살시켜도 모자라다!!',
+        timestamp: '2025-05-11T13:16:00Z',
+        content: '학생들 이용해서 지들 정치질만 했던 인간들!!',
         reactions: {
             useful: 35,
             agree: 39,
@@ -13696,7 +13362,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_869bd5ef',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
+                timestamp: '2025-05-11T15:00:00Z',
                 content: '할아버지 댓글 좀 그만 다시고 들어가서 주무세요',
                 reactions: {
                     useful: 16,
@@ -13715,7 +13381,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e17',
         author_name: '@critic_e17',
         author_profile_image: '',
-        timestamp: '2025-05-26T13:17:00Z',
+        timestamp: '2025-05-11T13:17:00Z',
         content: '정권 바뀌고 나서도 책임진 사람 하나 없더라?',
         reactions: {
             useful: 34,
@@ -13736,7 +13402,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e18',
         author_name: '@critic_e18',
         author_profile_image: '',
-        timestamp: '2025-05-26T13:18:00Z',
+        timestamp: '2025-05-11T13:18:00Z',
         content: '이딴 거 만든 놈들은 다 어디 숨었냐?',
         reactions: {
             useful: 63,
@@ -13757,8 +13423,8 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'dummy_author_e19',
         author_name: '@critic_e19',
         author_profile_image: '',
-        timestamp: '2025-05-26T13:19:00Z',
-        content: '그때 XXX 말 안 듣고 반대하던 사람들 다 옳았지, 지금 와서 보니까.',
+        timestamp: '2025-05-11T13:19:00Z',
+        content: '그때 김철수 대표님 말 안 듣고 반대하던 사람들 다 옳았지, 지금 와서 보니까.',
         reactions: {
             useful: 48,
             agree: 73,
@@ -13777,8 +13443,8 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_8cfccf10',
                 author_name: '@replyUser_0',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:00:00Z',
-                content: '그딴 말은 집구석에서나 해라.',
+                timestamp: '2025-05-11T15:00:00Z',
+                content: '그런 말은 집에서나 하세요.',
                 reactions: {
                     useful: 8,
                     agree: 2,
@@ -13794,7 +13460,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'reply_author_dfbd07ce',
                 author_name: '@replyUser_2',
                 author_profile_image: '',
-                timestamp: '2025-05-26T15:02:00Z',
+                timestamp: '2025-05-11T15:02:00Z',
                 content: '이걸 말이라고 하냐?',
                 reactions: {
                     useful: 7,
@@ -13813,7 +13479,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'question_author_2',
         author_name: '@questionUser2',
         author_profile_image: '',
-        timestamp: '2025-05-26T17:02:00Z',
+        timestamp: '2025-05-11T17:02:00Z',
         content:
             '전 고등학생인데 고등학교 때 진로 어떻게 정하는 게 좋을까요? 현 제도에서 고등학생이 진로를 탐색하고 결정하는건 너무 어려운 것 같아요 ㅜㅜ',
         reactions: {
@@ -13834,7 +13500,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'answer_author_90280fc5',
                 author_name: '@answerUser',
                 author_profile_image: '',
-                timestamp: '2025-05-26T17:32:00Z',
+                timestamp: '2025-05-11T17:32:00Z',
                 content:
                     '진로 상담 프로그램 등 사실 제도적으로는 준비 잘 되어있습니다. 홍보가 잘 안되어있는게 좀 안타깝죠. 적극적으로 찾아보시면 좋을듯해요',
                 reactions: {
@@ -13854,7 +13520,7 @@ export const COMMENT_DATA_OPINION = [
         author_id: 'question_author_22',
         author_name: '@questionUser22',
         author_profile_image: '',
-        timestamp: '2025-05-26T17:22:00Z',
+        timestamp: '2025-05-11T17:22:00Z',
         content:
             '자유전공 해봤자 다들 취업 잘되는 과로만 몰릴 것 같아서 개인적으로 반대긴 한데, 구체적 수치 아시는분?',
         reactions: {
@@ -13875,7 +13541,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'answer_author_1a2b3c4d',
                 author_name: '@answerUser',
                 author_profile_image: '',
-                timestamp: '2025-05-26T17:45:00Z',
+                timestamp: '2025-05-11T17:45:00Z',
                 content:
                     '구체적 수치는 모르는데, 우리 학교 자유전공학부는 죄다 컴퓨터공학 아니면 경제학이긴 함ㅋㅋ',
                 reactions: {
@@ -13893,7 +13559,7 @@ export const COMMENT_DATA_OPINION = [
                 author_id: 'answer_author_5e6f7g8h',
                 author_name: '@answerUser',
                 author_profile_image: '',
-                timestamp: '2025-05-26T17:46:00Z',
+                timestamp: '2025-05-11T17:46:00Z',
                 content: '실제로 인기 있는 과로 몰리는 경향이 있죠.',
                 reactions: {
                     useful: 20,
@@ -13907,4 +13573,624 @@ export const COMMENT_DATA_OPINION = [
             },
         ],
     },
+    {
+        comment_id: 'opinion_A1',
+        author_id: 'author_A1',
+        author_name: '@author_A1',
+        author_profile_image: '',
+        timestamp: '2025-05-11T18:00:00Z',
+        content: '자유전공학부는 학생들이 전공을 자유롭게 선택할 수 있는 제도입니다. 이 제도가 도입되면 학생들은 자신의 관심사와 적성에 맞는 전공을 선택할 수 있게 됩니다. 이는 학생들의 학습 동기를 높이고, 다양한 분야에 대한 탐구를 촉진할 것으로 기대됩니다.',
+        reactions: {
+            useful: 45,
+            agree: 60,
+            curious: 30,
+            creative: 25,
+            disagree: 5,
+        },
+        time_taken_to_write: 1,
+        tab: ['information', 'opinion'],
+        cluster: 'cluster_A',
+        manipulated: true,
+        reply_ids: ['opinion_A1.reply0', 'opinion_A1.reply1'],
+        replies: [
+            {
+                comment_id: 'opinion_A1.reply0',
+                author_id: 'reply_author_12345678',
+                author_name: '@replyUser_1',
+                author_profile_image: '',
+                timestamp: '2025-05-11T18:05:00Z',
+                content: '이런 제도가 학생들에게 긍정적인 영향을 미칠 것 같아요. 다양한 전공을 경험할 수 있는 기회가 늘어나니까요.',
+                reactions: {
+                    useful: 20,
+                    agree: 25,
+                    curious: 10,
+                    creative: 5,
+                    disagree: 2,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'opinion_A1.reply1',
+                author_id: 'reply_author_87654321',
+                author_name: '@replyUser_2',
+                author_profile_image: '',
+                timestamp: '2025-05-11T18:10:00Z',
+                content: '하지만, 자유전공학부가 도입되면 학생들이 전공 선택에 어려움을 겪을 수도 있습니다. 전공 선택에 대한 충분한 정보와 지원이 필요할 것 같습니다.',
+                reactions: {
+                    useful: 15,
+                    agree: 10,
+                    curious: 20,
+                    creative: 10,
+                    disagree: 5,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+        ],
+    },
+    {
+        comment_id: 'opinion_A2',
+        author_id: 'author_A2',
+        author_name: '@author_A2',
+        author_profile_image: '',
+        timestamp: '2025-05-11T18:15:00Z',
+        content: '찬성~',
+        reactions: {
+            useful: 50,
+            agree: 70,
+            curious: 20,
+            creative: 10,
+            disagree: 0,
+        },
+        time_taken_to_write: 1,
+        tab: ['opinion'],
+        cluster: 'cluster_A',
+        manipulated: true,
+        reply_ids: [],
+        replies: [],
+    },
+    {
+        comment_id: 'opinion_A3',
+        author_id: 'author_A3',
+        author_name: '@author_A3',
+        author_profile_image: '',
+        timestamp: '2025-05-11T18:20:00Z',
+        content: '와~ 좋다~',
+        reactions: {
+            useful: 55,
+            agree: 65,
+            curious: 25,
+            creative: 15,
+            disagree: 5,
+        },
+        time_taken_to_write: 1,
+        tab: ['opinion'],
+        cluster: 'cluster_A',
+        manipulated: true,
+        reply_ids: [],
+        replies: [],
+    },
+    {
+        comment_id: 'opinion_A3',
+        author_id: 'author_A3',
+        author_name: '@author_A3',
+        author_profile_image: '',
+        timestamp: '2025-05-11T18:20:00Z',
+        content: '완전 좋은듯? 내 프로필처럼',
+        reactions: {
+            useful: 12,
+            agree: 23,
+            curious: 2,
+            creative: 1,
+            disagree: 5,
+        },
+        time_taken_to_write: 1,
+        tab: ['opinion'],
+        cluster: 'cluster_A',
+        manipulated: true,
+        reply_ids: [
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsHbJeN',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsUWoAf',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsJvaxa',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsLdXVA',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsRkTNh',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zsd3MCj',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zs_Ti9-',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvOJnLq',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvjFjnB',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvPMWjH',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvfStk1',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvYPRYo',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvbbYbO',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvYNonr',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvesZqW',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvoNvtR',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZyjbE4r',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zz-AhNm',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZyvB5Ev',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zyv-Tt5',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzFwQP_',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzV9tis',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzE5SCV',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzDFgqo',
+            'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzH6dMi',
+        ],
+        replies: [
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsHbJeN',
+                author_id: 'UCel94OtBrTTQY8itPhIdIGA',
+                author_name: '@pushpampushpam9067',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ytc/AIdro_l8W5KWllpHtNVwc0PMZUAmk3jCFbFn_03gQxIhvmL0JoI=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: '대박👍',
+                reactions: {
+                    useful: 100,
+                    agree: 12,
+                    curious: 42,
+                    creative: 24,
+                    disagree: 89,
+                },
+                time_taken_to_write: 3,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsUWoAf',
+                author_id: 'UCTYj_-I2jlFgNtAf9kjZ4_A',
+                author_name: '@maheshkingahiran1864',
+                author_profile_image:
+                    'https://yt3.ggpht.com/JW0lBnCuMFUacdOL5GH54qgqMIWCTqQ_oPD6X9LJdU5mhXPJryEy1QUc5UV15aL3zkfSvrVZgA=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: '신작을 가져왔구나.. 폰헙에도 없는거 아니노..',
+                reactions: {
+                    useful: 29,
+                    agree: 6,
+                    curious: 95,
+                    creative: 41,
+                    disagree: 2,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsJvaxa',
+                author_id: 'UC1_shhZmOE-axNLl_h3UWCg',
+                author_name: '@nileshyadav8869',
+                author_profile_image:
+                    'https://yt3.ggpht.com/Jho98AtSZOnqRiuMWYABzTJVgfWFTApXxTeF-mJOZsrZaRXbuGAdP6i75ePNnkN0W5b7mer8=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: '보자마자 연속으로 따알따리 처음 쳐봄',
+                reactions: {
+                    useful: 29,
+                    agree: 40,
+                    curious: 22,
+                    creative: 75,
+                    disagree: 45,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsLdXVA',
+                author_id: 'UClIMh8rYbNkGAcx_n5mcj0A',
+                author_name: '@NRKPost77',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ytc/AIdro_mVYsh4_7tPnhk4WYSdJnsULsk1BHYmbthLeH2eoiV5JeggNIweaGnRuf_CWe9Mf5bHig=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 1,
+                    agree: 86,
+                    curious: 37,
+                    creative: 58,
+                    disagree: 67,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZsRkTNh',
+                author_id: 'UCA2jCv2XwJj0hcVokXDHL8w',
+                author_name: '@rkmubarakail4068',
+                author_profile_image:
+                    'https://yt3.ggpht.com/A3blP8vG0aITaJNDrcBTQO7iia23lkJUNE8YJwFuWK8nSbu0h8tmKbY1YimXgOh7Fh2S_rb-zQ=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 77,
+                    agree: 24,
+                    curious: 94,
+                    creative: 96,
+                    disagree: 3,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zsd3MCj',
+                author_id: 'UC9CDj8k2h-wC_K82xDzLuLw',
+                author_name: '@user-ee7zouser-ee7zo7vh3v',
+                author_profile_image:
+                    'https://yt3.ggpht.com/r61jtKm4pVBRxmPPzFAqTzZ0lALeRxF1IGapvWRCx83C4nIB4uT23o5wnLhoZYcqu-ARqK3svA=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 82,
+                    agree: 78,
+                    curious: 27,
+                    creative: 91,
+                    disagree: 7,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zs_Ti9-',
+                author_id: 'UCGGF2LVgDOXxZGk6zdBGxZA',
+                author_name: '@nikulbhaivaghela21',
+                author_profile_image:
+                    'https://yt3.ggpht.com/xKNCOxya82iA5Iwx1XTeRXlwbs9tzFYOJ7iCMuzpvjH-J8Wr3HYx5FmxFAwFD-YUYvanh29dLA=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 15,
+                    agree: 10,
+                    curious: 62,
+                    creative: 20,
+                    disagree: 30,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvOJnLq',
+                author_id: 'UCbHG_0L5OyghUcufUdusHEQ',
+                author_name: '@S.super_FF',
+                author_profile_image:
+                    'https://yt3.ggpht.com/24AIMjMUnoOiDNWabI27pE0N8feoETGWrulVvL7whETQSywSbmX7BcVTO8g6hjVs0VkhPBV6=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: '대박👍',
+                reactions: {
+                    useful: 5,
+                    agree: 58,
+                    curious: 64,
+                    creative: 76,
+                    disagree: 27,
+                },
+                time_taken_to_write: 2,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvjFjnB',
+                author_id: 'UCPsZ8dllzeRvZxmS-tbKZxA',
+                author_name: '@Sharmaa2646',
+                author_profile_image:
+                    'https://yt3.ggpht.com/q2QtE_eu2N62z50WuUHyJHlp03uG9tahm4j1cULYlI0u4dvlSsUOE_wPCeTefu3_baGUuC1sRAk=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 24,
+                    agree: 47,
+                    curious: 85,
+                    creative: 13,
+                    disagree: 80,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvPMWjH',
+                author_id: 'UCWF73mkV8Om7zELll0w0UtQ',
+                author_name: '@PradeepPradeep-m2n',
+                author_profile_image:
+                    'https://yt3.ggpht.com/wpsCCRR93H1hlya8NgRGueBm7_M_-Dmrjc0UP7NydW8d7YiQzl6vi_J47QTw-OZPnBvzA0BD=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 84,
+                    agree: 30,
+                    curious: 85,
+                    creative: 10,
+                    disagree: 53,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvfStk1',
+                author_id: 'UCNJ72xGVNTNN2u7ptCRPxSA',
+                author_name: '@ajjubhai8929',
+                author_profile_image:
+                    'https://yt3.ggpht.com/BCdsH_5fADk76c8dEVBOGWfZO4azRHu6JcZ1R3QnwFW1tm2I5roy0rDti2usnEi6_q1bgAJIGg=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 23,
+                    agree: 36,
+                    curious: 82,
+                    creative: 19,
+                    disagree: 65,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvYPRYo',
+                author_id: 'UCz5O9EWhP7EDv9CpSk1NBtA',
+                author_name: '@হেঁপাহৰএসাজ',
+                author_profile_image:
+                    'https://yt3.ggpht.com/Pe8fDx2dN3F1GwKv0PDO-1Hp6Ac-9vXj7WlEOex2ccbatwAebnWTFYD0ssfyPTCICe5sWidX0w=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: '보자마자 연속으로 따알따리 처음 쳐봄',
+                reactions: {
+                    useful: 3,
+                    agree: 0,
+                    curious: 42,
+                    creative: 24,
+                    disagree: 80,
+                },
+                time_taken_to_write: 0,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvbbYbO',
+                author_id: 'UCpvwmQDzSKSGVw4cWmCbwiA',
+                author_name: '@khatunbibishaikh6677',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ZS9t7NwkALf9wnlip_dNK5VVAZd4-vJaXUuPyJiIwkcwRz1IY8zSQFFpGUtdMWp5sEkc8Piwmw=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 98,
+                    agree: 81,
+                    curious: 55,
+                    creative: 67,
+                    disagree: 76,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvYNonr',
+                author_id: 'UCfdOZCaHtauKnmbhJ9u9Fng',
+                author_name: '@Tejas_99_yt',
+                author_profile_image:
+                    'https://yt3.ggpht.com/VQRR7m67Jt6jx7JBgeaZletelx89k3OyVSboScLsiDWRE0gaHNfwHBkaeX6hOADV2G9Zd4x4yQ=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 56,
+                    agree: 98,
+                    curious: 97,
+                    creative: 23,
+                    disagree: 88,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvesZqW',
+                author_id: 'UCdmWbHhM55zL54-K4tyo5mQ',
+                author_name: '@Jaymaheshwari24',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ytc/AIdro_k8GjNiCECo12FOY9lA7bNUVwYiFLUAtJCer6l41_qK5-6jt4IxJrSx_wW8JAcTX-SIUg=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: '얘꺼 꼭 들어가보셈 생크림 개많이나옴',
+                reactions: {
+                    useful: 57,
+                    agree: 9,
+                    curious: 80,
+                    creative: 56,
+                    disagree: 18,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZvoNvtR',
+                author_id: 'UCJblmhAZD3zkJeaTkzz0CNg',
+                author_name: '@aghav9389',
+                author_profile_image:
+                    'https://yt3.ggpht.com/wadpPlHlww28jdP1X_fWPl-WRpf-ys8Hu845F6hNtG4Phm-dY8nj3vNSZzHkQ7V05GKQ57tO=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:03Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 7,
+                    agree: 96,
+                    curious: 51,
+                    creative: 37,
+                    disagree: 38,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZyjbE4r',
+                author_id: 'UCqUKfZkciehychijZnfAk_w',
+                author_name: '@yadavgaming-vg5ln',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ytc/AIdro_kXORfZuEp_lOgZIIurZSAxaKbEkEEK6Y8Pd354JrT0kfB-maFfTUMYCPOgFz0h50ijeg=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: '고맙다 덕분에 한번 치고 꿀잠자러간다',
+                reactions: {
+                    useful: 46,
+                    agree: 48,
+                    curious: 43,
+                    creative: 77,
+                    disagree: 63,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zz-AhNm',
+                author_id: 'UC7vUbRS7C2rL29bZH9cL4OQ',
+                author_name: '@Allgameing482',
+                author_profile_image:
+                    'https://yt3.ggpht.com/YxESOkqBWsFdzT0wpk8wsI7z1Kcapr3wmnEtwMG6ZfLh29pMaqs2JE43XU4OCC7lGx6R78nkKA=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: '너 어그로가 아니라 진짜였구나ㅋㅋ',
+                reactions: {
+                    useful: 18,
+                    agree: 86,
+                    curious: 40,
+                    creative: 64,
+                    disagree: 7,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZyvB5Ev',
+                author_id: 'UCY2-QBmFgYQ2c94_5Fg1izQ',
+                author_name: '@KatarabhupendrBhupendrka-eq8dl',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ytc/AIdro_lstB3YH641mvD7c0F5CsIK1VohS5sGjDHznzqAxeFzDrKoh35mwiEQPb1tQwNdxYWaWA=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 87,
+                    agree: 73,
+                    curious: 87,
+                    creative: 85,
+                    disagree: 85,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4Zyv-Tt5',
+                author_id: 'UCZaOYhfVKdYpY0xrbnksG4g',
+                author_name: '@DeniseSahu-z4l',
+                author_profile_image:
+                    'https://yt3.ggpht.com/ytc/AIdro_n6uXwQUZQrJSqgJ6ZF2m7yPyU86vA2cV06lZe_vIJ30N0POsPL-swpaX5qoZBX-P1M2A=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 42,
+                    agree: 96,
+                    curious: 52,
+                    creative: 29,
+                    disagree: 78,
+                },
+                time_taken_to_write: 3,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzFwQP_',
+                author_id: 'UCIjwrf1829Q24VjdnkN9Fdw',
+                author_name: '@sarbjeetkaurvlog5049',
+                author_profile_image:
+                    'https://yt3.ggpht.com/8uCqoYCyK4lVMlmrJT9JX1qPAgdujTnLaYqoC2YwVbTo4g9GAM4gZQcs6H5frydVkEzAnLb7GQ=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 33,
+                    agree: 49,
+                    curious: 33,
+                    creative: 63,
+                    disagree: 29,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzV9tis',
+                author_id: 'UCjWe5GybKB56giQhNhy-uPw',
+                author_name: '@all-timebeat2008',
+                author_profile_image:
+                    'https://yt3.ggpht.com/VPT5w2HUHe2LN2HNRFPEOrdZO49cJlGlLxz3rd5I86DOq9SnCyb0SkOXAfIpbLdwb8WBzGgW2A=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 50,
+                    agree: 43,
+                    curious: 37,
+                    creative: 39,
+                    disagree: 17,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzE5SCV',
+                author_id: 'UCH7xpwt4ulSLR8EdY3y0O3w',
+                author_name: '@DancerJITU111',
+                author_profile_image:
+                    'https://yt3.ggpht.com/XKeqOthWEIjtD24efcUstQehDTgtlAay4jLFPhOOTzrc05U8ZEukDdjcNcrS1SIXYFcWO37s=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: '보자마자 연속으로 따알따리 처음 쳐봄',
+                reactions: {
+                    useful: 38,
+                    agree: 81,
+                    curious: 31,
+                    creative: 54,
+                    disagree: 50,
+                },
+                time_taken_to_write: 912,
+                manipulated: false,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzDFgqo',
+                author_id: 'UCVpNvCRry96Vlht7f2C7OBQ',
+                author_name: '@PBGAMING-k9g',
+                author_profile_image:
+                    'https://yt3.ggpht.com/-hlHsnqOxPiaItnSM-jgEjxDUMD14QeLksAK6St2dir6sPeZwCLxcZT9bPK5_QfPYz4fFF13=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: '신작을 가져왔구나.. 폰헙에도 없는거 아니노..',
+                reactions: {
+                    useful: 22,
+                    agree: 40,
+                    curious: 52,
+                    creative: 18,
+                    disagree: 66,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+            {
+                comment_id: 'UgyVFiVIa9k4NR-Ql0l4AaABAg.AGu2uxKPbz2AGu4ZzH6dMi',
+                author_id: 'UCOAfUuOPzeI0_ZG4ple3NWw',
+                author_name: '@samimmondal3893',
+                author_profile_image:
+                    'https://yt3.ggpht.com/u-FeIK4MwE3MntI3m7B6WZ5ddSxsX8XQHIsK1_LN5XBSRmAlAd-vRvwPPFtdQt4hQNcxGxK7_aM=s48-c-k-c0x00ffffff-no-rj',
+                timestamp: '2025-04-29T14:46:04Z',
+                content: 'ㄹㅇㅋㅋ',
+                reactions: {
+                    useful: 20,
+                    agree: 81,
+                    curious: 50,
+                    creative: 80,
+                    disagree: 78,
+                },
+                time_taken_to_write: 1,
+                manipulated: true,
+            },
+        ],
+    },
+    {
+        "comment_id": "UgzBQ4if6fyt4jGuIzt4AaABAg",
+        "author_id": "UCnt8FtX1JuBG_ykcc5IOPGw",
+        "author_name": "@곽두팔-y2l",
+        "author_profile_image": "https://yt3.ggpht.com/AIpnLO-pnQs4D3znY2-Z-rkB37DjsMRc7Ewj_Ae_6tJQw78gS4YIuFlqQIlSi14PauOUsdciIw=s48-c-k-c0x00ffffff-no-rj",
+        "timestamp": "2025-05-12T13:16:56Z",
+        "content": "지나가던 09 고1 입니다 네, 마저 가겠습니다❤",
+        "reactions": {
+            "useful": 96,
+            "agree": 49,
+            "curious": 94,
+            "creative": 2,
+            "disagree": 57
+        },
+        "time_taken_to_write": 986,
+        "tab": [
+            "opinion"
+        ],
+        "cluster": 'cluster_A',
+        "manipulated": false,
+        "reply_ids": [],
+        "replies": []
+    }
+
 ]
