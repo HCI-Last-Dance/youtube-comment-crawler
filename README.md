@@ -2,7 +2,7 @@
 
 ## 설명
 - `comment_crawler.py`: 대댓글 없이, 그냥 댓글만 가져옴
-- `comment_crawler_youtube_api.py`: 댓글, 대댓글 다 가져옴 (YouTube API 사용) <- 이걸 추천!!!
+- `comment_crawler_youtube_api.py`: 댓글, 대댓글 다 가져옴 (YouTube API 사용) <- 이걸로 사용하세요 !!!
     - 이걸 쓰려면 `YOUTUBE_API_KEY` 환경변수 설정 필요 (.env에 넣기, 발급은 google cloud console에서)
 - `divite_tab.py`: 댓글을 tab별로 나누어 저장 (information.json, opinion.json, question.json)
 
@@ -25,3 +25,9 @@
     - `cluster`는 tab이 opinion일 때만 support, oppose 중 하나를 랜덤으로 선택
     - `manipulated`는 90%의 확률로 조작X 필드로 추가, 10%의 확률로 조작O 필드로 추가
 - `divite_tab.py`는 `comments_with_replies` 폴더에 있는 댓글 파일들을 tab별로 나누어 저장함
+
+## 참고
+- 우선 기존의 댓글 분류를 꼼꼼히 하기 위해, 하나의 영상(수능 관련 영상)만을 대상으로 댓글을 가공한 상태입니다.
+- 현재 해당 영상은 fnCY6ysVkAg인데, 이 영상의 댓글들을 바탕으로 manual 하게 탭/클러스터 분류를 하고, 더미 댓글을 추가한 결과를 dummy에 저장해두었습니다.
+- 이 dummy 댓글들이 사용자 UI에 보여지는 댓글들의 기반이 됩니다.
+- `opinion.ts`의 경우, 이 dummy 댓글들 중 의견성 댓글들의 작성 시각이 수정된 것으로, 그래프의 x축이 시간으로 되어있기 때문에, 더 눈에 띄는 그래프를 위해 작성 시각을 임의로 조정한 것입니다.
